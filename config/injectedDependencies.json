@@ -1,0 +1,379 @@
+[
+  {
+    "modId": "TFC-Tweaks",
+    "deps": [
+      {
+        "type": "after",
+        "target": "terrafirmacraft"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Core"
+      },
+      {
+        "type": "before",
+        "target": "IC2"
+      },
+      {
+        "type": "before",
+        "target": "Railcraft"
+      },
+      {
+        "type": "before",
+        "target": "ImmersiveEngineering"
+      },
+      {
+        "type": "before",
+        "target": "ieplants"
+      },
+      {
+        "type": "before",
+        "target": "lwstfc"
+      },
+      {
+        "type": "before",
+        "target": "TerraFirmaPumpkins"
+      },
+      {
+        "type": "before",
+        "target": "terrafirmastuff"
+      },
+      {
+        "type": "before",
+        "target": "tfcm"
+      },
+      {
+        "type": "before",
+        "target": "tfcwells"
+      },
+      {
+        "type": "before",
+        "target": "tfcautomatedbellows"
+      },
+      {
+        "type": "before",
+        "target": "tfccellars"
+      },
+      {
+        "type": "before",
+        "target": "Waila"
+      },
+      {
+        "type": "before",
+        "target": "tfccrops"
+      },
+      {
+        "type": "before",
+        "target": "tfcprimitivetech"
+      },
+      {
+        "type": "before",
+        "target": "weightingscales"
+      },
+      {
+        "type": "before",
+        "target": "BiblioCraft"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Builders"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Energy"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Factory"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Robotics"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Silicon"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Transport"
+      },
+      {
+        "type": "before",
+        "target": "Forestry"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Compat"
+      },
+      {
+        "type": "before",
+        "target": "tfctech"
+      },
+      {
+        "type": "before",
+        "target": "tfcudarymod"
+      },
+      {
+        "type": "before",
+        "target": "Aroma1997CoreHelper"
+      },
+      {
+        "type": "before",
+        "target": "bdlib"
+      },
+      {
+        "type": "before",
+        "target": "bookshelf"
+      },
+      {
+        "type": "before",
+        "target": "betterboat"
+      },
+      {
+        "type": "before",
+        "target": "BiblioWoodsTFC"
+      },
+      {
+        "type": "before",
+        "target": "Baubles"
+      },
+      {
+        "type": "before",
+        "target": "Botania"
+      },
+      {
+        "type": "before",
+        "target": "ForgeMultipart"
+      },
+      {
+        "type": "before",
+        "target": "chisel"
+      },
+      {
+        "type": "before",
+        "target": "CarpentersBlocks"
+      },
+      {
+        "type": "before",
+        "target": "cookingwithtfc"
+      },
+      {
+        "type": "before",
+        "target": "creativecore"
+      },
+      {
+        "type": "before",
+        "target": "CustomChestLoot"
+      },
+      {
+        "type": "before",
+        "target": "customitems"
+      },
+      {
+        "type": "before",
+        "target": "CustomMainMenu"
+      },
+      {
+        "type": "before",
+        "target": "endercore"
+      },
+      {
+        "type": "before",
+        "target": "enhancedportals"
+      },
+      {
+        "type": "before",
+        "target": "ExtraUtilities"
+      },
+      {
+        "type": "before",
+        "target": "MineTweaker3"
+      },
+      {
+        "type": "before",
+        "target": "FTBL"
+      },
+      {
+        "type": "before",
+        "target": "FTBU"
+      },
+      {
+        "type": "before",
+        "target": "gendustry"
+      },
+      {
+        "type": "before",
+        "target": "advgenerators"
+      },
+      {
+        "type": "before",
+        "target": "GraviSuite"
+      },
+      {
+        "type": "before",
+        "target": "GraviSuiteReloaded"
+      },
+      {
+        "type": "before",
+        "target": "HardcoreDarkness"
+      },
+      {
+        "type": "before",
+        "target": "Ic2Nei"
+      },
+      {
+        "type": "before",
+        "target": "IC2NuclearControl"
+      },
+      {
+        "type": "before",
+        "target": "iChunUtil"
+      },
+      {
+        "type": "before",
+        "target": "IGWMod"
+      },
+      {
+        "type": "before",
+        "target": "immersiveintegration"
+      },
+      {
+        "type": "before",
+        "target": "inpure|core"
+      },
+      {
+        "type": "before",
+        "target": "inventorytweaks"
+      },
+      {
+        "type": "before",
+        "target": "journeymap"
+      },
+      {
+        "type": "before",
+        "target": "malisiscore"
+      },
+      {
+        "type": "before",
+        "target": "MTRM"
+      },
+      {
+        "type": "before",
+        "target": "modtweaker2"
+      },
+      {
+        "type": "before",
+        "target": "MouseTweaks"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons|Developer"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons|AppEng"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons|Botany"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons|Forestry"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons|CraftingTables"
+      },
+      {
+        "type": "before",
+        "target": "NEIAddons|ExNihilo"
+      },
+      {
+        "type": "before",
+        "target": "neiintegration"
+      },
+      {
+        "type": "before",
+        "target": "nmsot"
+      },
+      {
+        "type": "before",
+        "target": "numina"
+      },
+      {
+        "type": "before",
+        "target": "OpenMods"
+      },
+      {
+        "type": "before",
+        "target": "OpenBlocks"
+      },
+      {
+        "type": "before",
+        "target": "ResourceLoader"
+      },
+      {
+        "type": "before",
+        "target": "soundfilters"
+      },
+      {
+        "type": "before",
+        "target": "stepup"
+      },
+      {
+        "type": "before",
+        "target": "TerraFirmaCraftNEIplugin"
+      },
+      {
+        "type": "before",
+        "target": "tfcengineer"
+      },
+      {
+        "type": "before",
+        "target": "tfcrailcraft"
+      },
+      {
+        "type": "before",
+        "target": "TFCTweaker"
+      },
+      {
+        "type": "before",
+        "target": "TooMuchTime"
+      },
+      {
+        "type": "before",
+        "target": "universalcoins"
+      },
+      {
+        "type": "before",
+        "target": "wailaplugins"
+      },
+      {
+        "type": "before",
+        "target": "worldedit"
+      },
+      {
+        "type": "before",
+        "target": "bspkrsCore"
+      },
+      {
+        "type": "before",
+        "target": "ForgeMicroblock"
+      },
+      {
+        "type": "before",
+        "target": "McMultipart"
+      },
+      {
+        "type": "before",
+        "target": "MrTJPCoreMod"
+      }
+    ]
+  }
+]
