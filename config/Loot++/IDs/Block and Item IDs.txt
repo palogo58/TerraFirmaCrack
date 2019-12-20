@@ -2234,6 +2234,9 @@ cookingwithtfc:tableStorage - 1334
 cookingwithtfc:woodHorizEW - 1341
 cookingwithtfc:woodHorizNS - 1340
 cookingwithtfc:woodPlank - 1345
+customitems:botanicalbrick - 1635
+customitems:denseredstone - 1634
+customitems:woodenblade - 6581
 enhancedportals:blank_portal_module - 6142
 enhancedportals:blank_upgrade - 6143
 enhancedportals:dbs - 1357

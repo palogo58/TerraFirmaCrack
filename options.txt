@@ -96,12 +96,15 @@ key_Gravi Fly Key:33
 key_Gravi Display Hud:35
 key_igwmod.keys.wiki:23
 key_Toggle StepUp:36
+key_Baubles Inventory:48
+key_Change Wand Focus:33
+key_Activate Hover Harness:35
+key_Misc Wand Toggle:34
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
-key_Baubles Inventory:48
 key_invtweaks.key.sort:19
 key_Toggle Numina FOV fix :0
 key_WorldEdit Reference:38

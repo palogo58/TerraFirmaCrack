@@ -2,3 +2,13 @@ ERROR: system: Crop is already defined in that package
 INFO: MineTweaker: Building registry
 INFO: MineTweaker: Sucessfully built item registry
 INFO: Adding minetweaker command mfr
+INFO: Removing minetweaker command mfr
+INFO: Adding minetweaker command mfr
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Adding recipe for denseRedStone
+INFO: Adding recipe for woodenblade
+INFO: Adding recipe for Windmill Blade
+INFO: Adding recipe for Windmill Blade
+INFO: Adding recipe for Windmill
