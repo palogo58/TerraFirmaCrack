@@ -1,0 +1,260 @@
+## Entity IDs ##
+Arrow
+Bat
+BiblioCraft.SeatEntity
+Blaze
+Boat
+Botania.botania:babylonWeapon
+Botania.botania:corporeaSpark
+Botania.botania:doppleganger
+Botania.botania:enderAirBottle
+Botania.botania:fallingStar
+Botania.botania:flameRing
+Botania.botania:magicLandmine
+Botania.botania:magicMissile
+Botania.botania:manaBurst
+Botania.botania:manaStorm
+Botania.botania:pinkWither
+Botania.botania:pixie
+Botania.botania:playerMover
+Botania.botania:poolMinecart
+Botania.botania:signalFlare
+Botania.botania:spark
+Botania.botania:thornChakram
+Botania.botania:thrownItem
+Botania.botania:vineBall
+BuildCraft|Robotics.bcRobot
+BuildCraft|Silicon.bcPackageThrowable
+CarpentersBlocks.CarpentersTile
+CaveSpider
+Chicken
+Cow
+Creeper
+EnderCrystal
+EnderDragon
+Enderman
+EntityHorse
+EyeOfEnderSignal
+FallingSand
+Fireball
+FireworksRocketEntity
+Forestry.butterflyGE
+Forestry.cart.apiary
+Forestry.cart.beehouse
+Ghast
+Giant
+GraviSuite.PlasmaBall
+IC2.BoatCarbon
+IC2.BoatElectric
+IC2.BoatRubber
+IC2.Dynamite
+IC2.Itnt
+IC2.MiningLaser
+IC2.Nuke
+IC2.Particle
+IC2.StickyDynamite
+ImmersiveEngineering.chemthrowerShot
+ImmersiveEngineering.railgunShot
+ImmersiveEngineering.revolverShot
+ImmersiveEngineering.revolverShotHoming
+ImmersiveEngineering.revolverShotWolfpack
+ImmersiveEngineering.skylineCrate
+ImmersiveEngineering.skylineHook
+Item
+ItemFrame
+LavaSlime
+LeashKnot
+MinecartChest
+MinecartCommandBlock
+MinecartFurnace
+MinecartHopper
+MinecartRideable
+MinecartSpawner
+MinecartTNT
+Mob
+Monster
+MushroomCow
+OpenBlocks.Cartographer
+OpenBlocks.EntityItemProjectile
+OpenBlocks.GoldenEye
+OpenBlocks.Hang Glider
+OpenBlocks.Luggage
+OpenBlocks.Magnet
+OpenBlocks.MiniMe
+OpenBlocks.MountedBlock
+OpenBlocks.Player-Magnet
+OpenBlocks.XPOrbNoFly
+OpenMods.Block
+Ozelot
+Painting
+Pig
+PigZombie
+PrimedTnt
+Railcraft.ItemFireproof
+Railcraft.ItemFirestone
+Railcraft.cart.anchor
+Railcraft.cart.anchor.admin
+Railcraft.cart.anchor.personal
+Railcraft.cart.basic
+Railcraft.cart.bore
+Railcraft.cart.cargo
+Railcraft.cart.chest
+Railcraft.cart.command.block
+Railcraft.cart.energy.batbox
+Railcraft.cart.energy.cesu
+Railcraft.cart.energy.mfe
+Railcraft.cart.furnace
+Railcraft.cart.gift
+Railcraft.cart.loco.creative
+Railcraft.cart.loco.electric
+Railcraft.cart.loco.steam.solid
+Railcraft.cart.pumpkin
+Railcraft.cart.redstone.flux
+Railcraft.cart.tank
+Railcraft.cart.tnt
+Railcraft.cart.tnt.wood
+Railcraft.cart.track.layer
+Railcraft.cart.track.relayer
+Railcraft.cart.track.remover
+Railcraft.cart.undercutter
+Railcraft.cart.work
+Railcraft.railcraft.cart.anchor
+Railcraft.railcraft.cart.anchor.admin
+Railcraft.railcraft.cart.anchor.personal
+Railcraft.railcraft.cart.basic
+Railcraft.railcraft.cart.bore
+Railcraft.railcraft.cart.cargo
+Railcraft.railcraft.cart.chest
+Railcraft.railcraft.cart.command.block
+Railcraft.railcraft.cart.energy.batbox
+Railcraft.railcraft.cart.energy.cesu
+Railcraft.railcraft.cart.energy.mfe
+Railcraft.railcraft.cart.furnace
+Railcraft.railcraft.cart.gift
+Railcraft.railcraft.cart.hopper
+Railcraft.railcraft.cart.loco.creative
+Railcraft.railcraft.cart.loco.electric
+Railcraft.railcraft.cart.loco.steam
+Railcraft.railcraft.cart.loco.steam.solid
+Railcraft.railcraft.cart.pumpkin
+Railcraft.railcraft.cart.redstone.flux
+Railcraft.railcraft.cart.tank
+Railcraft.railcraft.cart.tnt
+Railcraft.railcraft.cart.tnt.wood
+Railcraft.railcraft.cart.track.layer
+Railcraft.railcraft.cart.track.relayer
+Railcraft.railcraft.cart.track.remover
+Railcraft.railcraft.cart.undercutter
+Railcraft.railcraft.cart.work
+Sheep
+Silverfish
+Skeleton
+Slime
+SlingshotStone
+SmallFireball
+SnowMan
+Snowball
+Spider
+Squid
+ThrownEnderpearl
+ThrownExpBottle
+ThrownPotion
+Villager
+VillagerGolem
+Witch
+WitherBoss
+WitherSkull
+Wolf
+XPOrb
+Zombie
+arrowTFC
+barrel
+bearTFC
+betterboat.betterBoat
+blazeTFC
+caveSpiderTFC
+chickenTFC
+chisel.BallOMoss
+chisel.CloudInABottle
+chisel.SmashingRock
+chisel.snowman
+cowTFC
+creativecore.Sit
+creeperTFC
+deerTFC
+endermanTFC
+fallingBlock
+fishTFC
+ghastTFC
+horseTFC
+irongolemTFC
+lootplusplus.Label
+lootplusplus.ThrownItem
+minecartTFC
+pheasantTFC
+pigTFC
+pigZombieTFC
+sheepTFC
+silverfishTFC
+skeletonTFC
+slimeTFC
+spiderTFC
+squidTFC
+standTFC
+terrafirmacraft.javelin
+tfcprimitivetech.itemHardStone
+tfcprimitivetech.itemSharpStone
+tfcprimitivetech.itemSoftStone
+wolfTFC
+woodenMinecartChest
+zombieTFC
+## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
+3 - squidTFC
+4 - fishTFC
+5 - cowTFC
+6 - wolfTFC
+7 - bearTFC
+23 - chickenTFC
+24 - pigTFC
+25 - deerTFC
+26 - skeletonTFC
+27 - zombieTFC
+28 - spiderTFC
+29 - slimeTFC
+30 - silverfishTFC
+31 - ghastTFC
+32 - caveSpiderTFC
+33 - blazeTFC
+34 - endermanTFC
+35 - pigZombieTFC
+36 - irongolemTFC
+37 - creeperTFC
+38 - sheepTFC
+39 - pheasantTFC
+50 - Creeper
+51 - Skeleton
+52 - Spider
+54 - Zombie
+55 - Slime
+56 - Ghast
+57 - PigZombie
+58 - Enderman
+59 - CaveSpider
+60 - Silverfish
+61 - Blaze
+62 - LavaSlime
+65 - Bat
+66 - Witch
+67 - horseTFC
+90 - Pig
+91 - Sheep
+92 - Cow
+93 - Chicken
+94 - Squid
+95 - Wolf
+96 - MushroomCow
+97 - SnowMan
+98 - Ozelot
+99 - VillagerGolem
+100 - EntityHorse
+120 - Villager

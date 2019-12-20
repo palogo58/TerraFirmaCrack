@@ -1,0 +1,1173 @@
+## Foods and Drinks (Note it's still a bit WIP)                ##
+#################################################################
+## In the form:                                                ##
+## <effect id>                                                 ##
+##    - Metadata: <item metadata>                              ##
+##    - Food or Drink? <Food or Drink (or Unknown)>            ##
+##    - Food Amount: <Number of food points restored>          ##
+##    - Saturation Amount: <Number of saturation points given> ##
+################################################################
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:infiniteFruit
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+Botania:manaBottle
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:manaCookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 0
+	- Saturation Amount: 0.1
+
+
+Forestry:ambrosia
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 8
+	- Saturation Amount: 0.6
+
+
+Forestry:beverage
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:canHoney
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Forestry:canJuice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Forestry:fruits
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:honeyPot
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 2
+	- Saturation Amount: 0.2
+
+
+Forestry:honeyedSlice
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.6
+
+
+Forestry:refractoryHoney
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Forestry:refractoryJuice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Forestry:waxCapsuleHoney
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Forestry:waxCapsuleJuice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+IC2:itemMugBooze
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+IC2:itemMugCoffee
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+IC2:itemTerraWart
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 0
+	- Saturation Amount: 1.0
+
+
+OpenBlocks:tastyClay
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+TerraFirmaPumpkins:item.Cooked Pumpkin
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+TerraFirmaPumpkins:item.Melon
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+TerraFirmaPumpkins:item.Raw Mushroom.mushroom_brown
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+TerraFirmaPumpkins:item.Raw Mushroom.mushroom_red
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+TerraFirmaPumpkins:item.Raw Pumpkin
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Acorn
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Almond
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.BeefStew
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.BoiledBeef
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.BoiledChicken
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.BoiledFish
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.BoiledPork
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.BoiledVenison
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Broth
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.BrownMushroom
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Cashew
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Celery
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Chestnut
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.ChickenSandwich
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.ChickenSoup
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Coconut
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.FishChowder
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.FriedEggSandwich
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.FruitSalad
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.HamSandwich
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Hazelnut
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Lettuce
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Macadamia Nut
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.MuttonSandwich
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Peanut
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Pecan
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.PineNut
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Pistachio
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.PotatoSalad
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.RedMushroom
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.RoastBeefSandwich
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.SalmonSandwich
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Salt
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.SlicedWatermelon
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.ToastSandwich
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.TomatoSoup
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.VegetableSoup
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.VegetarianSandwich
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.VeggySalad
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.VenisonSteakSandwich
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.VenisonStew
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+cookingwithtfc:item.Walnut
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+lwstfc:item.LeatherWaterSac
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.3
+
+
+minecraft:baked_potato
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+minecraft:beef
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+minecraft:bread
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
+minecraft:carrot
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.6
+
+
+minecraft:chicken
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+minecraft:cooked_beef
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+minecraft:cooked_chicken
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+minecraft:cooked_fished
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
+minecraft:cooked_porkchop
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+minecraft:cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:golden_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+minecraft:golden_carrot
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 1.2
+
+
+minecraft:melon
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+minecraft:milk_bucket
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:mushroom_stew
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+minecraft:poisonous_potato
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+minecraft:porkchop
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+minecraft:potato
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+minecraft:potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:pumpkin_pie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.3
+
+
+minecraft:rotten_flesh
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.1
+
+
+minecraft:spider_eye
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.8
+
+
+terrafirmacraft:item.Banana
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Barley Bread
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Barley Dough
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Barley Grain
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Barley Ground
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Barley Whole
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Beef
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Beer
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Blackberry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Blueberry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Bunchberry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Cabbage
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Calamari
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Carrot
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Cheese
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Cherry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Chicken
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Cider
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Cloudberry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Corn Bread
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.CornWhiskey
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Cornmeal Dough
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Cornmeal Ground
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Cranberry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Egg Cooked
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Elderberry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Fish
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Garlic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Gooseberry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Green Apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Green Bell Pepper
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Greenbeans
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.HorseMeat
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Jug
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Lemon
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Maize Ear
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Mutton
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Oat Bread
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Oat Dough
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Oat Grain
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Oat Ground
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Oat Whole
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Olive
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Onion
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Orange
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Peach
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Plum
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Porkchop
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Potato
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Raspberry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Red Apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Red Bell Pepper
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Rice Bread
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Rice Dough
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Rice Grain
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Rice Ground
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Rice Whole
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Rum
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Rye Bread
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Rye Dough
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Rye Grain
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Rye Ground
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Rye Whole
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.RyeWhiskey
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Sake
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Salad
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Sandwich
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Sea Weed
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Snowberry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Soybeans
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Squash
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Strawberry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Sugar
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Sugarcane
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Tomato
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Venison
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Vodka
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Wheat Bread
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Wheat Dough
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Wheat Grain
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Wheat Ground
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Wheat Whole
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Whiskey
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Wintergreen Berry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Wooden Bucket Milk
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.Yellow Bell Pepper
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraft:item.egg
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+tfcengineer:item.Lunchbox
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+tfcm:item.BottleFruitJuice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+tfcm:item.BottleFruitWine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+tfcm:item.BottleJuiceApple
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+tfcm:item.BottleJuiceLemon
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+tfcm:item.BottleJuiceOrange
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+tfcm:item.BottleLemonade
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+tfcm:item.BottleSoyMilk
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+tfcm:item.SoyPaste
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+tfcudarymod:item.Bottled Water
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+

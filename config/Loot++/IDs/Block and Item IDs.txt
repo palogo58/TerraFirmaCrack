@@ -1,0 +1,3784 @@
+## Item and Block IDs: in the form <string id> - <number id> ##
+Aroma1997Core:wrench - 4096
+Aroma1997Core:wrenched - 4097
+Baubles:Ring - 5920
+BiblioCraft:Armor Stand - 675
+BiblioCraft:BiblioBell - 665
+BiblioCraft:BiblioBorderlessPainting - 660
+BiblioCraft:BiblioCase - 671
+BiblioCraft:BiblioClipboard - 653
+BiblioCraft:BiblioClock - 655
+BiblioCraft:BiblioDesk - 673
+BiblioCraft:BiblioFancyPainting - 659
+BiblioCraft:BiblioFancySign - 663
+BiblioCraft:BiblioFlatPainting - 656
+BiblioCraft:BiblioIronLamp - 681
+BiblioCraft:BiblioIronLantern - 679
+BiblioCraft:BiblioLabel - 672
+BiblioCraft:BiblioLamp - 680
+BiblioCraft:BiblioLantern - 678
+BiblioCraft:BiblioMapFrames - 683
+BiblioCraft:BiblioMiddlePainting - 658
+BiblioCraft:BiblioPaintPress - 661
+BiblioCraft:BiblioPaneler - 652
+BiblioCraft:BiblioPotionShelf - 668
+BiblioCraft:BiblioRack - 670
+BiblioCraft:BiblioSeats - 684
+BiblioCraft:BiblioShelf - 669
+BiblioCraft:BiblioSimplePainting - 657
+BiblioCraft:BiblioStuffs - 682
+BiblioCraft:BiblioSwordPedestal - 662
+BiblioCraft:BiblioTable - 674
+BiblioCraft:BiblioTypewriter - 654
+BiblioCraft:BiblioWorkbench - 664
+BiblioCraft:Bibliotheca - 666
+BiblioCraft:BookcaseFilled - 667
+BiblioCraft:Printing Press - 677
+BiblioCraft:Typesetting Machine - 676
+BiblioCraft:item.AtlasBook - 5311
+BiblioCraft:item.AtlasPlate - 5312
+BiblioCraft:item.BiblioChase - 5321
+BiblioCraft:item.BiblioClipboard - 5328
+BiblioCraft:item.BiblioCreativeLock - 5327
+BiblioCraft:item.BiblioDrill - 5326
+BiblioCraft:item.BiblioGlasses - 5325
+BiblioCraft:item.BiblioMapTool - 5334
+BiblioCraft:item.BiblioRedBook - 5324
+BiblioCraft:item.BiblioWayPointCompass - 5335
+BiblioCraft:item.BigBook - 5315
+BiblioCraft:item.DeathCompass - 5313
+BiblioCraft:item.EnchantedPlate - 5323
+BiblioCraft:item.FramingBoard - 5308
+BiblioCraft:item.FramingSaw - 5307
+BiblioCraft:item.FramingSheet - 5309
+BiblioCraft:item.HandDrill - 5318
+BiblioCraft:item.PaintingCanvas - 5314
+BiblioCraft:item.PlumbLine - 5306
+BiblioCraft:item.PrintPlate - 5322
+BiblioCraft:item.RecipeBook - 5316
+BiblioCraft:item.SlottedBook - 5317
+BiblioCraft:item.StockroomCatalog - 5305
+BiblioCraft:item.TesterItem - 5310
+BiblioCraft:item.seatBack - 5329
+BiblioCraft:item.seatBack2 - 5330
+BiblioCraft:item.seatBack3 - 5331
+BiblioCraft:item.seatBack4 - 5332
+BiblioCraft:item.seatBack5 - 5333
+BiblioCraft:item.tape - 5320
+BiblioCraft:item.tapeMeasure - 5319
+BiblioCraft:tile.BiblioFramedChest - 651
+BiblioWoodsTFC:BiblioBismuthBronzeLamp - 782
+BiblioWoodsTFC:BiblioBismuthBronzeLantern - 775
+BiblioWoodsTFC:BiblioBlackBronzeLamp - 781
+BiblioWoodsTFC:BiblioBlackBronzeLantern - 774
+BiblioWoodsTFC:BiblioBlackSteelLamp - 783
+BiblioWoodsTFC:BiblioBlackSteelLantern - 776
+BiblioWoodsTFC:BiblioBlueSteelLamp - 784
+BiblioWoodsTFC:BiblioBlueSteelLantern - 777
+BiblioWoodsTFC:BiblioBrassLamp - 779
+BiblioWoodsTFC:BiblioBrassLantern - 772
+BiblioWoodsTFC:BiblioBronzeLamp - 780
+BiblioWoodsTFC:BiblioBronzeLantern - 773
+BiblioWoodsTFC:BiblioRedSteelLamp - 785
+BiblioWoodsTFC:BiblioRedSteelLantern - 778
+BiblioWoodsTFC:BiblioWoodBookcase - 786
+BiblioWoodsTFC:BiblioWoodClock - 799
+BiblioWoodsTFC:BiblioWoodFancySign - 796
+BiblioWoodsTFC:BiblioWoodFancyWorkbench - 797
+BiblioWoodsTFC:BiblioWoodMapFrame - 795
+BiblioWoodsTFC:BiblioWoodPaintingT0 - 800
+BiblioWoodsTFC:BiblioWoodPaintingT1 - 801
+BiblioWoodsTFC:BiblioWoodPaintingT2 - 802
+BiblioWoodsTFC:BiblioWoodPaintingT3 - 803
+BiblioWoodsTFC:BiblioWoodPaintingT4 - 804
+BiblioWoodsTFC:BiblioWoodPaneler - 798
+BiblioWoodsTFC:BiblioWoodSeat - 794
+BiblioWoodsTFC:BiblioWoodcase - 790
+BiblioWoodsTFC:BiblioWooddesk - 792
+BiblioWoodsTFC:BiblioWoodlabel - 791
+BiblioWoodsTFC:BiblioWoodpotshelf - 787
+BiblioWoodsTFC:BiblioWoodrack - 789
+BiblioWoodsTFC:BiblioWoodshelf - 788
+BiblioWoodsTFC:BiblioWoodtable - 793
+BiblioWoodsTFC:item.BiblioTFCItems - 5914
+BiblioWoodsTFC:seatBack1 - 5915
+BiblioWoodsTFC:seatBack2 - 5916
+BiblioWoodsTFC:seatBack3 - 5917
+BiblioWoodsTFC:seatBack4 - 5918
+BiblioWoodsTFC:seatBack5 - 5919
+Botania:aesirRing - 6042
+Botania:alchemyCatalyst - 823
+Botania:alfheimPortal - 830
+Botania:altGrass - 894
+Botania:altar - 806
+Botania:ancientWill - 6026
+Botania:auraRing - 5957
+Botania:auraRingGreater - 5959
+Botania:autocraftingHalo - 6063
+Botania:avatar - 893
+Botania:baubleBox - 6067
+Botania:bellows - 884
+Botania:bifrost - 833
+Botania:bifrostPerm - 885
+Botania:bifrostPermPane - 979
+Botania:biomeStoneA - 915
+Botania:biomeStoneA0Slab - 1034
+Botania:biomeStoneA0SlabFull - 1035
+Botania:biomeStoneA0Stairs - 933
+Botania:biomeStoneA0Wall - 957
+Botania:biomeStoneA10Slab - 1054
+Botania:biomeStoneA10SlabFull - 1055
+Botania:biomeStoneA10Stairs - 943
+Botania:biomeStoneA11Slab - 1056
+Botania:biomeStoneA11SlabFull - 1057
+Botania:biomeStoneA11Stairs - 944
+Botania:biomeStoneA12Slab - 1058
+Botania:biomeStoneA12SlabFull - 1059
+Botania:biomeStoneA12Stairs - 945
+Botania:biomeStoneA13Slab - 1060
+Botania:biomeStoneA13SlabFull - 1061
+Botania:biomeStoneA13Stairs - 946
+Botania:biomeStoneA14Slab - 1062
+Botania:biomeStoneA14SlabFull - 1063
+Botania:biomeStoneA14Stairs - 947
+Botania:biomeStoneA15Slab - 1064
+Botania:biomeStoneA15SlabFull - 1065
+Botania:biomeStoneA15Stairs - 948
+Botania:biomeStoneA1Slab - 1036
+Botania:biomeStoneA1SlabFull - 1037
+Botania:biomeStoneA1Stairs - 934
+Botania:biomeStoneA2Slab - 1038
+Botania:biomeStoneA2SlabFull - 1039
+Botania:biomeStoneA2Stairs - 935
+Botania:biomeStoneA3Slab - 1040
+Botania:biomeStoneA3SlabFull - 1041
+Botania:biomeStoneA3Stairs - 936
+Botania:biomeStoneA4Slab - 1042
+Botania:biomeStoneA4SlabFull - 1043
+Botania:biomeStoneA4Stairs - 937
+Botania:biomeStoneA5Slab - 1044
+Botania:biomeStoneA5SlabFull - 1045
+Botania:biomeStoneA5Stairs - 938
+Botania:biomeStoneA6Slab - 1046
+Botania:biomeStoneA6SlabFull - 1047
+Botania:biomeStoneA6Stairs - 939
+Botania:biomeStoneA7Slab - 1048
+Botania:biomeStoneA7SlabFull - 1049
+Botania:biomeStoneA7Stairs - 940
+Botania:biomeStoneA8Slab - 1050
+Botania:biomeStoneA8SlabFull - 1051
+Botania:biomeStoneA8Stairs - 941
+Botania:biomeStoneA9Slab - 1052
+Botania:biomeStoneA9SlabFull - 1053
+Botania:biomeStoneA9Stairs - 942
+Botania:biomeStoneB - 916
+Botania:biomeStoneB0Slab - 1066
+Botania:biomeStoneB0SlabFull - 1067
+Botania:biomeStoneB0Stairs - 949
+Botania:biomeStoneB1Slab - 1068
+Botania:biomeStoneB1SlabFull - 1069
+Botania:biomeStoneB1Stairs - 950
+Botania:biomeStoneB2Slab - 1070
+Botania:biomeStoneB2SlabFull - 1071
+Botania:biomeStoneB2Stairs - 951
+Botania:biomeStoneB3Slab - 1072
+Botania:biomeStoneB3SlabFull - 1073
+Botania:biomeStoneB3Stairs - 952
+Botania:biomeStoneB4Slab - 1074
+Botania:biomeStoneB4SlabFull - 1075
+Botania:biomeStoneB4Stairs - 953
+Botania:biomeStoneB5Slab - 1076
+Botania:biomeStoneB5SlabFull - 1077
+Botania:biomeStoneB5Stairs - 954
+Botania:biomeStoneB6Slab - 1078
+Botania:biomeStoneB6SlabFull - 1079
+Botania:biomeStoneB6Stairs - 955
+Botania:biomeStoneB7Slab - 1080
+Botania:biomeStoneB7SlabFull - 1081
+Botania:biomeStoneB7Stairs - 956
+Botania:blackHoleTalisman - 6045
+Botania:blackLotus - 6016
+Botania:blazeBlock - 870
+Botania:bloodPendant - 6011
+Botania:brewFlask - 6010
+Botania:brewVial - 6009
+Botania:brewery - 848
+Botania:buriedPetals - 835
+Botania:cacophonium - 6053
+Botania:cacophoniumBlock - 883
+Botania:cellBlock - 886
+Botania:clip - 6018
+Botania:cobbleRod - 6019
+Botania:cocoon - 879
+Botania:conjurationCatalyst - 832
+Botania:corporeaCrystalCube - 872
+Botania:corporeaFunnel - 863
+Botania:corporeaIndex - 862
+Botania:corporeaInterceptor - 871
+Botania:corporeaRetainer - 889
+Botania:corporeaSpark - 6027
+Botania:cosmetic - 6030
+Botania:craftPattern - 6025
+Botania:craftingHalo - 6015
+Botania:crystalBow - 6029
+Botania:customBrick - 843
+Botania:customBrick0Slab - 1016
+Botania:customBrick0SlabFull - 1017
+Botania:customBrick0Stairs - 911
+Botania:customBrick1Slab - 1018
+Botania:customBrick1SlabFull - 1019
+Botania:customBrick1Stairs - 912
+Botania:customBrick2Slab - 1020
+Botania:customBrick2SlabFull - 1021
+Botania:customBrick2Stairs - 913
+Botania:customBrick3Slab - 1022
+Botania:customBrick3SlabFull - 1023
+Botania:customBrick3Stairs - 914
+Botania:dice - 6043
+Botania:dirtPath - 859
+Botania:dirtPath0Slab - 1024
+Botania:dirtPath0SlabFull - 1025
+Botania:dirtRod - 5935
+Botania:distributor - 816
+Botania:divaCharm - 5969
+Botania:diviningRod - 6004
+Botania:doubleFlower1 - 867
+Botania:doubleFlower2 - 868
+Botania:dreamwood - 831
+Botania:dreamwood0Slab - 1002
+Botania:dreamwood0SlabFull - 1003
+Botania:dreamwood0Stairs - 901
+Botania:dreamwood0Wall - 902
+Botania:dreamwood1Slab - 1004
+Botania:dreamwood1SlabFull - 1005
+Botania:dreamwood1Stairs - 903
+Botania:dye - 5923
+Botania:elementiumAxe - 5981
+Botania:elementiumBoots - 5978
+Botania:elementiumChest - 5976
+Botania:elementiumHelm - 5974
+Botania:elementiumHelmReveal - 5975
+Botania:elementiumLegs - 5977
+Botania:elementiumPick - 5979
+Botania:elementiumShears - 5983
+Botania:elementiumShovel - 5980
+Botania:elementiumSword - 5982
+Botania:elfGlass - 847
+Botania:elfGlassPane - 978
+Botania:enchantedSoil - 860
+Botania:enchanter - 820
+Botania:endStoneBrick - 864
+Botania:endStoneBrick0Slab - 1026
+Botania:endStoneBrick0SlabFull - 1027
+Botania:endStoneBrick0Stairs - 973
+Botania:endStoneBrick2Slab - 1028
+Botania:endStoneBrick2SlabFull - 1029
+Botania:endStoneBrick2Stairs - 974
+Botania:enderDagger - 5971
+Botania:enderEyeBlock - 844
+Botania:enderHand - 6000
+Botania:exchangeRod - 6056
+Botania:fakeAir - 869
+Botania:felPumpkin - 878
+Botania:fertilizer - 5933
+Botania:fireRod - 5990
+Botania:flightTiara - 5970
+Botania:floatingSpecialFlower - 856
+Botania:flower - 805
+Botania:flowerBag - 6032
+Botania:flugelEye - 6038
+Botania:forestDrum - 827
+Botania:forestEye - 825
+Botania:gaiaHead - 6064
+Botania:gaiaHeadBlock - 888
+Botania:ghostRail - 875
+Botania:glassPick - 6001
+Botania:goldenLaurel - 5964
+Botania:grassHorn - 5937
+Botania:grassSeeds - 5934
+Botania:gravityRod - 6005
+Botania:holyCloak - 6013
+Botania:hourglass - 874
+Botania:icePendant - 5962
+Botania:incensePlate - 873
+Botania:incenseStick - 6049
+Botania:infiniteFruit - 6036
+Botania:itemFinder - 5998
+Botania:keepIvy - 6044
+Botania:kingKey - 6037
+Botania:knockbackBelt - 5961
+Botania:laputaShard - 5994
+Botania:lavaPendant - 5963
+Botania:lens - 5927
+Botania:lexicon - 5921
+Botania:lightLauncher - 881
+Botania:lightRelay - 880
+Botania:livingrock - 807
+Botania:livingrock0Slab - 998
+Botania:livingrock0SlabFull - 999
+Botania:livingrock0Stairs - 898
+Botania:livingrock0Wall - 899
+Botania:livingrock1Slab - 1000
+Botania:livingrock1SlabFull - 1001
+Botania:livingrock1Stairs - 900
+Botania:livingwood - 808
+Botania:livingwood0Slab - 994
+Botania:livingwood0SlabFull - 995
+Botania:livingwood0Stairs - 895
+Botania:livingwood0Wall - 896
+Botania:livingwood1Slab - 996
+Botania:livingwood1SlabFull - 997
+Botania:livingwood1Stairs - 897
+Botania:livingwoodBow - 6028
+Botania:lokiRing - 6041
+Botania:magnetRing - 5965
+Botania:magnetRingGreater - 6057
+Botania:manaBeacon - 817
+Botania:manaBomb - 882
+Botania:manaBottle - 5993
+Botania:manaCookie - 5932
+Botania:manaDetector - 819
+Botania:manaFlame - 857
+Botania:manaGlass - 849
+Botania:manaGlassPane - 977
+Botania:manaGun - 5931
+Botania:manaInkwell - 6007
+Botania:manaMirror - 5938
+Botania:manaResource - 5926
+Botania:manaRing - 5956
+Botania:manaRingGreater - 5958
+Botania:manaTablet - 5930
+Botania:manaVoid - 818
+Botania:manasteelAxe - 5946
+Botania:manasteelBoots - 5943
+Botania:manasteelChest - 5941
+Botania:manasteelHelm - 5939
+Botania:manasteelHelmReveal - 5940
+Botania:manasteelLegs - 5942
+Botania:manasteelPick - 5944
+Botania:manasteelShears - 5948
+Botania:manasteelShovel - 5945
+Botania:manasteelSword - 5947
+Botania:manaweaveBoots - 6062
+Botania:manaweaveChest - 6061
+Botania:manaweaveHelm - 6059
+Botania:manaweaveLegs - 6060
+Botania:miniIsland - 838
+Botania:miningRing - 5967
+Botania:missileRod - 6012
+Botania:monocle - 6017
+Botania:mushroom - 865
+Botania:obedienceStick - 6052
+Botania:odinRing - 6040
+Botania:openBucket - 5984
+Botania:openCrate - 824
+Botania:overgrowthSeed - 6024
+Botania:pavement - 918
+Botania:pavement0Slab - 1098
+Botania:pavement0SlabFull - 1099
+Botania:pavement0Stairs - 967
+Botania:pavement1Slab - 1100
+Botania:pavement1SlabFull - 1101
+Botania:pavement1Stairs - 968
+Botania:pavement2Slab - 1102
+Botania:pavement2SlabFull - 1103
+Botania:pavement2Stairs - 969
+Botania:pavement3Slab - 1104
+Botania:pavement3SlabFull - 1105
+Botania:pavement3Stairs - 970
+Botania:pavement4Slab - 1106
+Botania:pavement4SlabFull - 1107
+Botania:pavement4Stairs - 971
+Botania:pavement5Slab - 1108
+Botania:pavement5SlabFull - 1109
+Botania:pavement5Stairs - 972
+Botania:pestleAndMortar - 5924
+Botania:petal - 5922
+Botania:petalBlock - 861
+Botania:phantomInk - 6033
+Botania:pinkinator - 6035
+Botania:pistonRelay - 815
+Botania:pixieRing - 5986
+Botania:platform - 829
+Botania:pool - 811
+Botania:poolMinecart - 6034
+Botania:prism - 858
+Botania:prismarine - 836
+Botania:prismarine0Slab - 1010
+Botania:prismarine0SlabFull - 1011
+Botania:prismarine0Stairs - 904
+Botania:prismarine0Wall - 905
+Botania:prismarine1Slab - 1012
+Botania:prismarine1SlabFull - 1013
+Botania:prismarine1Stairs - 906
+Botania:prismarine2Slab - 1014
+Botania:prismarine2SlabFull - 1015
+Botania:prismarine2Stairs - 907
+Botania:pump - 866
+Botania:pylon - 814
+Botania:quartz - 5972
+Botania:quartzSlabBlazeFull - 985
+Botania:quartzSlabBlazeHalf - 984
+Botania:quartzSlabDarkFull - 981
+Botania:quartzSlabDarkHalf - 980
+Botania:quartzSlabElfFull - 991
+Botania:quartzSlabElfHalf - 990
+Botania:quartzSlabLavenderFull - 987
+Botania:quartzSlabLavenderHalf - 986
+Botania:quartzSlabManaFull - 983
+Botania:quartzSlabManaHalf - 982
+Botania:quartzSlabRedFull - 989
+Botania:quartzSlabRedHalf - 988
+Botania:quartzSlabSunnyFull - 993
+Botania:quartzSlabSunnyHalf - 992
+Botania:quartzStairsBlaze - 924
+Botania:quartzStairsDark - 920
+Botania:quartzStairsElf - 930
+Botania:quartzStairsLavender - 926
+Botania:quartzStairsMana - 922
+Botania:quartzStairsRed - 928
+Botania:quartzStairsSunny - 932
+Botania:quartzTypeBlaze - 923
+Botania:quartzTypeDark - 919
+Botania:quartzTypeElf - 929
+Botania:quartzTypeLavender - 925
+Botania:quartzTypeMana - 921
+Botania:quartzTypeRed - 927
+Botania:quartzTypeSunny - 931
+Botania:rainbowRod - 5988
+Botania:reachRing - 5996
+Botania:recordGaia1 - 6046
+Botania:recordGaia2 - 6047
+Botania:redStringComparator - 854
+Botania:redStringContainer - 851
+Botania:redStringDispenser - 852
+Botania:redStringFertilizer - 853
+Botania:redStringInterceptor - 887
+Botania:redStringRelay - 855
+Botania:reedBlock - 841
+Botania:reedBlock0Slab - 1006
+Botania:reedBlock0SlabFull - 1007
+Botania:reedBlock0Stairs - 908
+Botania:reedBlock0Wall - 909
+Botania:regenIvy - 6006
+Botania:rfGenerator - 846
+Botania:root - 877
+Botania:rune - 5928
+Botania:runeAltar - 812
+Botania:seaLamp - 837
+Botania:sextant - 6065
+Botania:shimmerrock - 891
+Botania:shimmerrock0Slab - 1030
+Botania:shimmerrock0SlabFull - 1031
+Botania:shimmerrock0Stairs - 975
+Botania:shimmerwoodPlanks - 892
+Botania:shimmerwoodPlanks0Slab - 1032
+Botania:shimmerwoodPlanks0SlabFull - 1033
+Botania:shimmerwoodPlanks0Stairs - 976
+Botania:shinyFlower - 828
+Botania:signalFlare - 5929
+Botania:skyDirtRod - 5997
+Botania:slimeBottle - 6054
+Botania:slingshot - 5992
+Botania:smeltRod - 6020
+Botania:solidVine - 834
+Botania:spark - 6002
+Botania:sparkChanger - 876
+Botania:sparkUpgrade - 6003
+Botania:spawnerClaw - 840
+Botania:spawnerMover - 5985
+Botania:specialFlower - 809
+Botania:speedUpBelt - 6066
+Botania:spellCloth - 6022
+Botania:spreader - 810
+Botania:starSword - 6055
+Botania:starfield - 845
+Botania:stone - 917
+Botania:stone0Slab - 1082
+Botania:stone0SlabFull - 1083
+Botania:stone0Stairs - 958
+Botania:stone0Wall - 966
+Botania:stone10Slab - 1094
+Botania:stone10SlabFull - 1095
+Botania:stone10Stairs - 964
+Botania:stone11Slab - 1096
+Botania:stone11SlabFull - 1097
+Botania:stone11Stairs - 965
+Botania:stone1Slab - 1084
+Botania:stone1SlabFull - 1085
+Botania:stone1Stairs - 959
+Botania:stone2Slab - 1086
+Botania:stone2SlabFull - 1087
+Botania:stone2Stairs - 960
+Botania:stone3Slab - 1088
+Botania:stone3SlabFull - 1089
+Botania:stone3Stairs - 961
+Botania:stone8Slab - 1090
+Botania:stone8SlabFull - 1091
+Botania:stone8Stairs - 962
+Botania:stone9Slab - 1092
+Botania:stone9SlabFull - 1093
+Botania:stone9Stairs - 963
+Botania:storage - 826
+Botania:superLavaPendant - 5999
+Botania:superTravelBelt - 5987
+Botania:swapRing - 6031
+Botania:temperanceStone - 6048
+Botania:terraAxe - 6050
+Botania:terraPick - 5968
+Botania:terraPlate - 850
+Botania:terraSword - 5954
+Botania:terraformRod - 5936
+Botania:terrasteelBoots - 5953
+Botania:terrasteelChest - 5951
+Botania:terrasteelHelm - 5949
+Botania:terrasteelHelmReveal - 5950
+Botania:terrasteelLegs - 5952
+Botania:teruTeruBozu - 890
+Botania:thatch - 842
+Botania:thatch0Slab - 1008
+Botania:thatch0SlabFull - 1009
+Botania:thatch0Stairs - 910
+Botania:thorRing - 6039
+Botania:thornChakram - 6023
+Botania:thunderSword - 6058
+Botania:tinyPlanet - 5955
+Botania:tinyPlanetBlock - 822
+Botania:tinyPotato - 839
+Botania:tornadoRod - 5989
+Botania:travelBelt - 5960
+Botania:turntable - 821
+Botania:twigWand - 5925
+Botania:unholyCloak - 6014
+Botania:unstableBlock - 813
+Botania:vial - 6008
+Botania:vineBall - 5991
+Botania:virus - 5995
+Botania:waterBowl - 6051
+Botania:waterRing - 5966
+Botania:waterRod - 5973
+Botania:worldSeed - 6021
+BuildCraft|Builders:architectBlock - 689
+BuildCraft|Builders:blueprintItem - 5337
+BuildCraft|Builders:builderBlock - 688
+BuildCraft|Builders:constructionMarkerBlock - 691
+BuildCraft|Builders:fillerBlock - 686
+BuildCraft|Builders:frameBlock - 687
+BuildCraft|Builders:libraryBlock - 690
+BuildCraft|Builders:machineBlock - 685
+BuildCraft|Builders:templateItem - 5336
+BuildCraft|Compat:item.buildcraftPipe.pipeitemspropolis - 5617
+BuildCraft|Core:buildToolBlock - 503
+BuildCraft|Core:debugger - 4790
+BuildCraft|Core:diamondGearItem - 4795
+BuildCraft|Core:engineBlock - 504
+BuildCraft|Core:eternalSpring - 502
+BuildCraft|Core:goldGearItem - 4794
+BuildCraft|Core:ironGearItem - 4793
+BuildCraft|Core:list - 4789
+BuildCraft|Core:mapLocation - 4788
+BuildCraft|Core:markerBlock - 505
+BuildCraft|Core:paintbrush - 4796
+BuildCraft|Core:pathMarkerBlock - 506
+BuildCraft|Core:stoneGearItem - 4792
+BuildCraft|Core:woodenGearItem - 4791
+BuildCraft|Core:wrenchItem - 4787
+BuildCraft|Energy:blockFuel - 693
+BuildCraft|Energy:blockOil - 692
+BuildCraft|Energy:blockRedPlasma - 694
+BuildCraft|Energy:bucketFuel - 5339
+BuildCraft|Energy:bucketOil - 5338
+BuildCraft|Factory:autoWorkbenchBlock - 697
+BuildCraft|Factory:blockHopper - 702
+BuildCraft|Factory:floodGateBlock - 700
+BuildCraft|Factory:miningWellBlock - 695
+BuildCraft|Factory:plainPipeBlock - 696
+BuildCraft|Factory:pumpBlock - 699
+BuildCraft|Factory:refineryBlock - 701
+BuildCraft|Factory:tankBlock - 698
+BuildCraft|Robotics:redstone_board - 5342
+BuildCraft|Robotics:requester - 704
+BuildCraft|Robotics:robot - 5340
+BuildCraft|Robotics:robotStation - 5341
+BuildCraft|Robotics:zonePlan - 703
+BuildCraft|Silicon:laserBlock - 705
+BuildCraft|Silicon:laserTableBlock - 706
+BuildCraft|Silicon:package - 5344
+BuildCraft|Silicon:packagerBlock - 707
+BuildCraft|Silicon:redstoneChipset - 5343
+BuildCraft|Silicon:redstoneCrystal - 5345
+BuildCraft|Transport:filteredBufferBlock - 708
+BuildCraft|Transport:gateCopier - 5390
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsclay - 5373
+BuildCraft|Transport:item.buildcraftPipe.pipefluidscobblestone - 5364
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsdiamond - 5370
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsemerald - 5369
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsgold - 5368
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsiron - 5367
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsquartz - 5366
+BuildCraft|Transport:item.buildcraftPipe.pipefluidssandstone - 5371
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsstone - 5365
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsvoid - 5372
+BuildCraft|Transport:item.buildcraftPipe.pipefluidswood - 5363
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay - 5362
+BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone - 5349
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli - 5357
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond - 5354
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald - 5348
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli - 5360
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold - 5353
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron - 5352
+BuildCraft|Transport:item.buildcraftPipe.pipeitemslapis - 5356
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian - 5355
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz - 5351
+BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone - 5358
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone - 5350
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes - 5361
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsvoid - 5359
+BuildCraft|Transport:item.buildcraftPipe.pipeitemswood - 5347
+BuildCraft|Transport:item.buildcraftPipe.pipepowercobblestone - 5375
+BuildCraft|Transport:item.buildcraftPipe.pipepowerdiamond - 5380
+BuildCraft|Transport:item.buildcraftPipe.pipepoweremerald - 5381
+BuildCraft|Transport:item.buildcraftPipe.pipepowergold - 5379
+BuildCraft|Transport:item.buildcraftPipe.pipepoweriron - 5378
+BuildCraft|Transport:item.buildcraftPipe.pipepowerquartz - 5377
+BuildCraft|Transport:item.buildcraftPipe.pipepowersandstone - 5382
+BuildCraft|Transport:item.buildcraftPipe.pipepowerstone - 5376
+BuildCraft|Transport:item.buildcraftPipe.pipepowerwood - 5374
+BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone - 5383
+BuildCraft|Transport:pipeBlock - 709
+BuildCraft|Transport:pipeFacade - 5386
+BuildCraft|Transport:pipeGate - 5385
+BuildCraft|Transport:pipeLens - 5388
+BuildCraft|Transport:pipePlug - 5387
+BuildCraft|Transport:pipePowerAdapter - 5389
+BuildCraft|Transport:pipeWaterproof - 5346
+BuildCraft|Transport:pipeWire - 5384
+CarpentersBlocks:blockCarpentersBarrier - 1309
+CarpentersBlocks:blockCarpentersBed - 1310
+CarpentersBlocks:blockCarpentersBlock - 1308
+CarpentersBlocks:blockCarpentersButton - 1311
+CarpentersBlocks:blockCarpentersCollapsibleBlock - 1312
+CarpentersBlocks:blockCarpentersDaylightSensor - 1313
+CarpentersBlocks:blockCarpentersDoor - 1314
+CarpentersBlocks:blockCarpentersFlowerPot - 1315
+CarpentersBlocks:blockCarpentersGarageDoor - 1316
+CarpentersBlocks:blockCarpentersGate - 1317
+CarpentersBlocks:blockCarpentersHatch - 1318
+CarpentersBlocks:blockCarpentersLadder - 1319
+CarpentersBlocks:blockCarpentersLever - 1320
+CarpentersBlocks:blockCarpentersPressurePlate - 1321
+CarpentersBlocks:blockCarpentersSafe - 1322
+CarpentersBlocks:blockCarpentersSlope - 1323
+CarpentersBlocks:blockCarpentersStairs - 1324
+CarpentersBlocks:blockCarpentersTorch - 1325
+CarpentersBlocks:itemCarpentersBed - 6079
+CarpentersBlocks:itemCarpentersChisel - 6076
+CarpentersBlocks:itemCarpentersDoor - 6078
+CarpentersBlocks:itemCarpentersHammer - 6075
+CarpentersBlocks:itemCarpentersTile - 6077
+ExtraUtilities:angelBlock - 1367
+ExtraUtilities:angelRing - 6148
+ExtraUtilities:bedrockiumIngot - 6167
+ExtraUtilities:block_bedrockium - 1373
+ExtraUtilities:budoff - 1368
+ExtraUtilities:builderswand - 6155
+ExtraUtilities:chandelier - 1369
+ExtraUtilities:chestFull - 1362
+ExtraUtilities:chestMini - 1361
+ExtraUtilities:cobblestone_compressed - 1388
+ExtraUtilities:colorStoneBrick - 1375
+ExtraUtilities:colorWoodPlanks - 1376
+ExtraUtilities:color_blockCoal - 1387
+ExtraUtilities:color_blockLapis - 1384
+ExtraUtilities:color_blockRedstone - 1386
+ExtraUtilities:color_brick - 1382
+ExtraUtilities:color_hellsand - 1380
+ExtraUtilities:color_lightgem - 1377
+ExtraUtilities:color_obsidian - 1385
+ExtraUtilities:color_quartzBlock - 1379
+ExtraUtilities:color_redstoneLight - 1381
+ExtraUtilities:color_stone - 1378
+ExtraUtilities:color_stonebrick - 1383
+ExtraUtilities:conveyor - 1389
+ExtraUtilities:creativebuilderswand - 6157
+ExtraUtilities:cursedearthside - 1399
+ExtraUtilities:curtains - 1366
+ExtraUtilities:dark_portal - 1415
+ExtraUtilities:datablock - 1374
+ExtraUtilities:decorativeBlock1 - 1370
+ExtraUtilities:decorativeBlock2 - 1371
+ExtraUtilities:defoliageAxe - 6161
+ExtraUtilities:destructionpickaxe - 6160
+ExtraUtilities:divisionSigil - 6153
+ExtraUtilities:drum - 1411
+ExtraUtilities:endConstructor - 1364
+ExtraUtilities:endMarker - 1365
+ExtraUtilities:enderCollector - 1363
+ExtraUtilities:enderQuarry - 1406
+ExtraUtilities:enderQuarryUpgrade - 1407
+ExtraUtilities:enderThermicPump - 1405
+ExtraUtilities:erosionShovel - 6159
+ExtraUtilities:etherealglass - 1416
+ExtraUtilities:ethericsword - 6158
+ExtraUtilities:extractor_base - 1395
+ExtraUtilities:extractor_base_remote - 1396
+ExtraUtilities:filing - 1390
+ExtraUtilities:generator - 1412
+ExtraUtilities:generator.64 - 1414
+ExtraUtilities:generator.8 - 1413
+ExtraUtilities:glove - 6145
+ExtraUtilities:golden_bag - 6166
+ExtraUtilities:golden_lasso - 6152
+ExtraUtilities:greenscreen - 1391
+ExtraUtilities:heatingElement - 6146
+ExtraUtilities:lawSword - 6151
+ExtraUtilities:magnumTorch - 1410
+ExtraUtilities:microblocks - 6168
+ExtraUtilities:mini-soul - 6147
+ExtraUtilities:nodeUpgrade - 6150
+ExtraUtilities:paintbrush - 6149
+ExtraUtilities:peaceful_table_top - 1392
+ExtraUtilities:pipes - 1397
+ExtraUtilities:pipes.1 - 1398
+ExtraUtilities:plant/ender_lilly - 1408
+ExtraUtilities:pureLove - 1372
+ExtraUtilities:scanner - 6165
+ExtraUtilities:shears - 6156
+ExtraUtilities:sonar_goggles - 6163
+ExtraUtilities:sound_muffler - 1394
+ExtraUtilities:spike_base - 1401
+ExtraUtilities:spike_base_diamond - 1402
+ExtraUtilities:spike_base_gold - 1403
+ExtraUtilities:spike_base_wood - 1404
+ExtraUtilities:temporalHoe - 6162
+ExtraUtilities:timer - 1409
+ExtraUtilities:trading_post - 1393
+ExtraUtilities:trashcan - 1400
+ExtraUtilities:unstableingot - 6154
+ExtraUtilities:watering_can - 6164
+Forestry:adventurerBag - 5529
+Forestry:adventurerBagT2 - 5530
+Forestry:alveary - 728
+Forestry:ambrosia - 5508
+Forestry:apatite - 5393
+Forestry:apiaristBag - 5519
+Forestry:apiaristBoots - 5499
+Forestry:apiaristChest - 5497
+Forestry:apiaristHelmet - 5496
+Forestry:apiaristLegs - 5498
+Forestry:apiculture - 723
+Forestry:apicultureChest - 724
+Forestry:arboriculture - 744
+Forestry:ash - 5406
+Forestry:beeCombs - 5495
+Forestry:beeDroneGE - 5479
+Forestry:beeLarvaeGE - 5481
+Forestry:beePrincessGE - 5480
+Forestry:beeQueenGE - 5478
+Forestry:beealyzer - 5482
+Forestry:beehives - 725
+Forestry:beeswax - 5428
+Forestry:beverage - 5507
+Forestry:bituminousPeat - 5407
+Forestry:brokenBronzePickaxe - 5417
+Forestry:brokenBronzeShovel - 5418
+Forestry:bronzePickaxe - 5419
+Forestry:bronzeShovel - 5420
+Forestry:bucketBiomass - 5441
+Forestry:bucketEthanol - 5437
+Forestry:bucketGlass - 5442
+Forestry:bucketHoney - 5446
+Forestry:bucketIce - 5450
+Forestry:bucketJuice - 5454
+Forestry:bucketMead - 5466
+Forestry:bucketSeedOil - 5458
+Forestry:bucketShortMead - 5462
+Forestry:builderBag - 5531
+Forestry:builderBagT2 - 5532
+Forestry:butterflyGE - 5512
+Forestry:canBiomass - 5438
+Forestry:canEmpty - 5431
+Forestry:canEthanol - 5434
+Forestry:canFuel - 5472
+Forestry:canHoney - 5443
+Forestry:canIce - 5447
+Forestry:canJuice - 5451
+Forestry:canLava - 5470
+Forestry:canMead - 5463
+Forestry:canOil - 5475
+Forestry:canSeedOil - 5455
+Forestry:canShortMead - 5459
+Forestry:canWater - 5467
+Forestry:candle - 726
+Forestry:cart.beehouse - 5485
+Forestry:carton - 5414
+Forestry:catalogue - 5517
+Forestry:caterpillarGE - 5514
+Forestry:chipsets - 5411
+Forestry:core - 710
+Forestry:craftingMaterial - 5403
+Forestry:crate - 5518
+Forestry:cratedAcaciaSapling - 5583
+Forestry:cratedAcaciaWood - 5562
+Forestry:cratedApatite - 5534
+Forestry:cratedApples - 5551
+Forestry:cratedAsh - 5538
+Forestry:cratedBeeswax - 5585
+Forestry:cratedBirchSapling - 5581
+Forestry:cratedBirchWood - 5560
+Forestry:cratedBogearth - 5543
+Forestry:cratedBrass - 5616
+Forestry:cratedBrick - 5568
+Forestry:cratedBronze - 5541
+Forestry:cratedCacti - 5569
+Forestry:cratedCarrots - 5557
+Forestry:cratedCharcoal - 5553
+Forestry:cratedCherry - 5605
+Forestry:cratedChestnut - 5607
+Forestry:cratedClay - 5549
+Forestry:cratedCoal - 5554
+Forestry:cratedCobblestone - 5564
+Forestry:cratedCocoaComb - 5592
+Forestry:cratedCookies - 5545
+Forestry:cratedCopper - 5540
+Forestry:cratedCrystallinePollen - 5587
+Forestry:cratedDarkOakSapling - 5584
+Forestry:cratedDarkOakWood - 5563
+Forestry:cratedDates - 5611
+Forestry:cratedDirt - 5565
+Forestry:cratedDrippingCombs - 5596
+Forestry:cratedFertilizer - 5535
+Forestry:cratedFrozenCombs - 5595
+Forestry:cratedGlowstone - 5550
+Forestry:cratedGravel - 5578
+Forestry:cratedHoneycombs - 5591
+Forestry:cratedHoneydew - 5589
+Forestry:cratedHumus - 5542
+Forestry:cratedJungleSapling - 5582
+Forestry:cratedJungleWood - 5561
+Forestry:cratedLapis - 5547
+Forestry:cratedLemon - 5608
+Forestry:cratedMellowCombs - 5603
+Forestry:cratedMossyCombs - 5602
+Forestry:cratedMulch - 5536
+Forestry:cratedMycelium - 5577
+Forestry:cratedMysteriousCombs - 5599
+Forestry:cratedNetherbrick - 5576
+Forestry:cratedNetherrack - 5573
+Forestry:cratedNetherwart - 5552
+Forestry:cratedObsidian - 5572
+Forestry:cratedPapaya - 5610
+Forestry:cratedParchedCombs - 5598
+Forestry:cratedPeat - 5533
+Forestry:cratedPhosphor - 5537
+Forestry:cratedPlum - 5609
+Forestry:cratedPodzol - 5566
+Forestry:cratedPollen - 5586
+Forestry:cratedPotatoes - 5556
+Forestry:cratedPowderyCombs - 5600
+Forestry:cratedPropolis - 5588
+Forestry:cratedRedSand - 5571
+Forestry:cratedRedstone - 5546
+Forestry:cratedReeds - 5548
+Forestry:cratedRefractoryWax - 5604
+Forestry:cratedResin - 5612
+Forestry:cratedRoyalJelly - 5590
+Forestry:cratedRubber - 5613
+Forestry:cratedSand - 5570
+Forestry:cratedSandstone - 5575
+Forestry:cratedSaplings - 5579
+Forestry:cratedScrap - 5614
+Forestry:cratedSeeds - 5555
+Forestry:cratedSilkyCombs - 5597
+Forestry:cratedSilver - 5615
+Forestry:cratedSimmeringCombs - 5593
+Forestry:cratedSoulsand - 5574
+Forestry:cratedSpruceSapling - 5580
+Forestry:cratedSpruceWood - 5559
+Forestry:cratedStone - 5567
+Forestry:cratedStringyCombs - 5594
+Forestry:cratedTin - 5539
+Forestry:cratedWalnut - 5606
+Forestry:cratedWheat - 5544
+Forestry:cratedWheatenCombs - 5601
+Forestry:cratedWood - 5558
+Forestry:decayingWheat - 5424
+Forestry:diggerBag - 5523
+Forestry:diggerBagT2 - 5524
+Forestry:engine - 745
+Forestry:factory - 746
+Forestry:factory2 - 747
+Forestry:fences - 733
+Forestry:fencesFireproof - 739
+Forestry:fertilizerBio - 5391
+Forestry:fertilizerCompound - 5392
+Forestry:ffarm - 749
+Forestry:fluid.bioethanol - 714
+Forestry:fluid.biomass - 715
+Forestry:fluid.glass - 716
+Forestry:fluid.honey - 717
+Forestry:fluid.ice - 718
+Forestry:fluid.juice - 719
+Forestry:fluid.mead - 722
+Forestry:fluid.seedoil - 720
+Forestry:fluid.short.mead - 721
+Forestry:flutterlyzer - 5511
+Forestry:foresterBag - 5525
+Forestry:foresterBagT2 - 5526
+Forestry:frameImpregnated - 5487
+Forestry:frameProven - 5488
+Forestry:frameUntreated - 5486
+Forestry:fruits - 5430
+Forestry:gearBronze - 5408
+Forestry:gearCopper - 5409
+Forestry:gearTin - 5410
+Forestry:grafter - 5504
+Forestry:grafterProven - 5505
+Forestry:habitatLocator - 5483
+Forestry:hardenedMachine - 5401
+Forestry:honeyDrop - 5489
+Forestry:honeyPot - 5509
+Forestry:honeydew - 5492
+Forestry:honeyedSlice - 5506
+Forestry:hunterBag - 5527
+Forestry:hunterBagT2 - 5528
+Forestry:impregnatedCasing - 5402
+Forestry:imprinter - 5484
+Forestry:infuser - 5510
+Forestry:ingotBronze - 5397
+Forestry:ingotCopper - 5395
+Forestry:ingotTin - 5396
+Forestry:iodineCapsule - 5426
+Forestry:kitPickaxe - 5422
+Forestry:kitShovel - 5421
+Forestry:leaves - 742
+Forestry:lepidopteristBag - 5520
+Forestry:lepidopterology - 750
+Forestry:letters - 5516
+Forestry:logs - 729
+Forestry:logsFireproof - 735
+Forestry:mail - 751
+Forestry:minerBag - 5521
+Forestry:minerBagT2 - 5522
+Forestry:mouldyWheat - 5423
+Forestry:mulch - 5425
+Forestry:mushroom - 748
+Forestry:naturalistHelmet - 5404
+Forestry:oakStick - 5415
+Forestry:peat - 5405
+Forestry:phosphor - 5427
+Forestry:pipette - 5399
+Forestry:planks - 730
+Forestry:planksFireproof - 736
+Forestry:pods - 743
+Forestry:pollen - 5490
+Forestry:pollenFertile - 5502
+Forestry:propolis - 5491
+Forestry:refractoryBiomass - 5440
+Forestry:refractoryEmpty - 5433
+Forestry:refractoryEthanol - 5436
+Forestry:refractoryFuel - 5474
+Forestry:refractoryHoney - 5445
+Forestry:refractoryIce - 5449
+Forestry:refractoryJuice - 5453
+Forestry:refractoryLava - 5471
+Forestry:refractoryMead - 5465
+Forestry:refractoryOil - 5477
+Forestry:refractorySeedOil - 5457
+Forestry:refractoryShortMead - 5461
+Forestry:refractoryWater - 5469
+Forestry:refractoryWax - 5429
+Forestry:researchNote - 5394
+Forestry:resourceStorage - 713
+Forestry:resources - 712
+Forestry:royalJelly - 5493
+Forestry:sapling - 5501
+Forestry:saplingGE - 741
+Forestry:scoop - 5500
+Forestry:serumGE - 5513
+Forestry:slabs - 731
+Forestry:slabsDouble - 732
+Forestry:slabsDoubleFireproof - 738
+Forestry:slabsFireproof - 737
+Forestry:soil - 711
+Forestry:solderingIron - 5412
+Forestry:stairs - 734
+Forestry:stairsFireproof - 740
+Forestry:stamps - 5515
+Forestry:stump - 727
+Forestry:sturdyMachine - 5400
+Forestry:thermionicTubes - 5413
+Forestry:treealyzer - 5503
+Forestry:waxCapsule - 5432
+Forestry:waxCapsuleBiomass - 5439
+Forestry:waxCapsuleEthanol - 5435
+Forestry:waxCapsuleFuel - 5473
+Forestry:waxCapsuleHoney - 5444
+Forestry:waxCapsuleIce - 5448
+Forestry:waxCapsuleJuice - 5452
+Forestry:waxCapsuleMead - 5464
+Forestry:waxCapsuleOil - 5476
+Forestry:waxCapsuleSeedOil - 5456
+Forestry:waxCapsuleShortMead - 5460
+Forestry:waxCapsuleWater - 5468
+Forestry:waxCast - 5494
+Forestry:woodPulp - 5416
+Forestry:wrench - 5398
+ForgeMicroblock:microblock - 6258
+ForgeMicroblock:sawDiamond - 6261
+ForgeMicroblock:sawIron - 6260
+ForgeMicroblock:sawStone - 6259
+ForgeMicroblock:stoneRod - 6262
+GraviSuite:BlockRelocatorPortal - 1453
+GraviSuite:advChainsaw - 6213
+GraviSuite:advDDrill - 6212
+GraviSuite:advJetpack - 6209
+GraviSuite:advLappack - 6208
+GraviSuite:advNanoChestPlate - 6206
+GraviSuite:graviChestPlate - 6205
+GraviSuite:graviTool - 6211
+GraviSuite:itemSimpleItem - 6216
+GraviSuite:relocator - 6214
+GraviSuite:sonicLauncher - 6215
+GraviSuite:ultimateLappack - 6207
+GraviSuite:vajra - 6210
+GraviSuiteReloaded:ItemArmorAdvancedJetpack - 6321
+GraviSuiteReloaded:ItemArmorAdvancedNanoChestplate - 6322
+GraviSuiteReloaded:ItemArmorLappack - 6319
+GraviSuiteReloaded:ItemArmorQuantumLappack - 6320
+GraviSuiteReloaded:ItemMiscQuantumCircuit - 6323
+GraviSuiteReloaded:ItemToolBigDiamondDrill - 6315
+GraviSuiteReloaded:ItemToolBigIridiumDrill - 6316
+GraviSuiteReloaded:ItemToolBigMiningDrill - 6314
+GraviSuiteReloaded:ItemToolTheChopper - 6317
+GraviSuiteReloaded:ItemToolTheThingamabob - 6313
+GraviSuiteReloaded:ItemWeaponQuantumSaber - 6318
+IC2:blockAlloy - 517
+IC2:blockAlloyGlass - 519
+IC2:blockBarrel - 551
+IC2:blockBasalt - 518
+IC2:blockCable - 527
+IC2:blockChargepad - 537
+IC2:blockCrop - 550
+IC2:blockDoorAlloy - 520
+IC2:blockDynamite - 548
+IC2:blockDynamiteRemote - 549
+IC2:blockElectric - 536
+IC2:blockFenceIron - 516
+IC2:blockFoam - 522
+IC2:blockGenerator - 530
+IC2:blockHarz - 514
+IC2:blockHeatGenerator - 529
+IC2:blockITNT - 546
+IC2:blockIronScaffold - 525
+IC2:blockKineticGenerator - 528
+IC2:blockLuminator - 542
+IC2:blockLuminatorDark - 541
+IC2:blockMachine - 538
+IC2:blockMachine2 - 539
+IC2:blockMachine3 - 540
+IC2:blockMetal - 526
+IC2:blockMiningPipe - 543
+IC2:blockMiningTip - 544
+IC2:blockNuke - 547
+IC2:blockOreCopper - 507
+IC2:blockOreLead - 510
+IC2:blockOreTin - 508
+IC2:blockOreUran - 509
+IC2:blockPersonal - 545
+IC2:blockReactorAccessHatch - 533
+IC2:blockReactorChamber - 531
+IC2:blockReactorFluidPort - 532
+IC2:blockReactorRedstonePort - 534
+IC2:blockReinforcedFoam - 521
+IC2:blockRubLeaves - 512
+IC2:blockRubSapling - 513
+IC2:blockRubWood - 511
+IC2:blockRubber - 515
+IC2:blockScaffold - 524
+IC2:blockWall - 523
+IC2:blockreactorvessel - 535
+IC2:fluidBiogas - 558
+IC2:fluidBiomass - 557
+IC2:fluidConstructionFoam - 553
+IC2:fluidCoolant - 554
+IC2:fluidDistilledWater - 559
+IC2:fluidHotCoolant - 555
+IC2:fluidHotWater - 562
+IC2:fluidPahoehoeLava - 556
+IC2:fluidSteam - 561
+IC2:fluidSuperheatedSteam - 560
+IC2:fluidUuMatter - 552
+IC2:itemAdvBat - 4890
+IC2:itemAdvIronBlockCuttingBlade - 4999
+IC2:itemArmorAdvBatpack - 4882
+IC2:itemArmorAlloyChestplate - 4870
+IC2:itemArmorBatpack - 4881
+IC2:itemArmorBronzeBoots - 4869
+IC2:itemArmorBronzeChestplate - 4867
+IC2:itemArmorBronzeHelmet - 4866
+IC2:itemArmorBronzeLegs - 4868
+IC2:itemArmorCFPack - 4884
+IC2:itemArmorEnergypack - 4883
+IC2:itemArmorHazmatChestplate - 4863
+IC2:itemArmorHazmatHelmet - 4862
+IC2:itemArmorHazmatLeggings - 4864
+IC2:itemArmorJetpack - 4879
+IC2:itemArmorJetpackElectric - 4880
+IC2:itemArmorNanoBoots - 4874
+IC2:itemArmorNanoChestplate - 4872
+IC2:itemArmorNanoHelmet - 4871
+IC2:itemArmorNanoLegs - 4873
+IC2:itemArmorQuantumBoots - 4878
+IC2:itemArmorQuantumChestplate - 4876
+IC2:itemArmorQuantumHelmet - 4875
+IC2:itemArmorQuantumLegs - 4877
+IC2:itemArmorRubBoots - 4865
+IC2:itemBarrel - 4990
+IC2:itemBatChargeAdv - 4895
+IC2:itemBatChargeCrystal - 4896
+IC2:itemBatChargeLamaCrystal - 4897
+IC2:itemBatChargeRE - 4894
+IC2:itemBatCrystal - 4891
+IC2:itemBatLamaCrystal - 4892
+IC2:itemBatRE - 4889
+IC2:itemBatREDischarged - 4888
+IC2:itemBatSU - 4893
+IC2:itemBiochaff - 4948
+IC2:itemBoat - 4975
+IC2:itemCable - 4898
+IC2:itemCasing - 4802
+IC2:itemCellEmpty - 4899
+IC2:itemCellHydrant - 4981
+IC2:itemCofeeBeans - 4986
+IC2:itemCofeePowder - 4987
+IC2:itemCoin - 4970
+IC2:itemContainmentbox - 4843
+IC2:itemCropSeed - 4978
+IC2:itemCropnalyzer - 4979
+IC2:itemCrushedOre - 4803
+IC2:itemDebug - 4974
+IC2:itemDensePlates - 4806
+IC2:itemDiamondBlockCuttingBlade - 5000
+IC2:itemDoorAlloy - 4971
+IC2:itemDust - 4810
+IC2:itemDust2 - 4811
+IC2:itemDustSmall - 4809
+IC2:itemDynamite - 4966
+IC2:itemDynamiteSticky - 4967
+IC2:itemFertilizer - 4980
+IC2:itemFluidCell - 4799
+IC2:itemFoamSprayer - 4841
+IC2:itemFreq - 4858
+IC2:itemFuelPlantBall - 4947
+IC2:itemFuelRod - 4822
+IC2:itemGrinPowder - 4973
+IC2:itemHarz - 4797
+IC2:itemHops - 4989
+IC2:itemIngot - 4812
+IC2:itemIronBlockCuttingBlade - 4998
+IC2:itemLathingTool - 4845
+IC2:itemMOX - 4816
+IC2:itemMugBooze - 4991
+IC2:itemMugCoffee - 4988
+IC2:itemMugEmpty - 4985
+IC2:itemNanoSaber - 4859
+IC2:itemNightvisionGoggles - 4887
+IC2:itemOreIridium - 4830
+IC2:itemPartAlloy - 4826
+IC2:itemPartCFPowder - 4972
+IC2:itemPartCarbonFibre - 4827
+IC2:itemPartCarbonMesh - 4828
+IC2:itemPartCarbonPlate - 4829
+IC2:itemPartCircuit - 4824
+IC2:itemPartCircuitAdv - 4825
+IC2:itemPartCoalBall - 4940
+IC2:itemPartCoalBlock - 4941
+IC2:itemPartCoalChunk - 4942
+IC2:itemPartIndustrialDiamond - 4943
+IC2:itemPartIridium - 4831
+IC2:itemPlates - 4805
+IC2:itemPlutonium - 4817
+IC2:itemPlutoniumSmall - 4818
+IC2:itemPurifiedCrushedOre - 4804
+IC2:itemRTGPellet - 4823
+IC2:itemRecipePart - 4801
+IC2:itemRemote - 4968
+IC2:itemRubber - 4798
+IC2:itemScanner - 4855
+IC2:itemScannerAdv - 4856
+IC2:itemScrap - 4945
+IC2:itemScrapbox - 4946
+IC2:itemShardIridium - 4832
+IC2:itemSlag - 4944
+IC2:itemSolarHelmet - 4885
+IC2:itemStaticBoots - 4886
+IC2:itemSteamTurbine - 4996
+IC2:itemSteamTurbineBlade - 4997
+IC2:itemTFBP - 4933
+IC2:itemTFBPChilling - 4936
+IC2:itemTFBPCultivation - 4934
+IC2:itemTFBPDesertification - 4937
+IC2:itemTFBPFlatification - 4938
+IC2:itemTFBPIrrigation - 4935
+IC2:itemTFBPMushroom - 4939
+IC2:itemTerraWart - 4983
+IC2:itemTinCan - 4900
+IC2:itemTinCanFilled - 4901
+IC2:itemToolBronzeAxe - 4835
+IC2:itemToolBronzeHoe - 4838
+IC2:itemToolBronzePickaxe - 4834
+IC2:itemToolBronzeSpade - 4837
+IC2:itemToolBronzeSword - 4836
+IC2:itemToolChainsaw - 4850
+IC2:itemToolCutter - 4840
+IC2:itemToolDDrill - 4848
+IC2:itemToolDrill - 4847
+IC2:itemToolForgeHammer - 4844
+IC2:itemToolHoe - 4982
+IC2:itemToolIridiumDrill - 4849
+IC2:itemToolMEter - 4854
+IC2:itemToolMiningLaser - 4853
+IC2:itemToolPainter - 4949
+IC2:itemToolPainterBlack - 4950
+IC2:itemToolPainterBlue - 4954
+IC2:itemToolPainterBrown - 4953
+IC2:itemToolPainterCloud - 4962
+IC2:itemToolPainterCyan - 4956
+IC2:itemToolPainterDarkGrey - 4958
+IC2:itemToolPainterGreen - 4952
+IC2:itemToolPainterLightGrey - 4957
+IC2:itemToolPainterLime - 4960
+IC2:itemToolPainterMagenta - 4963
+IC2:itemToolPainterOrange - 4964
+IC2:itemToolPainterPink - 4959
+IC2:itemToolPainterPurple - 4955
+IC2:itemToolPainterRed - 4951
+IC2:itemToolPainterWhite - 4965
+IC2:itemToolPainterYellow - 4961
+IC2:itemToolWrench - 4839
+IC2:itemToolWrenchElectric - 4851
+IC2:itemToolbox - 4842
+IC2:itemTreetap - 4833
+IC2:itemTreetapElectric - 4852
+IC2:itemTritiumCell - 4814
+IC2:itemTurningBlanks - 4807
+IC2:itemTurningBlanksWood - 4808
+IC2:itemUran - 4815
+IC2:itemUran235 - 4819
+IC2:itemUran235small - 4820
+IC2:itemUran238 - 4821
+IC2:itemWeed - 4977
+IC2:itemWeedEx - 4984
+IC2:itemWeedingTrowel - 4976
+IC2:itemcrystalmemory - 4846
+IC2:itemironrotor - 4993
+IC2:itemsteelrotor - 4994
+IC2:itemupgradekit - 4800
+IC2:itemwcarbonrotor - 4995
+IC2:itemwoodrotor - 4992
+IC2:obscurator - 4857
+IC2:plasmaLauncher - 4860
+IC2:reactorCondensator - 4931
+IC2:reactorCondensatorLap - 4932
+IC2:reactorCoolantSimple - 4914
+IC2:reactorCoolantSix - 4916
+IC2:reactorCoolantTriple - 4915
+IC2:reactorHeatSwitch - 4920
+IC2:reactorHeatSwitchCore - 4921
+IC2:reactorHeatSwitchDiamond - 4923
+IC2:reactorHeatSwitchSpread - 4922
+IC2:reactorLithiumCell - 4813
+IC2:reactorMOXDual - 4903
+IC2:reactorMOXDualdepleted - 4909
+IC2:reactorMOXQuad - 4904
+IC2:reactorMOXQuaddepleted - 4910
+IC2:reactorMOXSimple - 4902
+IC2:reactorMOXSimpledepleted - 4908
+IC2:reactorPlating - 4917
+IC2:reactorPlatingExplosive - 4919
+IC2:reactorPlatingHeat - 4918
+IC2:reactorReflector - 4929
+IC2:reactorReflectorThick - 4930
+IC2:reactorUraniumDual - 4906
+IC2:reactorUraniumDualdepleted - 4912
+IC2:reactorUraniumQuad - 4907
+IC2:reactorUraniumQuaddepleted - 4913
+IC2:reactorUraniumSimple - 4905
+IC2:reactorUraniumSimpledepleted - 4911
+IC2:reactorVent - 4924
+IC2:reactorVentCore - 4925
+IC2:reactorVentDiamond - 4928
+IC2:reactorVentGold - 4926
+IC2:reactorVentSpread - 4927
+IC2:upgradeModule - 4969
+IC2:windmeter - 4861
+IC2NuclearControl:Item55ReactorCard - 6337
+IC2NuclearControl:ItemEnergyArrayLocationCard - 6332
+IC2NuclearControl:ItemEnergySensorKit - 6327
+IC2NuclearControl:ItemEnergySensorLocationCard - 6330
+IC2NuclearControl:ItemLiquidArrayLocationCard - 6336
+IC2NuclearControl:ItemMultipleSensorKit - 6328
+IC2NuclearControl:ItemMultipleSensorLocationCard - 6331
+IC2NuclearControl:ItemRemoteSensorKit - 6326
+IC2NuclearControl:ItemSensorLocationCard - 6329
+IC2NuclearControl:ItemTextCard - 6335
+IC2NuclearControl:ItemTimeCard - 6333
+IC2NuclearControl:ItemToolDigitalThermometer - 6325
+IC2NuclearControl:ItemToolThermometer - 6324
+IC2NuclearControl:ItemUpgrade - 6334
+IC2NuclearControl:blockNuclearControlLight - 1532
+IC2NuclearControl:blockNuclearControlMain - 1531
+IC2NuclearControl:remoteMonitor - 6338
+ImmersiveEngineering:blueprint - 5091
+ImmersiveEngineering:bullet - 5085
+ImmersiveEngineering:chemthrower - 5097
+ImmersiveEngineering:clothDevice - 620
+ImmersiveEngineering:coil - 5081
+ImmersiveEngineering:concreteStairs - 616
+ImmersiveEngineering:concreteTileStairs - 617
+ImmersiveEngineering:drill - 5087
+ImmersiveEngineering:drillhead - 5088
+ImmersiveEngineering:fakeIcon - 5095
+ImmersiveEngineering:fakeLight - 619
+ImmersiveEngineering:fluidContainers - 5086
+ImmersiveEngineering:graphiteElectrode - 5092
+ImmersiveEngineering:hemp - 618
+ImmersiveEngineering:jerrycan - 5096
+ImmersiveEngineering:material - 5079
+ImmersiveEngineering:metal - 5078
+ImmersiveEngineering:metalDecoration - 605
+ImmersiveEngineering:metalDecoration2 - 606
+ImmersiveEngineering:metalDevice - 603
+ImmersiveEngineering:metalDevice2 - 604
+ImmersiveEngineering:metalMultiblock - 607
+ImmersiveEngineering:mold - 5099
+ImmersiveEngineering:ore - 599
+ImmersiveEngineering:railgun - 5098
+ImmersiveEngineering:revolver - 5084
+ImmersiveEngineering:seed - 5080
+ImmersiveEngineering:shader - 5093
+ImmersiveEngineering:shaderBag - 5094
+ImmersiveEngineering:skyhook - 5090
+ImmersiveEngineering:stoneDecoration - 615
+ImmersiveEngineering:stoneDevice - 614
+ImmersiveEngineering:stoneSlab - 602
+ImmersiveEngineering:storage - 600
+ImmersiveEngineering:storageSlab - 601
+ImmersiveEngineering:tool - 5082
+ImmersiveEngineering:toolbox - 5083
+ImmersiveEngineering:toolupgrade - 5089
+ImmersiveEngineering:treatedWood - 610
+ImmersiveEngineering:woodenDecoration - 609
+ImmersiveEngineering:woodenDevice - 608
+ImmersiveEngineering:woodenStairs - 611
+ImmersiveEngineering:woodenStairs1 - 612
+ImmersiveEngineering:woodenStairs2 - 613
+OpenBlocks:autoanvil - 1489
+OpenBlocks:autoenchantmenttable - 1490
+OpenBlocks:beartrap - 1478
+OpenBlocks:bigbutton - 1483
+OpenBlocks:blockPlacer - 1493
+OpenBlocks:blockbreaker - 1492
+OpenBlocks:builder_guide - 1469
+OpenBlocks:cannon - 1480
+OpenBlocks:canvas - 1498
+OpenBlocks:canvasglass - 1500
+OpenBlocks:cartographer - 6243
+OpenBlocks:craneBackpack - 6234
+OpenBlocks:craneControl - 6233
+OpenBlocks:crayonGlasses - 6230
+OpenBlocks:cursor - 6247
+OpenBlocks:devnull - 6249
+OpenBlocks:donationStation - 1496
+OpenBlocks:drawingtable - 1502
+OpenBlocks:elevator - 1470
+OpenBlocks:elevator_rotating - 1471
+OpenBlocks:emptyMap - 6242
+OpenBlocks:epicEraser - 6252
+OpenBlocks:fan - 1485
+OpenBlocks:filledbucket - 6236
+OpenBlocks:flag - 1475
+OpenBlocks:generic - 6226
+OpenBlocks:genericUnstackable - 6246
+OpenBlocks:goldenEye - 6245
+OpenBlocks:goldenegg - 1505
+OpenBlocks:grave - 1474
+OpenBlocks:guide - 1468
+OpenBlocks:hangglider - 6225
+OpenBlocks:heal - 1472
+OpenBlocks:heightMap - 6241
+OpenBlocks:imaginary - 1484
+OpenBlocks:infoBook - 6248
+OpenBlocks:itemDropper - 1494
+OpenBlocks:ladder - 1467
+OpenBlocks:luggage - 6227
+OpenBlocks:paintBrush - 6238
+OpenBlocks:paintcan - 1499
+OpenBlocks:paintmixer - 1497
+OpenBlocks:path - 1488
+OpenBlocks:pedometer - 6251
+OpenBlocks:pencilGlasses - 6229
+OpenBlocks:projector - 1501
+OpenBlocks:ropeladder - 1495
+OpenBlocks:scaffolding - 1506
+OpenBlocks:seriousGlasses - 6232
+OpenBlocks:sky - 1503
+OpenBlocks:sleepingBag - 6237
+OpenBlocks:slimalyzer - 6235
+OpenBlocks:sonicglasses - 6228
+OpenBlocks:sponge - 1482
+OpenBlocks:spongeonastick - 6250
+OpenBlocks:sprinkler - 1479
+OpenBlocks:squeegee - 6240
+OpenBlocks:stencil - 6239
+OpenBlocks:tank - 1476
+OpenBlocks:target - 1473
+OpenBlocks:tastyClay - 6244
+OpenBlocks:technicolorGlasses - 6231
+OpenBlocks:trophy - 1477
+OpenBlocks:vacuumhopper - 1481
+OpenBlocks:village_highlighter - 1487
+OpenBlocks:wrench - 6253
+OpenBlocks:xpbottler - 1486
+OpenBlocks:xpdrain - 1491
+OpenBlocks:xpshower - 1504
+Railcraft:anvil - 567
+Railcraft:armor.goggles - 5011
+Railcraft:armor.overalls - 5023
+Railcraft:armor.steel.boots - 5022
+Railcraft:armor.steel.helmet - 5019
+Railcraft:armor.steel.legs - 5021
+Railcraft:armor.steel.plate - 5020
+Railcraft:backpack.apothecary.t1 - 6267
+Railcraft:backpack.apothecary.t2 - 6268
+Railcraft:backpack.iceman.t1 - 6265
+Railcraft:backpack.iceman.t2 - 6266
+Railcraft:backpack.trackman.t1 - 6263
+Railcraft:backpack.trackman.t2 - 6264
+Railcraft:borehead.diamond - 5042
+Railcraft:borehead.iron - 5044
+Railcraft:borehead.steel - 5043
+Railcraft:brick.abyssal - 577
+Railcraft:brick.bleachedbone - 578
+Railcraft:brick.bloodstained - 579
+Railcraft:brick.frostbound - 580
+Railcraft:brick.infernal - 581
+Railcraft:brick.nether - 584
+Railcraft:brick.quarried - 582
+Railcraft:brick.sandy - 583
+Railcraft:cart.anchor - 5056
+Railcraft:cart.anchor.admin - 5058
+Railcraft:cart.anchor.personal - 5057
+Railcraft:cart.bore - 5041
+Railcraft:cart.cargo - 5051
+Railcraft:cart.energy.batbox - 5053
+Railcraft:cart.energy.cesu - 5055
+Railcraft:cart.energy.mfe - 5054
+Railcraft:cart.gift - 5060
+Railcraft:cart.loco.creative - 5064
+Railcraft:cart.loco.electric - 5063
+Railcraft:cart.loco.steam.solid - 5062
+Railcraft:cart.pumpkin - 5059
+Railcraft:cart.redstone.flux - 5077
+Railcraft:cart.tank - 5050
+Railcraft:cart.tnt.wood - 5034
+Railcraft:cart.track.layer - 5047
+Railcraft:cart.track.relayer - 5045
+Railcraft:cart.track.remover - 5048
+Railcraft:cart.undercutter - 5046
+Railcraft:cart.work - 5035
+Railcraft:cube - 566
+Railcraft:detector - 591
+Railcraft:dust - 5032
+Railcraft:emblem - 5068
+Railcraft:firestone.cracked - 5072
+Railcraft:firestone.cut - 5070
+Railcraft:firestone.raw - 5069
+Railcraft:firestone.recharge - 596
+Railcraft:firestone.refined - 5071
+Railcraft:fluid.creosote - 563
+Railcraft:fluid.creosote.bottle - 5002
+Railcraft:fluid.creosote.bucket - 5001
+Railcraft:fluid.creosote.can - 5003
+Railcraft:fluid.creosote.cell - 5004
+Railcraft:fluid.creosote.refactory - 5006
+Railcraft:fluid.creosote.wax - 5005
+Railcraft:fluid.steam - 564
+Railcraft:fluid.steam.bottle - 5007
+Railcraft:frame - 597
+Railcraft:fuel.coke - 5030
+Railcraft:glass - 590
+Railcraft:ingot - 5025
+Railcraft:lantern.metal - 576
+Railcraft:lantern.stone - 575
+Railcraft:machine.alpha - 568
+Railcraft:machine.beta - 569
+Railcraft:machine.delta - 598
+Railcraft:machine.epsilon - 593
+Railcraft:machine.gamma - 592
+Railcraft:nugget - 5024
+Railcraft:ore - 594
+Railcraft:part.bleached.clay - 5040
+Railcraft:part.circuit - 5012
+Railcraft:part.gear - 5033
+Railcraft:part.plate - 5031
+Railcraft:part.rail - 5029
+Railcraft:part.railbed - 5026
+Railcraft:part.rebar - 5028
+Railcraft:part.signal.lamp - 5039
+Railcraft:part.tie - 5027
+Railcraft:part.turbine.blade - 5076
+Railcraft:part.turbine.disk - 5075
+Railcraft:part.turbine.rotor - 5074
+Railcraft:post - 585
+Railcraft:post.metal - 586
+Railcraft:post.metal.platform - 587
+Railcraft:residual.heat - 565
+Railcraft:routing.table - 5065
+Railcraft:routing.ticket - 5067
+Railcraft:routing.ticket.gold - 5066
+Railcraft:signal - 572
+Railcraft:slab - 574
+Railcraft:stair - 573
+Railcraft:tool.crowbar - 5008
+Railcraft:tool.crowbar.reinforced - 5009
+Railcraft:tool.electric.meter - 5073
+Railcraft:tool.magnifying.glass - 5010
+Railcraft:tool.notepad - 5049
+Railcraft:tool.signal.label - 5038
+Railcraft:tool.signal.tuner - 5037
+Railcraft:tool.steel.axe - 5017
+Railcraft:tool.steel.hoe - 5018
+Railcraft:tool.steel.pickaxe - 5016
+Railcraft:tool.steel.shears - 5013
+Railcraft:tool.steel.shovel - 5015
+Railcraft:tool.steel.sword - 5014
+Railcraft:tool.surveyor - 5036
+Railcraft:tool.whistle.tuner - 5061
+Railcraft:track - 570
+Railcraft:track.elevator - 571
+Railcraft:upgrade.lapotron - 5052
+Railcraft:wall.alpha - 588
+Railcraft:wall.beta - 589
+Railcraft:worldlogic - 595
+TerraFirmaPumpkins:Melon - 1511
+TerraFirmaPumpkins:item.Cooked Pumpkin - 6272
+TerraFirmaPumpkins:item.Melon - 6271
+TerraFirmaPumpkins:item.Raw Mushroom.mushroom_brown - 6273
+TerraFirmaPumpkins:item.Raw Mushroom.mushroom_red - 6274
+TerraFirmaPumpkins:item.Raw Pumpkin - 6270
+TerraFirmaPumpkins:item.Seeds Melon - 6276
+TerraFirmaPumpkins:item.Seeds Pumpkin - 6275
+advgenerators:AdvancedPressureValve - 6203
+advgenerators:CapacitorKitAdvanced - 6311
+advgenerators:CapacitorKitDense - 6312
+advgenerators:Control - 1448
+advgenerators:Controller - 6201
+advgenerators:EfficiencyUpgradeTier1 - 1449
+advgenerators:EfficiencyUpgradeTier2 - 1450
+advgenerators:EuOutputEV - 1437
+advgenerators:EuOutputHV - 1436
+advgenerators:EuOutputLV - 1434
+advgenerators:EuOutputMV - 1435
+advgenerators:FluidInput - 1439
+advgenerators:FluidOutputSelect - 1440
+advgenerators:FuelTank - 1443
+advgenerators:HeatExchanger - 1446
+advgenerators:HeatExchangerController - 1431
+advgenerators:HeatingChamber - 1444
+advgenerators:IronFrame - 6197
+advgenerators:IronTubing - 6199
+advgenerators:IronWiring - 6200
+advgenerators:ItemInput - 1441
+advgenerators:ItemOutput - 1442
+advgenerators:MixingChamber - 1445
+advgenerators:PowerCapacitorAdvanced - 1529
+advgenerators:PowerCapacitorDense - 1530
+advgenerators:PowerCapacitorRedstone - 1528
+advgenerators:PowerIO - 6198
+advgenerators:PressureValve - 6202
+advgenerators:RFOutput - 1438
+advgenerators:Sensor - 1447
+advgenerators:SteamTurbineController - 1432
+advgenerators:SyngasController - 1433
+advgenerators:TurbineAdvAlloy - 1527
+advgenerators:TurbineBladeAdvAlloy - 6308
+advgenerators:TurbineBladeBronze - 6303
+advgenerators:TurbineBladeIron - 6306
+advgenerators:TurbineBladeSteel - 6298
+advgenerators:TurbineBronze - 1525
+advgenerators:TurbineController - 1430
+advgenerators:TurbineGold - 1524
+advgenerators:TurbineIron - 1526
+advgenerators:TurbineKitAdvAlloy - 6310
+advgenerators:TurbineKitBronze - 6305
+advgenerators:TurbineKitGold - 6302
+advgenerators:TurbineKitSteel - 6300
+advgenerators:TurbineRotorAdvAlloy - 6309
+advgenerators:TurbineRotorBronze - 6304
+advgenerators:TurbineRotorGold - 6301
+advgenerators:TurbineRotorIron - 6307
+advgenerators:TurbineRotorSteel - 6299
+advgenerators:TurbineSteel - 1523
+advgenerators:UpgradeKit - 6204
+advgenerators:syngas - 1452
+advgenerators:syngas_flaming - 1451
+chisel:acacia_planks - 1305
+chisel:aluminum_stairs.0 - 1112
+chisel:aluminum_stairs.1 - 1113
+chisel:aluminum_stairs.2 - 1114
+chisel:aluminum_stairs.3 - 1115
+chisel:aluminum_stairs.4 - 1116
+chisel:aluminum_stairs.5 - 1117
+chisel:aluminum_stairs.6 - 1118
+chisel:aluminum_stairs.7 - 1119
+chisel:aluminumblock - 1111
+chisel:andesite - 1120
+chisel:antiBlock - 1121
+chisel:autoChisel - 1122
+chisel:ballomoss - 6069
+chisel:beacon - 1123
+chisel:birch_planks - 1303
+chisel:bookshelf - 1124
+chisel:brickCustom - 1125
+chisel:bronzeblock - 1126
+chisel:carpet - 1128
+chisel:carpet_block - 1127
+chisel:chisel - 6070
+chisel:cloud - 1129
+chisel:cloudinabottle - 6073
+chisel:cobblestone - 1130
+chisel:concrete - 1132
+chisel:copperblock - 1133
+chisel:dark_oak_planks - 1306
+chisel:diamondChisel - 6071
+chisel:diamond_block - 1134
+chisel:diorite - 1135
+chisel:dirt - 1136
+chisel:emerald_block - 1137
+chisel:end_Stone - 1138
+chisel:factoryblock - 1139
+chisel:factoryblock2 - 1140
+chisel:fantasyblock - 1141
+chisel:fantasyblock2 - 1142
+chisel:futura - 1143
+chisel:futuraCircuit - 1144
+chisel:glass - 1145
+chisel:glass2 - 1146
+chisel:glass_pane - 1147
+chisel:glowstone - 1161
+chisel:gold2 - 1162
+chisel:gold_block - 1163
+chisel:granite - 1164
+chisel:grimstone - 1165
+chisel:hexLargePlating - 1167
+chisel:hexPlating - 1166
+chisel:holystone - 1168
+chisel:ice - 1169
+chisel:ice_pillar - 1170
+chisel:ice_stairs.0 - 1171
+chisel:ice_stairs.1 - 1172
+chisel:ice_stairs.2 - 1173
+chisel:ice_stairs.3 - 1174
+chisel:ice_stairs.4 - 1175
+chisel:ice_stairs.5 - 1176
+chisel:ice_stairs.6 - 1177
+chisel:ice_stairs.7 - 1178
+chisel:iron2 - 1180
+chisel:iron_bars - 1179
+chisel:iron_block - 1181
+chisel:jackolantern1 - 1182
+chisel:jackolantern10 - 1191
+chisel:jackolantern11 - 1192
+chisel:jackolantern12 - 1193
+chisel:jackolantern13 - 1194
+chisel:jackolantern14 - 1195
+chisel:jackolantern15 - 1196
+chisel:jackolantern16 - 1197
+chisel:jackolantern2 - 1183
+chisel:jackolantern3 - 1184
+chisel:jackolantern4 - 1185
+chisel:jackolantern5 - 1186
+chisel:jackolantern6 - 1187
+chisel:jackolantern7 - 1188
+chisel:jackolantern8 - 1189
+chisel:jackolantern9 - 1190
+chisel:jungle_planks - 1304
+chisel:laboratoryblock - 1198
+chisel:lapis_block - 1199
+chisel:lavastone - 1200
+chisel:leadblock - 1201
+chisel:leaves - 1202
+chisel:limestone - 1203
+chisel:limestone_slab - 1204
+chisel:limestone_slab_top - 1205
+chisel:limestone_stairs.0 - 1206
+chisel:limestone_stairs.1 - 1207
+chisel:limestone_stairs.2 - 1208
+chisel:limestone_stairs.3 - 1209
+chisel:limestone_stairs.4 - 1210
+chisel:limestone_stairs.5 - 1211
+chisel:limestone_stairs.6 - 1212
+chisel:limestone_stairs.7 - 1213
+chisel:marble - 1214
+chisel:marble_pillar - 1225
+chisel:marble_pillar_slab - 1226
+chisel:marble_pillar_slab_top - 1227
+chisel:marble_slab - 1215
+chisel:marble_slab_top - 1216
+chisel:marble_stairs.0 - 1217
+chisel:marble_stairs.1 - 1218
+chisel:marble_stairs.2 - 1219
+chisel:marble_stairs.3 - 1220
+chisel:marble_stairs.4 - 1221
+chisel:marble_stairs.5 - 1222
+chisel:marble_stairs.6 - 1223
+chisel:marble_stairs.7 - 1224
+chisel:mossy_cobblestone - 1131
+chisel:mossy_templeblock - 1279
+chisel:nation - 1228
+chisel:nether_brick - 1230
+chisel:netherrack - 1231
+chisel:oak_planks - 1301
+chisel:obsidian - 1232
+chisel:obsidianChisel - 6072
+chisel:obsidian_snakestone - 1271
+chisel:packedice - 1233
+chisel:packedice_pillar - 1234
+chisel:packedice_stairs.0 - 1235
+chisel:packedice_stairs.1 - 1236
+chisel:packedice_stairs.2 - 1237
+chisel:packedice_stairs.3 - 1238
+chisel:packedice_stairs.4 - 1239
+chisel:packedice_stairs.5 - 1240
+chisel:packedice_stairs.6 - 1241
+chisel:packedice_stairs.7 - 1242
+chisel:paperwall - 1243
+chisel:paperwall_block - 1244
+chisel:present - 1245
+chisel:pumpkin1 - 1246
+chisel:pumpkin10 - 1255
+chisel:pumpkin11 - 1256
+chisel:pumpkin12 - 1257
+chisel:pumpkin13 - 1258
+chisel:pumpkin14 - 1259
+chisel:pumpkin15 - 1260
+chisel:pumpkin16 - 1261
+chisel:pumpkin2 - 1247
+chisel:pumpkin3 - 1248
+chisel:pumpkin4 - 1249
+chisel:pumpkin5 - 1250
+chisel:pumpkin6 - 1251
+chisel:pumpkin7 - 1252
+chisel:pumpkin8 - 1253
+chisel:pumpkin9 - 1254
+chisel:purpur - 1262
+chisel:rebel - 1229
+chisel:redstone_block - 1263
+chisel:road_line - 1264
+chisel:sand_snakestone - 1269
+chisel:sandstone - 1265
+chisel:sandstone2 - 1266
+chisel:sandstone_scribbles - 1267
+chisel:silverblock - 1268
+chisel:smashingrock - 6074
+chisel:spruce_planks - 1302
+chisel:stained_glass_brown - 1152
+chisel:stained_glass_forestry - 1148
+chisel:stained_glass_lightgray - 1151
+chisel:stained_glass_pane_brown - 1159
+chisel:stained_glass_pane_lightgray - 1157
+chisel:stained_glass_pane_magenta - 1154
+chisel:stained_glass_pane_pink - 1156
+chisel:stained_glass_pane_purple - 1158
+chisel:stained_glass_pane_red - 1160
+chisel:stained_glass_pane_white - 1153
+chisel:stained_glass_pane_yellow - 1155
+chisel:stained_glass_white - 1149
+chisel:stained_glass_yellow - 1150
+chisel:steelblock - 1272
+chisel:stone_snakestone - 1270
+chisel:stonebricksmooth - 1273
+chisel:technical - 1274
+chisel:technical2 - 1275
+chisel:technical3 - 1276
+chisel:technical4 - 1277
+chisel:templeblock - 1278
+chisel:tinblock - 1280
+chisel:torch1 - 1281
+chisel:torch10 - 1290
+chisel:torch2 - 1282
+chisel:torch3 - 1283
+chisel:torch4 - 1284
+chisel:torch5 - 1285
+chisel:torch6 - 1286
+chisel:torch7 - 1287
+chisel:torch8 - 1288
+chisel:torch9 - 1289
+chisel:tyrian - 1291
+chisel:upgrade - 6068
+chisel:uraniumblock - 1292
+chisel:valentines - 1293
+chisel:voidstone - 1294
+chisel:voidstone2 - 1295
+chisel:voidstonePillar - 1297
+chisel:voidstonePillar2 - 1298
+chisel:voidstoneRunic - 1296
+chisel:warningSign - 1299
+chisel:waterstone - 1300
+chisel:woolen_clay - 1307
+cookingwithtfc:CookingPot - 1329
+cookingwithtfc:GrainsBlock - 1326
+cookingwithtfc:Hopper - 1328
+cookingwithtfc:MixingBowl - 1327
+cookingwithtfc:PrepTable2E - 1352
+cookingwithtfc:PrepTable2N - 1348
+cookingwithtfc:PrepTable2S - 1350
+cookingwithtfc:PrepTable2W - 1354
+cookingwithtfc:PrepTableE - 1351
+cookingwithtfc:PrepTableN - 1347
+cookingwithtfc:PrepTableS - 1349
+cookingwithtfc:PrepTableW - 1353
+cookingwithtfc:WoodVert - 1339
+cookingwithtfc:bowlCWTFC - 1332
+cookingwithtfc:clayOven - 1333
+cookingwithtfc:customCrop - 1336
+cookingwithtfc:customGourd - 1335
+cookingwithtfc:customLeaves - 1337
+cookingwithtfc:customSapling - 1342
+cookingwithtfc:item.Acorn - 6097
+cookingwithtfc:item.Almond - 6100
+cookingwithtfc:item.BeefStew - 6113
+cookingwithtfc:item.BoiledBeef - 6090
+cookingwithtfc:item.BoiledChicken - 6089
+cookingwithtfc:item.BoiledFish - 6091
+cookingwithtfc:item.BoiledPork - 6092
+cookingwithtfc:item.BoiledVenison - 6093
+cookingwithtfc:item.Broth - 6088
+cookingwithtfc:item.BrownMushroom - 6080
+cookingwithtfc:item.BrownMushroomSpores - 6129
+cookingwithtfc:item.Cashew - 6101
+cookingwithtfc:item.Celery - 6083
+cookingwithtfc:item.CelerySeeds - 6125
+cookingwithtfc:item.Chestnut - 6095
+cookingwithtfc:item.ChickenSandwich - 6117
+cookingwithtfc:item.ChickenSoup - 6112
+cookingwithtfc:item.Coconut - 6102
+cookingwithtfc:item.FishChowder - 6115
+cookingwithtfc:item.FriedEggSandwich - 6120
+cookingwithtfc:item.FruitSalad - 6109
+cookingwithtfc:item.HamSandwich - 6116
+cookingwithtfc:item.Hazelnut - 6103
+cookingwithtfc:item.JackOLantern - 6087
+cookingwithtfc:item.Lettuce - 6082
+cookingwithtfc:item.LettuceSeeds - 6126
+cookingwithtfc:item.Log - 6134
+cookingwithtfc:item.Macadamia Nut - 6104
+cookingwithtfc:item.MelonSeeds - 6128
+cookingwithtfc:item.MuttonSandwich - 6121
+cookingwithtfc:item.Peanut - 6094
+cookingwithtfc:item.PeanutSeeds - 6131
+cookingwithtfc:item.Pecan - 6096
+cookingwithtfc:item.PineNut - 6098
+cookingwithtfc:item.Pistachio - 6105
+cookingwithtfc:item.PotatoSalad - 6108
+cookingwithtfc:item.Pumpkin - 6086
+cookingwithtfc:item.PumpkinSeeds - 6127
+cookingwithtfc:item.RedMushroom - 6081
+cookingwithtfc:item.RedMushroomSpores - 6130
+cookingwithtfc:item.RoastBeefSandwich - 6118
+cookingwithtfc:item.SalmonSandwich - 6119
+cookingwithtfc:item.Salt - 6106
+cookingwithtfc:item.SinglePlank - 6135
+cookingwithtfc:item.SlicedWatermelon - 6084
+cookingwithtfc:item.ToastSandwich - 6124
+cookingwithtfc:item.TomatoSoup - 6111
+cookingwithtfc:item.VegetableSoup - 6110
+cookingwithtfc:item.VegetarianSandwich - 6123
+cookingwithtfc:item.VeggySalad - 6107
+cookingwithtfc:item.VenisonSteakSandwich - 6122
+cookingwithtfc:item.VenisonStew - 6114
+cookingwithtfc:item.Walnut - 6099
+cookingwithtfc:item.Watermelon - 6085
+cookingwithtfc:item.clayCookingPot - 6132
+cookingwithtfc:item.clayOvenWall - 6133
+cookingwithtfc:lumberConstruct - 1346
+cookingwithtfc:meatCWTFC - 1330
+cookingwithtfc:naturalLog - 1338
+cookingwithtfc:nutTreeLeaves - 1344
+cookingwithtfc:nutTreeLog - 1343
+cookingwithtfc:sandwichCWTFC - 1331
+cookingwithtfc:tableStorage - 1334
+cookingwithtfc:woodHorizEW - 1341
+cookingwithtfc:woodHorizNS - 1340
+cookingwithtfc:woodPlank - 1345
+enhancedportals:blank_portal_module - 6142
+enhancedportals:blank_upgrade - 6143
+enhancedportals:dbs - 1357
+enhancedportals:dbs_empty - 1360
+enhancedportals:decor_dbs - 1359
+enhancedportals:decor_frame - 1358
+enhancedportals:frame - 1355
+enhancedportals:glasses - 6138
+enhancedportals:location_card - 6139
+enhancedportals:manual - 6144
+enhancedportals:nanobrush - 6137
+enhancedportals:portal - 1356
+enhancedportals:portal_module - 6140
+enhancedportals:upgrade - 6141
+enhancedportals:wrench - 6136
+gendustry:ApiaryUpgrade - 6174
+gendustry:BeeReceptacle - 6180
+gendustry:ClimateModule - 6185
+gendustry:EjectCover - 6188
+gendustry:EnvProcessor - 6183
+gendustry:ErrorSensorCover - 6190
+gendustry:Extractor - 1427
+gendustry:GeneSample - 6172
+gendustry:GeneSampleBlank - 6171
+gendustry:GeneTemplate - 6173
+gendustry:GeneticsProcessor - 6182
+gendustry:HiveSpawnDebugger - 6187
+gendustry:HoneyComb - 6177
+gendustry:HoneyDrop - 6178
+gendustry:ImportCover - 6189
+gendustry:Imprinter - 1423
+gendustry:IndustrialApiary - 1422
+gendustry:IndustrialGrafter - 6175
+gendustry:IndustrialScoop - 6176
+gendustry:Labware - 6169
+gendustry:LiquidDNABucket - 6193
+gendustry:LiquidDNACan - 6194
+gendustry:Liquifier - 1426
+gendustry:MutagenBucket - 6191
+gendustry:MutagenCan - 6192
+gendustry:MutagenProducer - 1420
+gendustry:MutagenTank - 6179
+gendustry:Mutatron - 1421
+gendustry:MutatronAdv - 1425
+gendustry:PollenKit - 6186
+gendustry:PowerModule - 6181
+gendustry:ProteinBucket - 6195
+gendustry:ProteinCan - 6196
+gendustry:Replicator - 1429
+gendustry:Sampler - 1424
+gendustry:Transposer - 1428
+gendustry:UpgradeFrame - 6184
+gendustry:Waste - 6170
+gendustry:fluid.LiquidDNA - 1418
+gendustry:fluid.Mutagen - 1417
+gendustry:fluid.Protein - 1419
+ieplants:item.Seeds IE_Hemp - 6269
+immersiveintegration:capacitorBox - 6218
+immersiveintegration:extendablePost - 1454
+immersiveintegration:extendedPost - 1457
+immersiveintegration:iiWireCoil - 6217
+immersiveintegration:inductionCharger - 1460
+immersiveintegration:industrialCokeOven - 1458
+immersiveintegration:itemRobin - 1459
+immersiveintegration:redstoneWireConnector - 1461
+immersiveintegration:steelDecoration - 1456
+immersiveintegration:steelTrapdoor - 1455
+lootplusplus:barrier - 1466
+lootplusplus:command_block_trigger - 1464
+lootplusplus:command_trigger_block - 1465
+lootplusplus:command_trigger_item - 6223
+lootplusplus:custom_spawn_egg - 6222
+lootplusplus:dummy_tab_icon_present - 6219
+lootplusplus:dummy_tab_icon_record - 6220
+lootplusplus:loot_chest - 1462
+lootplusplus:loot_item - 6221
+lootplusplus:nbt_checker - 6224
+lootplusplus:single_entity_spawner - 1463
+lwstfc:item.Bladder - 5102
+lwstfc:item.LeatherWaterSac - 5100
+lwstfc:item.WaterSacLeather - 5101
+minecraft:acacia_stairs - 163
+minecraft:activator_rail - 157
+minecraft:anvil - 145
+minecraft:apple - 260
+minecraft:arrow - 262
+minecraft:baked_potato - 393
+minecraft:beacon - 138
+minecraft:bed - 355
+minecraft:bedrock - 7
+minecraft:beef - 363
+minecraft:birch_stairs - 135
+minecraft:blaze_powder - 377
+minecraft:blaze_rod - 369
+minecraft:boat - 333
+minecraft:bone - 352
+minecraft:book - 340
+minecraft:bookshelf - 47
+minecraft:bow - 261
+minecraft:bowl - 281
+minecraft:bread - 297
+minecraft:brewing_stand - 379
+minecraft:brick - 336
+minecraft:brick_block - 45
+minecraft:brick_stairs - 108
+minecraft:brown_mushroom - 39
+minecraft:brown_mushroom_block - 99
+minecraft:bucket - 325
+minecraft:cactus - 81
+minecraft:cake - 354
+minecraft:carpet - 171
+minecraft:carrot - 391
+minecraft:carrot_on_a_stick - 398
+minecraft:carrots - 141
+minecraft:cauldron - 380
+minecraft:chainmail_boots - 305
+minecraft:chainmail_chestplate - 303
+minecraft:chainmail_helmet - 302
+minecraft:chainmail_leggings - 304
+minecraft:chest - 54
+minecraft:chest_minecart - 342
+minecraft:chicken - 365
+minecraft:clay - 82
+minecraft:clay_ball - 337
+minecraft:clock - 347
+minecraft:coal - 263
+minecraft:coal_block - 173
+minecraft:coal_ore - 16
+minecraft:cobblestone - 4
+minecraft:cobblestone_wall - 139
+minecraft:cocoa - 127
+minecraft:command_block - 137
+minecraft:command_block_minecart - 422
+minecraft:comparator - 404
+minecraft:compass - 345
+minecraft:cooked_beef - 364
+minecraft:cooked_chicken - 366
+minecraft:cooked_fished - 350
+minecraft:cooked_porkchop - 320
+minecraft:cookie - 357
+minecraft:crafting_table - 58
+minecraft:dark_oak_stairs - 164
+minecraft:daylight_detector - 151
+minecraft:deadbush - 32
+minecraft:detector_rail - 28
+minecraft:diamond - 264
+minecraft:diamond_axe - 279
+minecraft:diamond_block - 57
+minecraft:diamond_boots - 313
+minecraft:diamond_chestplate - 311
+minecraft:diamond_helmet - 310
+minecraft:diamond_hoe - 293
+minecraft:diamond_horse_armor - 419
+minecraft:diamond_leggings - 312
+minecraft:diamond_ore - 56
+minecraft:diamond_pickaxe - 278
+minecraft:diamond_shovel - 277
+minecraft:diamond_sword - 276
+minecraft:dirt - 3
+minecraft:dispenser - 23
+minecraft:double_plant - 175
+minecraft:double_stone_slab - 43
+minecraft:double_wooden_slab - 125
+minecraft:dragon_egg - 122
+minecraft:dropper - 158
+minecraft:dye - 351
+minecraft:egg - 344
+minecraft:emerald - 388
+minecraft:emerald_block - 133
+minecraft:emerald_ore - 129
+minecraft:enchanted_book - 403
+minecraft:enchanting_table - 116
+minecraft:end_portal - 119
+minecraft:end_portal_frame - 120
+minecraft:end_stone - 121
+minecraft:ender_chest - 130
+minecraft:ender_eye - 381
+minecraft:ender_pearl - 368
+minecraft:experience_bottle - 384
+minecraft:farmland - 60
+minecraft:feather - 288
+minecraft:fence - 85
+minecraft:fence_gate - 107
+minecraft:fermented_spider_eye - 376
+minecraft:filled_map - 358
+minecraft:fire - 51
+minecraft:fire_charge - 385
+minecraft:firework_charge - 402
+minecraft:fireworks - 401
+minecraft:fish - 349
+minecraft:fishing_rod - 346
+minecraft:flint - 318
+minecraft:flint_and_steel - 259
+minecraft:flower_pot - 390
+minecraft:flowing_lava - 10
+minecraft:flowing_water - 8
+minecraft:furnace - 61
+minecraft:furnace_minecart - 343
+minecraft:ghast_tear - 370
+minecraft:glass - 20
+minecraft:glass_bottle - 374
+minecraft:glass_pane - 102
+minecraft:glowstone - 89
+minecraft:glowstone_dust - 348
+minecraft:gold_block - 41
+minecraft:gold_ingot - 266
+minecraft:gold_nugget - 371
+minecraft:gold_ore - 14
+minecraft:golden_apple - 322
+minecraft:golden_axe - 286
+minecraft:golden_boots - 317
+minecraft:golden_carrot - 396
+minecraft:golden_chestplate - 315
+minecraft:golden_helmet - 314
+minecraft:golden_hoe - 294
+minecraft:golden_horse_armor - 418
+minecraft:golden_leggings - 316
+minecraft:golden_pickaxe - 285
+minecraft:golden_rail - 27
+minecraft:golden_shovel - 284
+minecraft:golden_sword - 283
+minecraft:grass - 2
+minecraft:gravel - 13
+minecraft:gunpowder - 289
+minecraft:hardened_clay - 172
+minecraft:hay_block - 170
+minecraft:heavy_weighted_pressure_plate - 148
+minecraft:hopper - 154
+minecraft:hopper_minecart - 408
+minecraft:ice - 79
+minecraft:iron_axe - 258
+minecraft:iron_bars - 101
+minecraft:iron_block - 42
+minecraft:iron_boots - 309
+minecraft:iron_chestplate - 307
+minecraft:iron_door - 330
+minecraft:iron_helmet - 306
+minecraft:iron_hoe - 292
+minecraft:iron_horse_armor - 417
+minecraft:iron_ingot - 265
+minecraft:iron_leggings - 308
+minecraft:iron_ore - 15
+minecraft:iron_pickaxe - 257
+minecraft:iron_shovel - 256
+minecraft:iron_sword - 267
+minecraft:item_frame - 389
+minecraft:jukebox - 84
+minecraft:jungle_stairs - 136
+minecraft:ladder - 65
+minecraft:lapis_block - 22
+minecraft:lapis_ore - 21
+minecraft:lava - 11
+minecraft:lava_bucket - 327
+minecraft:lead - 420
+minecraft:leather - 334
+minecraft:leather_boots - 301
+minecraft:leather_chestplate - 299
+minecraft:leather_helmet - 298
+minecraft:leather_leggings - 300
+minecraft:leaves - 18
+minecraft:leaves2 - 161
+minecraft:lever - 69
+minecraft:light_weighted_pressure_plate - 147
+minecraft:lit_furnace - 62
+minecraft:lit_pumpkin - 91
+minecraft:log - 17
+minecraft:log2 - 162
+minecraft:magma_cream - 378
+minecraft:map - 395
+minecraft:melon - 360
+minecraft:melon_block - 103
+minecraft:melon_seeds - 362
+minecraft:milk_bucket - 335
+minecraft:minecart - 328
+minecraft:mob_spawner - 52
+minecraft:monster_egg - 97
+minecraft:mossy_cobblestone - 48
+minecraft:mushroom_stew - 282
+minecraft:mycelium - 110
+minecraft:name_tag - 421
+minecraft:nether_brick - 112
+minecraft:nether_brick_fence - 113
+minecraft:nether_brick_stairs - 114
+minecraft:nether_star - 399
+minecraft:nether_wart - 372
+minecraft:netherbrick - 405
+minecraft:netherrack - 87
+minecraft:noteblock - 25
+minecraft:oak_stairs - 53
+minecraft:obsidian - 49
+minecraft:packed_ice - 174
+minecraft:painting - 321
+minecraft:paper - 339
+minecraft:piston - 33
+minecraft:planks - 5
+minecraft:poisonous_potato - 394
+minecraft:porkchop - 319
+minecraft:portal - 90
+minecraft:potato - 392
+minecraft:potatoes - 142
+minecraft:potion - 373
+minecraft:pumpkin - 86
+minecraft:pumpkin_pie - 400
+minecraft:pumpkin_seeds - 361
+minecraft:quartz - 406
+minecraft:quartz_block - 155
+minecraft:quartz_ore - 153
+minecraft:quartz_stairs - 156
+minecraft:rail - 66
+minecraft:record_11 - 2266
+minecraft:record_13 - 2256
+minecraft:record_blocks - 2258
+minecraft:record_cat - 2257
+minecraft:record_chirp - 2259
+minecraft:record_far - 2260
+minecraft:record_mall - 2261
+minecraft:record_mellohi - 2262
+minecraft:record_stal - 2263
+minecraft:record_strad - 2264
+minecraft:record_wait - 2267
+minecraft:record_ward - 2265
+minecraft:red_flower - 38
+minecraft:red_mushroom - 40
+minecraft:red_mushroom_block - 100
+minecraft:redstone - 331
+minecraft:redstone_block - 152
+minecraft:redstone_lamp - 123
+minecraft:redstone_ore - 73
+minecraft:redstone_torch - 76
+minecraft:reeds - 338
+minecraft:repeater - 356
+minecraft:rotten_flesh - 367
+minecraft:saddle - 329
+minecraft:sand - 12
+minecraft:sandstone - 24
+minecraft:sandstone_stairs - 128
+minecraft:sapling - 6
+minecraft:shears - 359
+minecraft:sign - 323
+minecraft:skull - 397
+minecraft:slime_ball - 341
+minecraft:snow - 80
+minecraft:snow_layer - 78
+minecraft:snowball - 332
+minecraft:soul_sand - 88
+minecraft:spawn_egg - 383
+minecraft:speckled_melon - 382
+minecraft:spider_eye - 375
+minecraft:sponge - 19
+minecraft:spruce_stairs - 134
+minecraft:stained_glass - 95
+minecraft:stained_glass_pane - 160
+minecraft:stained_hardened_clay - 159
+minecraft:stick - 280
+minecraft:sticky_piston - 29
+minecraft:stone - 1
+minecraft:stone_axe - 275
+minecraft:stone_brick_stairs - 109
+minecraft:stone_button - 77
+minecraft:stone_hoe - 291
+minecraft:stone_pickaxe - 274
+minecraft:stone_pressure_plate - 70
+minecraft:stone_shovel - 273
+minecraft:stone_slab - 44
+minecraft:stone_stairs - 67
+minecraft:stone_sword - 272
+minecraft:stonebrick - 98
+minecraft:string - 287
+minecraft:sugar - 353
+minecraft:tallgrass - 31
+minecraft:tnt - 46
+minecraft:tnt_minecart - 407
+minecraft:torch - 50
+minecraft:trapdoor - 96
+minecraft:trapped_chest - 146
+minecraft:tripwire_hook - 131
+minecraft:vine - 106
+minecraft:water - 9
+minecraft:water_bucket - 326
+minecraft:waterlily - 111
+minecraft:web - 30
+minecraft:wheat - 296
+minecraft:wheat_seeds - 295
+minecraft:wooden_axe - 271
+minecraft:wooden_button - 143
+minecraft:wooden_door - 324
+minecraft:wooden_hoe - 290
+minecraft:wooden_pickaxe - 270
+minecraft:wooden_pressure_plate - 72
+minecraft:wooden_shovel - 269
+minecraft:wooden_slab - 126
+minecraft:wooden_sword - 268
+minecraft:wool - 35
+minecraft:writable_book - 386
+minecraft:written_book - 387
+minecraft:yellow_flower - 37
+terrafirmacraft:Anvil - 226
+terrafirmacraft:Anvil2 - 227
+terrafirmacraft:ArmourStand - 471
+terrafirmacraft:ArmourStand2 - 472
+terrafirmacraft:Barrel - 458
+terrafirmacraft:Bellows - 225
+terrafirmacraft:BerryBush - 473
+terrafirmacraft:Bloom - 233
+terrafirmacraft:Bloomery - 230
+terrafirmacraft:Bookshelf - 479
+terrafirmacraft:ButtonWood - 488
+terrafirmacraft:Cactus - 484
+terrafirmacraft:Charcoal - 207
+terrafirmacraft:Chest TFC - 482
+terrafirmacraft:Clay - 194
+terrafirmacraft:Clay2 - 195
+terrafirmacraft:ClayGrass - 198
+terrafirmacraft:ClayGrass2 - 199
+terrafirmacraft:ClayPottery - 462
+terrafirmacraft:Crops - 474
+terrafirmacraft:Crucible - 464
+terrafirmacraft:Detailed - 208
+terrafirmacraft:Dirt - 190
+terrafirmacraft:Dirt2 - 191
+terrafirmacraft:DoorAcacia - 454
+terrafirmacraft:DoorAsh - 445
+terrafirmacraft:DoorAspen - 439
+terrafirmacraft:DoorBirch - 440
+terrafirmacraft:DoorChestnut - 441
+terrafirmacraft:DoorDouglasFir - 442
+terrafirmacraft:DoorHickory - 443
+terrafirmacraft:DoorKapok - 453
+terrafirmacraft:DoorMaple - 444
+terrafirmacraft:DoorOak - 438
+terrafirmacraft:DoorPine - 446
+terrafirmacraft:DoorSequoia - 447
+terrafirmacraft:DoorSpruce - 448
+terrafirmacraft:DoorSycamore - 449
+terrafirmacraft:DoorWhiteCedar - 450
+terrafirmacraft:DoorWhiteElm - 451
+terrafirmacraft:DoorWillow - 452
+terrafirmacraft:Doortemp1 - 455
+terrafirmacraft:Doortemp2 - 456
+terrafirmacraft:DryGrass - 202
+terrafirmacraft:DryGrass2 - 203
+terrafirmacraft:EarlyBloomery - 231
+terrafirmacraft:Fence - 466
+terrafirmacraft:Fence2 - 467
+terrafirmacraft:FenceGate - 468
+terrafirmacraft:FenceGate2 - 469
+terrafirmacraft:FireBrick - 436
+terrafirmacraft:Firepit - 224
+terrafirmacraft:Flora - 461
+terrafirmacraft:FlowerPot - 501
+terrafirmacraft:Flowers - 476
+terrafirmacraft:Flowers2 - 477
+terrafirmacraft:FoodPrep - 249
+terrafirmacraft:Forge - 228
+terrafirmacraft:FreshWater - 428
+terrafirmacraft:FreshWaterStationary - 429
+terrafirmacraft:Fungi - 478
+terrafirmacraft:Grass - 196
+terrafirmacraft:Grass2 - 197
+terrafirmacraft:Gravel - 491
+terrafirmacraft:Gravel2 - 492
+terrafirmacraft:Grill - 493
+terrafirmacraft:Hopper - 500
+terrafirmacraft:HotWater - 430
+terrafirmacraft:HotWaterStationary - 431
+terrafirmacraft:Ice - 434
+terrafirmacraft:IngotPile - 457
+terrafirmacraft:Lava - 432
+terrafirmacraft:LavaStationary - 433
+terrafirmacraft:LeatherRack - 490
+terrafirmacraft:LilyPad - 475
+terrafirmacraft:LitPumpkin - 487
+terrafirmacraft:LogPile - 206
+terrafirmacraft:Loom - 459
+terrafirmacraft:LooseRock - 205
+terrafirmacraft:MetalSheet - 437
+terrafirmacraft:MetalTrapDoor - 494
+terrafirmacraft:Molten - 229
+terrafirmacraft:Moss - 460
+terrafirmacraft:NestBox - 465
+terrafirmacraft:OilLamp - 499
+terrafirmacraft:Ore1 - 165
+terrafirmacraft:Ore2 - 166
+terrafirmacraft:Ore3 - 167
+terrafirmacraft:Peat - 201
+terrafirmacraft:PeatGrass - 200
+terrafirmacraft:Pumpkin - 486
+terrafirmacraft:Quern - 250
+terrafirmacraft:Reeds - 485
+terrafirmacraft:SaltWater - 426
+terrafirmacraft:SaltWaterStationary - 427
+terrafirmacraft:Sand - 192
+terrafirmacraft:Sand2 - 193
+terrafirmacraft:SeaGrassStill - 435
+terrafirmacraft:Sluice - 232
+terrafirmacraft:Smoke - 496
+terrafirmacraft:SmokeRack - 497
+terrafirmacraft:Snow - 498
+terrafirmacraft:SpawnMeter - 248
+terrafirmacraft:StoneIgEx - 169
+terrafirmacraft:StoneIgExBrick - 187
+terrafirmacraft:StoneIgExCobble - 179
+terrafirmacraft:StoneIgExSmooth - 183
+terrafirmacraft:StoneIgIn - 168
+terrafirmacraft:StoneIgInBrick - 186
+terrafirmacraft:StoneIgInCobble - 178
+terrafirmacraft:StoneIgInSmooth - 182
+terrafirmacraft:StoneMM - 177
+terrafirmacraft:StoneMMBrick - 189
+terrafirmacraft:StoneMMCobble - 181
+terrafirmacraft:StoneMMSmooth - 185
+terrafirmacraft:StoneSed - 176
+terrafirmacraft:StoneSedBrick - 188
+terrafirmacraft:StoneSedCobble - 180
+terrafirmacraft:StoneSedSmooth - 184
+terrafirmacraft:StrawHideBed - 470
+terrafirmacraft:Sulfur - 215
+terrafirmacraft:TallGrass - 204
+terrafirmacraft:Thatch - 463
+terrafirmacraft:ToolRack - 247
+terrafirmacraft:Torch - 480
+terrafirmacraft:TorchOff - 481
+terrafirmacraft:Vessel - 495
+terrafirmacraft:Vine - 489
+terrafirmacraft:WallBrickIgEx - 413
+terrafirmacraft:WallBrickIgIn - 412
+terrafirmacraft:WallBrickMM - 415
+terrafirmacraft:WallBrickSed - 414
+terrafirmacraft:WallCobbleIgEx - 252
+terrafirmacraft:WallCobbleIgIn - 251
+terrafirmacraft:WallCobbleMM - 254
+terrafirmacraft:WallCobbleSed - 253
+terrafirmacraft:WallRawIgEx - 409
+terrafirmacraft:WallRawIgIn - 255
+terrafirmacraft:WallRawMM - 411
+terrafirmacraft:WallRawSed - 410
+terrafirmacraft:WallSmoothIgEx - 423
+terrafirmacraft:WallSmoothIgIn - 416
+terrafirmacraft:WallSmoothMM - 425
+terrafirmacraft:WallSmoothSed - 424
+terrafirmacraft:WoodConstruct - 240
+terrafirmacraft:WoodHoriz - 243
+terrafirmacraft:WoodHoriz2 - 244
+terrafirmacraft:WoodHoriz3 - 245
+terrafirmacraft:WoodHoriz4 - 246
+terrafirmacraft:WoodSupportH - 212
+terrafirmacraft:WoodSupportH2 - 214
+terrafirmacraft:WoodSupportV - 211
+terrafirmacraft:WoodSupportV2 - 213
+terrafirmacraft:WoodVert - 241
+terrafirmacraft:WoodVert2 - 242
+terrafirmacraft:Workbench - 483
+terrafirmacraft:fruitTreeLeaves - 235
+terrafirmacraft:fruitTreeLeaves2 - 236
+terrafirmacraft:fruitTreeWood - 234
+terrafirmacraft:item.Acacia Door - 4495
+terrafirmacraft:item.Agate - 4158
+terrafirmacraft:item.Amethyst - 4162
+terrafirmacraft:item.Ash Door - 4486
+terrafirmacraft:item.Aspen Door - 4480
+terrafirmacraft:item.Axe Mold - 4531
+terrafirmacraft:item.Banana - 4572
+terrafirmacraft:item.Barley Bread - 4620
+terrafirmacraft:item.Barley Dough - 4614
+terrafirmacraft:item.Barley Grain - 4583
+terrafirmacraft:item.Barley Ground - 4608
+terrafirmacraft:item.Barley Whole - 4603
+terrafirmacraft:item.Beef - 4650
+terrafirmacraft:item.Beer - 4497
+terrafirmacraft:item.Beryl - 4157
+terrafirmacraft:item.Birch Door - 4481
+terrafirmacraft:item.Bismuth Bronze Axe - 4178
+terrafirmacraft:item.Bismuth Bronze Axe Head - 4344
+terrafirmacraft:item.Bismuth Bronze Boots - 4715
+terrafirmacraft:item.Bismuth Bronze Chestplate - 4751
+terrafirmacraft:item.Bismuth Bronze Chisel - 4212
+terrafirmacraft:item.Bismuth Bronze Chisel Head - 4362
+terrafirmacraft:item.Bismuth Bronze Double Ingot - 4131
+terrafirmacraft:item.Bismuth Bronze Double Sheet - 4678
+terrafirmacraft:item.Bismuth Bronze Greaves - 4733
+terrafirmacraft:item.Bismuth Bronze Hammer - 4306
+terrafirmacraft:item.Bismuth Bronze Hammer Head - 4353
+terrafirmacraft:item.Bismuth Bronze Helmet - 4769
+terrafirmacraft:item.Bismuth Bronze Hoe - 4179
+terrafirmacraft:item.Bismuth Bronze Hoe Head - 4335
+terrafirmacraft:item.Bismuth Bronze Ingot - 4110
+terrafirmacraft:item.Bismuth Bronze Javelin - 4263
+terrafirmacraft:item.Bismuth Bronze Javelin Head - 4276
+terrafirmacraft:item.Bismuth Bronze Knife - 4445
+terrafirmacraft:item.Bismuth Bronze Knife Blade - 4436
+terrafirmacraft:item.Bismuth Bronze Mace - 4230
+terrafirmacraft:item.Bismuth Bronze Mace Head - 4380
+terrafirmacraft:item.Bismuth Bronze Pick - 4176
+terrafirmacraft:item.Bismuth Bronze Pick Head - 4317
+terrafirmacraft:item.Bismuth Bronze ProPick - 4100
+terrafirmacraft:item.Bismuth Bronze ProPick Head - 4405
+terrafirmacraft:item.Bismuth Bronze Saw - 4239
+terrafirmacraft:item.Bismuth Bronze Saw Blade - 4389
+terrafirmacraft:item.Bismuth Bronze Scythe - 4414
+terrafirmacraft:item.Bismuth Bronze Scythe Blade - 4423
+terrafirmacraft:item.Bismuth Bronze Sheet - 4665
+terrafirmacraft:item.Bismuth Bronze Shovel - 4177
+terrafirmacraft:item.Bismuth Bronze Shovel Head - 4326
+terrafirmacraft:item.Bismuth Bronze Sword - 4221
+terrafirmacraft:item.Bismuth Bronze Sword Blade - 4371
+terrafirmacraft:item.Bismuth Bronze Tuyere - 4547
+terrafirmacraft:item.Bismuth Bronze Unfinished Boots - 4706
+terrafirmacraft:item.Bismuth Bronze Unfinished Chestplate - 4742
+terrafirmacraft:item.Bismuth Bronze Unfinished Greaves - 4724
+terrafirmacraft:item.Bismuth Bronze Unfinished Helmet - 4760
+terrafirmacraft:item.Bismuth Bronze Unshaped - 4285
+terrafirmacraft:item.Bismuth Double Ingot - 4130
+terrafirmacraft:item.Bismuth Double Sheet - 4677
+terrafirmacraft:item.Bismuth Ingot - 4109
+terrafirmacraft:item.Bismuth Sheet - 4664
+terrafirmacraft:item.Bismuth Unshaped - 4284
+terrafirmacraft:item.Black Bronze Axe - 4182
+terrafirmacraft:item.Black Bronze Axe Head - 4345
+terrafirmacraft:item.Black Bronze Boots - 4716
+terrafirmacraft:item.Black Bronze Chestplate - 4752
+terrafirmacraft:item.Black Bronze Chisel - 4213
+terrafirmacraft:item.Black Bronze Chisel Head - 4363
+terrafirmacraft:item.Black Bronze Double Ingot - 4132
+terrafirmacraft:item.Black Bronze Double Sheet - 4679
+terrafirmacraft:item.Black Bronze Greaves - 4734
+terrafirmacraft:item.Black Bronze Hammer - 4307
+terrafirmacraft:item.Black Bronze Hammer Head - 4354
+terrafirmacraft:item.Black Bronze Helmet - 4770
+terrafirmacraft:item.Black Bronze Hoe - 4183
+terrafirmacraft:item.Black Bronze Hoe Head - 4336
+terrafirmacraft:item.Black Bronze Ingot - 4111
+terrafirmacraft:item.Black Bronze Javelin - 4265
+terrafirmacraft:item.Black Bronze Javelin Head - 4278
+terrafirmacraft:item.Black Bronze Knife - 4446
+terrafirmacraft:item.Black Bronze Knife Blade - 4437
+terrafirmacraft:item.Black Bronze Mace - 4231
+terrafirmacraft:item.Black Bronze Mace Head - 4381
+terrafirmacraft:item.Black Bronze Pick - 4180
+terrafirmacraft:item.Black Bronze Pick Head - 4318
+terrafirmacraft:item.Black Bronze ProPick - 4101
+terrafirmacraft:item.Black Bronze ProPick Head - 4406
+terrafirmacraft:item.Black Bronze Saw - 4240
+terrafirmacraft:item.Black Bronze Saw Blade - 4390
+terrafirmacraft:item.Black Bronze Scythe - 4415
+terrafirmacraft:item.Black Bronze Scythe Blade - 4424
+terrafirmacraft:item.Black Bronze Sheet - 4666
+terrafirmacraft:item.Black Bronze Shovel - 4181
+terrafirmacraft:item.Black Bronze Shovel Head - 4327
+terrafirmacraft:item.Black Bronze Sword - 4222
+terrafirmacraft:item.Black Bronze Sword Blade - 4372
+terrafirmacraft:item.Black Bronze Tuyere - 4546
+terrafirmacraft:item.Black Bronze Unfinished Boots - 4707
+terrafirmacraft:item.Black Bronze Unfinished Chestplate - 4743
+terrafirmacraft:item.Black Bronze Unfinished Greaves - 4725
+terrafirmacraft:item.Black Bronze Unfinished Helmet - 4761
+terrafirmacraft:item.Black Bronze Unshaped - 4286
+terrafirmacraft:item.Black Steel Axe - 4186
+terrafirmacraft:item.Black Steel Axe Head - 4346
+terrafirmacraft:item.Black Steel Boots - 4717
+terrafirmacraft:item.Black Steel Chestplate - 4753
+terrafirmacraft:item.Black Steel Chisel - 4214
+terrafirmacraft:item.Black Steel Chisel Head - 4364
+terrafirmacraft:item.Black Steel Double Ingot - 4133
+terrafirmacraft:item.Black Steel Double Sheet - 4680
+terrafirmacraft:item.Black Steel Greaves - 4735
+terrafirmacraft:item.Black Steel Hammer - 4308
+terrafirmacraft:item.Black Steel Hammer Head - 4355
+terrafirmacraft:item.Black Steel Helmet - 4771
+terrafirmacraft:item.Black Steel Hoe - 4187
+terrafirmacraft:item.Black Steel Hoe Head - 4337
+terrafirmacraft:item.Black Steel Ingot - 4112
+terrafirmacraft:item.Black Steel Javelin - 4268
+terrafirmacraft:item.Black Steel Javelin Head - 4281
+terrafirmacraft:item.Black Steel Knife - 4447
+terrafirmacraft:item.Black Steel Knife Blade - 4438
+terrafirmacraft:item.Black Steel Mace - 4232
+terrafirmacraft:item.Black Steel Mace Head - 4382
+terrafirmacraft:item.Black Steel Pick - 4184
+terrafirmacraft:item.Black Steel Pick Head - 4319
+terrafirmacraft:item.Black Steel ProPick - 4102
+terrafirmacraft:item.Black Steel ProPick Head - 4407
+terrafirmacraft:item.Black Steel Saw - 4241
+terrafirmacraft:item.Black Steel Saw Blade - 4391
+terrafirmacraft:item.Black Steel Scythe - 4416
+terrafirmacraft:item.Black Steel Scythe Blade - 4425
+terrafirmacraft:item.Black Steel Sheet - 4667
+terrafirmacraft:item.Black Steel Shovel - 4185
+terrafirmacraft:item.Black Steel Shovel Head - 4328
+terrafirmacraft:item.Black Steel Sword - 4223
+terrafirmacraft:item.Black Steel Sword Blade - 4373
+terrafirmacraft:item.Black Steel Tuyere - 4550
+terrafirmacraft:item.Black Steel Unfinished Boots - 4708
+terrafirmacraft:item.Black Steel Unfinished Chestplate - 4744
+terrafirmacraft:item.Black Steel Unfinished Greaves - 4726
+terrafirmacraft:item.Black Steel Unfinished Helmet - 4762
+terrafirmacraft:item.Black Steel Unshaped - 4287
+terrafirmacraft:item.Blackberry - 4657
+terrafirmacraft:item.Blue Steel Axe - 4190
+terrafirmacraft:item.Blue Steel Axe Head - 4347
+terrafirmacraft:item.Blue Steel Boots - 4718
+terrafirmacraft:item.Blue Steel Bucket Empty - 4475
+terrafirmacraft:item.Blue Steel Bucket Lava - 4476
+terrafirmacraft:item.Blue Steel Chestplate - 4754
+terrafirmacraft:item.Blue Steel Chisel - 4215
+terrafirmacraft:item.Blue Steel Chisel Head - 4365
+terrafirmacraft:item.Blue Steel Double Ingot - 4134
+terrafirmacraft:item.Blue Steel Double Sheet - 4681
+terrafirmacraft:item.Blue Steel Greaves - 4736
+terrafirmacraft:item.Blue Steel Hammer - 4309
+terrafirmacraft:item.Blue Steel Hammer Head - 4356
+terrafirmacraft:item.Blue Steel Helmet - 4772
+terrafirmacraft:item.Blue Steel Hoe - 4191
+terrafirmacraft:item.Blue Steel Hoe Head - 4338
+terrafirmacraft:item.Blue Steel Ingot - 4113
+terrafirmacraft:item.Blue Steel Javelin - 4269
+terrafirmacraft:item.Blue Steel Javelin Head - 4282
+terrafirmacraft:item.Blue Steel Knife - 4448
+terrafirmacraft:item.Blue Steel Knife Blade - 4439
+terrafirmacraft:item.Blue Steel Mace - 4233
+terrafirmacraft:item.Blue Steel Mace Head - 4383
+terrafirmacraft:item.Blue Steel Pick - 4188
+terrafirmacraft:item.Blue Steel Pick Head - 4320
+terrafirmacraft:item.Blue Steel ProPick - 4103
+terrafirmacraft:item.Blue Steel ProPick Head - 4408
+terrafirmacraft:item.Blue Steel Saw - 4242
+terrafirmacraft:item.Blue Steel Saw Blade - 4392
+terrafirmacraft:item.Blue Steel Scythe - 4417
+terrafirmacraft:item.Blue Steel Scythe Blade - 4426
+terrafirmacraft:item.Blue Steel Sheet - 4668
+terrafirmacraft:item.Blue Steel Shovel - 4189
+terrafirmacraft:item.Blue Steel Shovel Head - 4329
+terrafirmacraft:item.Blue Steel Sword - 4224
+terrafirmacraft:item.Blue Steel Sword Blade - 4374
+terrafirmacraft:item.Blue Steel Tuyere - 4552
+terrafirmacraft:item.Blue Steel Unfinished Boots - 4709
+terrafirmacraft:item.Blue Steel Unfinished Chestplate - 4745
+terrafirmacraft:item.Blue Steel Unfinished Greaves - 4727
+terrafirmacraft:item.Blue Steel Unfinished Helmet - 4763
+terrafirmacraft:item.Blue Steel Unshaped - 4288
+terrafirmacraft:item.Blueberry - 4654
+terrafirmacraft:item.Blueprint - 4505
+terrafirmacraft:item.Brass Double Ingot - 4135
+terrafirmacraft:item.Brass Double Sheet - 4698
+terrafirmacraft:item.Brass Ingot - 4114
+terrafirmacraft:item.Brass Sheet - 4690
+terrafirmacraft:item.Brass Unshaped - 4289
+terrafirmacraft:item.Bronze Axe - 4194
+terrafirmacraft:item.Bronze Axe Head - 4348
+terrafirmacraft:item.Bronze Boots - 4719
+terrafirmacraft:item.Bronze Chestplate - 4755
+terrafirmacraft:item.Bronze Chisel - 4216
+terrafirmacraft:item.Bronze Chisel Head - 4366
+terrafirmacraft:item.Bronze Double Ingot - 4136
+terrafirmacraft:item.Bronze Double Sheet - 4682
+terrafirmacraft:item.Bronze Greaves - 4737
+terrafirmacraft:item.Bronze Hammer - 4310
+terrafirmacraft:item.Bronze Hammer Head - 4357
+terrafirmacraft:item.Bronze Helmet - 4773
+terrafirmacraft:item.Bronze Hoe - 4195
+terrafirmacraft:item.Bronze Hoe Head - 4339
+terrafirmacraft:item.Bronze Ingot - 4115
+terrafirmacraft:item.Bronze Javelin - 4264
+terrafirmacraft:item.Bronze Javelin Head - 4277
+terrafirmacraft:item.Bronze Knife - 4449
+terrafirmacraft:item.Bronze Knife Blade - 4440
+terrafirmacraft:item.Bronze Mace - 4234
+terrafirmacraft:item.Bronze Mace Head - 4384
+terrafirmacraft:item.Bronze Pick - 4192
+terrafirmacraft:item.Bronze Pick Head - 4321
+terrafirmacraft:item.Bronze ProPick - 4104
+terrafirmacraft:item.Bronze ProPick Head - 4409
+terrafirmacraft:item.Bronze Saw - 4243
+terrafirmacraft:item.Bronze Saw Blade - 4393
+terrafirmacraft:item.Bronze Scythe - 4418
+terrafirmacraft:item.Bronze Scythe Blade - 4427
+terrafirmacraft:item.Bronze Sheet - 4669
+terrafirmacraft:item.Bronze Shovel - 4193
+terrafirmacraft:item.Bronze Shovel Head - 4330
+terrafirmacraft:item.Bronze Sword - 4225
+terrafirmacraft:item.Bronze Sword Blade - 4375
+terrafirmacraft:item.Bronze Tuyere - 4545
+terrafirmacraft:item.Bronze Unfinished Boots - 4710
+terrafirmacraft:item.Bronze Unfinished Chestplate - 4746
+terrafirmacraft:item.Bronze Unfinished Greaves - 4728
+terrafirmacraft:item.Bronze Unfinished Helmet - 4764
+terrafirmacraft:item.Bronze Unshaped - 4290
+terrafirmacraft:item.Bunchberry - 4658
+terrafirmacraft:item.BurlapCloth - 4511
+terrafirmacraft:item.Cabbage - 4591
+terrafirmacraft:item.Calamari - 4625
+terrafirmacraft:item.Carrot - 4593
+terrafirmacraft:item.Cheese - 4601
+terrafirmacraft:item.Cherry - 4577
+terrafirmacraft:item.Chestnut Door - 4482
+terrafirmacraft:item.Chicken - 4651
+terrafirmacraft:item.Chisel Mold - 4532
+terrafirmacraft:item.Cider - 4498
+terrafirmacraft:item.Clay - 4567
+terrafirmacraft:item.ClayBowl - 4528
+terrafirmacraft:item.Cloudberry - 4663
+terrafirmacraft:item.Copper Axe - 4198
+terrafirmacraft:item.Copper Axe Head - 4349
+terrafirmacraft:item.Copper Boots - 4720
+terrafirmacraft:item.Copper Chestplate - 4756
+terrafirmacraft:item.Copper Chisel - 4217
+terrafirmacraft:item.Copper Chisel Head - 4367
+terrafirmacraft:item.Copper Double Ingot - 4137
+terrafirmacraft:item.Copper Double Sheet - 4683
+terrafirmacraft:item.Copper Greaves - 4738
+terrafirmacraft:item.Copper Hammer - 4311
+terrafirmacraft:item.Copper Hammer Head - 4358
+terrafirmacraft:item.Copper Helmet - 4774
+terrafirmacraft:item.Copper Hoe - 4199
+terrafirmacraft:item.Copper Hoe Head - 4340
+terrafirmacraft:item.Copper Ingot - 4116
+terrafirmacraft:item.Copper Javelin - 4262
+terrafirmacraft:item.Copper Javelin Head - 4275
+terrafirmacraft:item.Copper Knife - 4450
+terrafirmacraft:item.Copper Knife Blade - 4441
+terrafirmacraft:item.Copper Mace - 4235
+terrafirmacraft:item.Copper Mace Head - 4385
+terrafirmacraft:item.Copper Pick - 4196
+terrafirmacraft:item.Copper Pick Head - 4322
+terrafirmacraft:item.Copper ProPick - 4105
+terrafirmacraft:item.Copper ProPick Head - 4410
+terrafirmacraft:item.Copper Saw - 4244
+terrafirmacraft:item.Copper Saw Blade - 4394
+terrafirmacraft:item.Copper Scythe - 4419
+terrafirmacraft:item.Copper Scythe Blade - 4428
+terrafirmacraft:item.Copper Sheet - 4670
+terrafirmacraft:item.Copper Shovel - 4197
+terrafirmacraft:item.Copper Shovel Head - 4331
+terrafirmacraft:item.Copper Sword - 4226
+terrafirmacraft:item.Copper Sword Blade - 4376
+terrafirmacraft:item.Copper Tuyere - 4544
+terrafirmacraft:item.Copper Unfinished Boots - 4711
+terrafirmacraft:item.Copper Unfinished Chestplate - 4747
+terrafirmacraft:item.Copper Unfinished Greaves - 4729
+terrafirmacraft:item.Copper Unfinished Helmet - 4765
+terrafirmacraft:item.Copper Unshaped - 4291
+terrafirmacraft:item.Corn Bread - 4624
+terrafirmacraft:item.CornWhiskey - 4504
+terrafirmacraft:item.Cornmeal Dough - 4618
+terrafirmacraft:item.Cornmeal Ground - 4612
+terrafirmacraft:item.Cranberry - 4659
+terrafirmacraft:item.Diamond - 4163
+terrafirmacraft:item.Douglas Fir Door - 4483
+terrafirmacraft:item.Egg Cooked - 4581
+terrafirmacraft:item.Elderberry - 4661
+terrafirmacraft:item.Emerald - 4153
+terrafirmacraft:item.Fertilizer - 4569
+terrafirmacraft:item.Fire Brick - 4530
+terrafirmacraft:item.Firestarter - 4316
+terrafirmacraft:item.Fish - 4649
+terrafirmacraft:item.Flat Clay - 4525
+terrafirmacraft:item.Flat Leather - 4522
+terrafirmacraft:item.FlatRock - 4454
+terrafirmacraft:item.FruitSapling - 4570
+terrafirmacraft:item.Garlic - 4592
+terrafirmacraft:item.Garnet - 4160
+terrafirmacraft:item.Glass Bottle - 4496
+terrafirmacraft:item.Gold Double Ingot - 4138
+terrafirmacraft:item.Gold Double Sheet - 4699
+terrafirmacraft:item.Gold Ingot - 4117
+terrafirmacraft:item.Gold Sheet - 4691
+terrafirmacraft:item.Gold Unshaped - 4292
+terrafirmacraft:item.GoldPan - 4098
+terrafirmacraft:item.Gooseberry - 4662
+terrafirmacraft:item.Green Apple - 4574
+terrafirmacraft:item.Green Bell Pepper - 4597
+terrafirmacraft:item.Greenbeans - 4596
+terrafirmacraft:item.HC Black Steel Ingot - 4248
+terrafirmacraft:item.HC Black Steel Unshaped - 4398
+terrafirmacraft:item.HC Blue Steel Ingot - 4252
+terrafirmacraft:item.HC Blue Steel Unshaped - 4400
+terrafirmacraft:item.HC Red Steel Ingot - 4253
+terrafirmacraft:item.HC Red Steel Unshaped - 4402
+terrafirmacraft:item.HC Steel Ingot - 4254
+terrafirmacraft:item.HC Steel Unshaped - 4404
+terrafirmacraft:item.Hammer Mold - 4533
+terrafirmacraft:item.Hickory Door - 4484
+terrafirmacraft:item.Hide - 4517
+terrafirmacraft:item.Hoe Mold - 4534
+terrafirmacraft:item.HorseMeat - 4647
+terrafirmacraft:item.IgEx Stone Axe - 4171
+terrafirmacraft:item.IgEx Stone Axe Head - 4462
+terrafirmacraft:item.IgEx Stone Hoe - 4172
+terrafirmacraft:item.IgEx Stone Hoe Head - 4466
+terrafirmacraft:item.IgEx Stone Javelin - 4260
+terrafirmacraft:item.IgEx Stone Javelin Head - 4273
+terrafirmacraft:item.IgEx Stone Shovel - 4170
+terrafirmacraft:item.IgEx Stone Shovel Head - 4458
+terrafirmacraft:item.IgIn Stone Axe - 4165
+terrafirmacraft:item.IgIn Stone Axe Head - 4460
+terrafirmacraft:item.IgIn Stone Hoe - 4166
+terrafirmacraft:item.IgIn Stone Hoe Head - 4464
+terrafirmacraft:item.IgIn Stone Javelin - 4258
+terrafirmacraft:item.IgIn Stone Javelin Head - 4271
+terrafirmacraft:item.IgIn Stone Shovel - 4164
+terrafirmacraft:item.IgIn Stone Shovel Head - 4456
+terrafirmacraft:item.Ink - 4315
+terrafirmacraft:item.Iron Bloom - 4553
+terrafirmacraft:item.ItemStoneBrick - 4514
+terrafirmacraft:item.Jade - 4156
+terrafirmacraft:item.Jasper - 4161
+terrafirmacraft:item.Javelin Mold - 4543
+terrafirmacraft:item.Jug - 4526
+terrafirmacraft:item.Jute - 4557
+terrafirmacraft:item.Jute Fibre - 4558
+terrafirmacraft:item.Kapok Door - 4494
+terrafirmacraft:item.Knife Mold - 4535
+terrafirmacraft:item.Lead Double Ingot - 4140
+terrafirmacraft:item.Lead Double Sheet - 4700
+terrafirmacraft:item.Lead Ingot - 4119
+terrafirmacraft:item.Lead Sheet - 4692
+terrafirmacraft:item.Lead Unshaped - 4294
+terrafirmacraft:item.Lemon - 4575
+terrafirmacraft:item.Log - 4257
+terrafirmacraft:item.LooseRock - 4455
+terrafirmacraft:item.MM Stone Axe - 4174
+terrafirmacraft:item.MM Stone Axe Head - 4463
+terrafirmacraft:item.MM Stone Hoe - 4175
+terrafirmacraft:item.MM Stone Hoe Head - 4467
+terrafirmacraft:item.MM Stone Javelin - 4261
+terrafirmacraft:item.MM Stone Javelin Head - 4274
+terrafirmacraft:item.MM Stone Shovel - 4173
+terrafirmacraft:item.MM Stone Shovel Head - 4459
+terrafirmacraft:item.Mace Mold - 4536
+terrafirmacraft:item.Maize Ear - 4587
+terrafirmacraft:item.Maple Door - 4485
+terrafirmacraft:item.Mold - 4529
+terrafirmacraft:item.Mortar - 4515
+terrafirmacraft:item.Mutton - 4645
+terrafirmacraft:item.Nametag - 4506
+terrafirmacraft:item.Nickel Double Ingot - 4141
+terrafirmacraft:item.Nickel Double Sheet - 4701
+terrafirmacraft:item.Nickel Ingot - 4120
+terrafirmacraft:item.Nickel Sheet - 4693
+terrafirmacraft:item.Nickel Unshaped - 4295
+terrafirmacraft:item.Oak Door - 4479
+terrafirmacraft:item.Oat Bread - 4621
+terrafirmacraft:item.Oat Dough - 4615
+terrafirmacraft:item.Oat Grain - 4584
+terrafirmacraft:item.Oat Ground - 4609
+terrafirmacraft:item.Oat Whole - 4604
+terrafirmacraft:item.Olive - 4576
+terrafirmacraft:item.Onion - 4590
+terrafirmacraft:item.Opal - 4159
+terrafirmacraft:item.Orange - 4573
+terrafirmacraft:item.Ore - 4255
+terrafirmacraft:item.Peach - 4578
+terrafirmacraft:item.Pick Mold - 4537
+terrafirmacraft:item.Pig Iron Double Ingot - 4142
+terrafirmacraft:item.Pig Iron Double Sheet - 4702
+terrafirmacraft:item.Pig Iron Ingot - 4121
+terrafirmacraft:item.Pig Iron Sheet - 4694
+terrafirmacraft:item.Pig Iron Unshaped - 4296
+terrafirmacraft:item.Pine Door - 4487
+terrafirmacraft:item.Platinum Double Ingot - 4143
+terrafirmacraft:item.Platinum Double Sheet - 4703
+terrafirmacraft:item.Platinum Ingot - 4122
+terrafirmacraft:item.Platinum Sheet - 4695
+terrafirmacraft:item.Platinum Unshaped - 4297
+terrafirmacraft:item.Plum - 4579
+terrafirmacraft:item.Porkchop - 4648
+terrafirmacraft:item.Potato - 4589
+terrafirmacraft:item.Powder - 4568
+terrafirmacraft:item.Prep Hide - 4520
+terrafirmacraft:item.ProPick Mold - 4538
+terrafirmacraft:item.Quern - 4477
+terrafirmacraft:item.Quiver - 4782
+terrafirmacraft:item.Raspberry - 4655
+terrafirmacraft:item.Raw Iron Bloom - 4554
+terrafirmacraft:item.Red Apple - 4571
+terrafirmacraft:item.Red Bell Pepper - 4599
+terrafirmacraft:item.Red Steel Axe - 4206
+terrafirmacraft:item.Red Steel Axe Head - 4351
+terrafirmacraft:item.Red Steel Boots - 4722
+terrafirmacraft:item.Red Steel Bucket Empty - 4472
+terrafirmacraft:item.Red Steel Bucket Salt Water - 4474
+terrafirmacraft:item.Red Steel Bucket Water - 4473
+terrafirmacraft:item.Red Steel Chestplate - 4758
+terrafirmacraft:item.Red Steel Chisel - 4219
+terrafirmacraft:item.Red Steel Chisel Head - 4369
+terrafirmacraft:item.Red Steel Double Ingot - 4144
+terrafirmacraft:item.Red Steel Double Sheet - 4685
+terrafirmacraft:item.Red Steel Greaves - 4740
+terrafirmacraft:item.Red Steel Hammer - 4313
+terrafirmacraft:item.Red Steel Hammer Head - 4360
+terrafirmacraft:item.Red Steel Helmet - 4776
+terrafirmacraft:item.Red Steel Hoe - 4207
+terrafirmacraft:item.Red Steel Hoe Head - 4342
+terrafirmacraft:item.Red Steel Ingot - 4123
+terrafirmacraft:item.Red Steel Javelin - 4270
+terrafirmacraft:item.Red Steel Javelin Head - 4283
+terrafirmacraft:item.Red Steel Knife - 4452
+terrafirmacraft:item.Red Steel Knife Blade - 4443
+terrafirmacraft:item.Red Steel Mace - 4237
+terrafirmacraft:item.Red Steel Mace Head - 4387
+terrafirmacraft:item.Red Steel Pick - 4204
+terrafirmacraft:item.Red Steel Pick Head - 4324
+terrafirmacraft:item.Red Steel ProPick - 4107
+terrafirmacraft:item.Red Steel ProPick Head - 4412
+terrafirmacraft:item.Red Steel Saw - 4246
+terrafirmacraft:item.Red Steel Saw Blade - 4396
+terrafirmacraft:item.Red Steel Scythe - 4421
+terrafirmacraft:item.Red Steel Scythe Blade - 4430
+terrafirmacraft:item.Red Steel Sheet - 4672
+terrafirmacraft:item.Red Steel Shovel - 4205
+terrafirmacraft:item.Red Steel Shovel Head - 4333
+terrafirmacraft:item.Red Steel Sword - 4228
+terrafirmacraft:item.Red Steel Sword Blade - 4378
+terrafirmacraft:item.Red Steel Tuyere - 4551
+terrafirmacraft:item.Red Steel Unfinished Boots - 4713
+terrafirmacraft:item.Red Steel Unfinished Chestplate - 4749
+terrafirmacraft:item.Red Steel Unfinished Greaves - 4731
+terrafirmacraft:item.Red Steel Unfinished Helmet - 4767
+terrafirmacraft:item.Red Steel Unshaped - 4298
+terrafirmacraft:item.Reeds - 4559
+terrafirmacraft:item.Rice Bread - 4623
+terrafirmacraft:item.Rice Dough - 4617
+terrafirmacraft:item.Rice Grain - 4586
+terrafirmacraft:item.Rice Ground - 4611
+terrafirmacraft:item.Rice Whole - 4606
+terrafirmacraft:item.Rope - 4566
+terrafirmacraft:item.Rose Gold Double Ingot - 4145
+terrafirmacraft:item.Rose Gold Double Sheet - 4686
+terrafirmacraft:item.Rose Gold Ingot - 4124
+terrafirmacraft:item.Rose Gold Sheet - 4673
+terrafirmacraft:item.Rose Gold Unshaped - 4299
+terrafirmacraft:item.Ruby - 4151
+terrafirmacraft:item.Rum - 4499
+terrafirmacraft:item.Rye Bread - 4622
+terrafirmacraft:item.Rye Dough - 4616
+terrafirmacraft:item.Rye Grain - 4585
+terrafirmacraft:item.Rye Ground - 4610
+terrafirmacraft:item.Rye Whole - 4605
+terrafirmacraft:item.RyeWhiskey - 4500
+terrafirmacraft:item.Sake - 4501
+terrafirmacraft:item.Salad - 4784
+terrafirmacraft:item.Sandwich - 4783
+terrafirmacraft:item.Sapphire - 4152
+terrafirmacraft:item.Saw Mold - 4539
+terrafirmacraft:item.Scraped Hide - 4519
+terrafirmacraft:item.Scythe Mold - 4540
+terrafirmacraft:item.Sea Weed - 4652
+terrafirmacraft:item.Sed Stone Axe - 4168
+terrafirmacraft:item.Sed Stone Axe Head - 4461
+terrafirmacraft:item.Sed Stone Hoe - 4169
+terrafirmacraft:item.Sed Stone Hoe Head - 4465
+terrafirmacraft:item.Sed Stone Javelin - 4259
+terrafirmacraft:item.Sed Stone Javelin Head - 4272
+terrafirmacraft:item.Sed Stone Shovel - 4167
+terrafirmacraft:item.Sed Stone Shovel Head - 4457
+terrafirmacraft:item.Seeds Barley - 4627
+terrafirmacraft:item.Seeds Cabbage - 4634
+terrafirmacraft:item.Seeds Carrot - 4636
+terrafirmacraft:item.Seeds Garlic - 4635
+terrafirmacraft:item.Seeds Greenbean - 4642
+terrafirmacraft:item.Seeds Jute - 4644
+terrafirmacraft:item.Seeds Maize - 4631
+terrafirmacraft:item.Seeds Oat - 4629
+terrafirmacraft:item.Seeds Onion - 4633
+terrafirmacraft:item.Seeds Potato - 4632
+terrafirmacraft:item.Seeds Red Bell Pepper - 4640
+terrafirmacraft:item.Seeds Rice - 4630
+terrafirmacraft:item.Seeds Rye - 4628
+terrafirmacraft:item.Seeds Soybean - 4641
+terrafirmacraft:item.Seeds Squash - 4643
+terrafirmacraft:item.Seeds Sugarcane - 4637
+terrafirmacraft:item.Seeds Tomato - 4638
+terrafirmacraft:item.Seeds Wheat - 4626
+terrafirmacraft:item.Seeds Yellow Bell Pepper - 4639
+terrafirmacraft:item.Sequoia Door - 4488
+terrafirmacraft:item.Sheep Skin - 4521
+terrafirmacraft:item.Shovel Mold - 4541
+terrafirmacraft:item.SilkCloth - 4510
+terrafirmacraft:item.Silver Double Ingot - 4146
+terrafirmacraft:item.Silver Double Sheet - 4704
+terrafirmacraft:item.Silver Ingot - 4125
+terrafirmacraft:item.Silver Sheet - 4696
+terrafirmacraft:item.Silver Unshaped - 4300
+terrafirmacraft:item.SinglePlank - 4471
+terrafirmacraft:item.SluiceItem - 4099
+terrafirmacraft:item.Small Ore - 4256
+terrafirmacraft:item.Small Vessel - 4527
+terrafirmacraft:item.Snowberry - 4660
+terrafirmacraft:item.Soaked Hide - 4518
+terrafirmacraft:item.Soybeans - 4595
+terrafirmacraft:item.Spindle - 4512
+terrafirmacraft:item.Spindle Head - 4513
+terrafirmacraft:item.Spruce Door - 4489
+terrafirmacraft:item.Squash - 4600
+terrafirmacraft:item.Steel Axe - 4210
+terrafirmacraft:item.Steel Axe Head - 4352
+terrafirmacraft:item.Steel Boots - 4723
+terrafirmacraft:item.Steel Chestplate - 4759
+terrafirmacraft:item.Steel Chisel - 4220
+terrafirmacraft:item.Steel Chisel Head - 4370
+terrafirmacraft:item.Steel Double Ingot - 4147
+terrafirmacraft:item.Steel Double Sheet - 4687
+terrafirmacraft:item.Steel Greaves - 4741
+terrafirmacraft:item.Steel Hammer - 4314
+terrafirmacraft:item.Steel Hammer Head - 4361
+terrafirmacraft:item.Steel Helmet - 4777
+terrafirmacraft:item.Steel Hoe - 4211
+terrafirmacraft:item.Steel Hoe Head - 4343
+terrafirmacraft:item.Steel Ingot - 4126
+terrafirmacraft:item.Steel Javelin - 4267
+terrafirmacraft:item.Steel Javelin Head - 4280
+terrafirmacraft:item.Steel Knife - 4453
+terrafirmacraft:item.Steel Knife Blade - 4444
+terrafirmacraft:item.Steel Mace - 4238
+terrafirmacraft:item.Steel Mace Head - 4388
+terrafirmacraft:item.Steel Pick - 4208
+terrafirmacraft:item.Steel Pick Head - 4325
+terrafirmacraft:item.Steel ProPick - 4108
+terrafirmacraft:item.Steel ProPick Head - 4413
+terrafirmacraft:item.Steel Saw - 4247
+terrafirmacraft:item.Steel Saw Blade - 4397
+terrafirmacraft:item.Steel Scythe - 4422
+terrafirmacraft:item.Steel Scythe Blade - 4431
+terrafirmacraft:item.Steel Sheet - 4674
+terrafirmacraft:item.Steel Shovel - 4209
+terrafirmacraft:item.Steel Shovel Head - 4334
+terrafirmacraft:item.Steel Sword - 4229
+terrafirmacraft:item.Steel Sword Blade - 4379
+terrafirmacraft:item.Steel Tuyere - 4549
+terrafirmacraft:item.Steel Unfinished Boots - 4714
+terrafirmacraft:item.Steel Unfinished Chestplate - 4750
+terrafirmacraft:item.Steel Unfinished Greaves - 4732
+terrafirmacraft:item.Steel Unfinished Helmet - 4768
+terrafirmacraft:item.Steel Unshaped - 4301
+terrafirmacraft:item.Sterling Silver Double Ingot - 4148
+terrafirmacraft:item.Sterling Silver Double Sheet - 4705
+terrafirmacraft:item.Sterling Silver Ingot - 4127
+terrafirmacraft:item.Sterling Silver Sheet - 4697
+terrafirmacraft:item.Sterling Silver Unshaped - 4302
+terrafirmacraft:item.Stone Hammer - 4305
+terrafirmacraft:item.Stone Hammer Head - 4469
+terrafirmacraft:item.Stone Knife - 4470
+terrafirmacraft:item.Stone Knife Blade - 4468
+terrafirmacraft:item.Straw - 4524
+terrafirmacraft:item.Strawberry - 4656
+terrafirmacraft:item.Sugar - 4785
+terrafirmacraft:item.Sugarcane - 4594
+terrafirmacraft:item.Sword Mold - 4542
+terrafirmacraft:item.Sycamore Door - 4490
+terrafirmacraft:item.TFC Leather - 4523
+terrafirmacraft:item.Tin Double Ingot - 4149
+terrafirmacraft:item.Tin Double Sheet - 4688
+terrafirmacraft:item.Tin Ingot - 4128
+terrafirmacraft:item.Tin Sheet - 4675
+terrafirmacraft:item.Tin Unshaped - 4303
+terrafirmacraft:item.Tomato - 4588
+terrafirmacraft:item.Topaz - 4154
+terrafirmacraft:item.Tourmaline - 4155
+terrafirmacraft:item.Unknown Ingot - 4555
+terrafirmacraft:item.Unknown Unshaped - 4556
+terrafirmacraft:item.Venison - 4646
+terrafirmacraft:item.Vinegar - 4516
+terrafirmacraft:item.Vodka - 4502
+terrafirmacraft:item.Weak Blue Steel Ingot - 4249
+terrafirmacraft:item.Weak Blue Steel Unshaped - 4399
+terrafirmacraft:item.Weak Red Steel Ingot - 4250
+terrafirmacraft:item.Weak Red Steel Unshaped - 4401
+terrafirmacraft:item.Weak Steel Ingot - 4251
+terrafirmacraft:item.Weak Steel Unshaped - 4403
+terrafirmacraft:item.Wheat Bread - 4619
+terrafirmacraft:item.Wheat Dough - 4613
+terrafirmacraft:item.Wheat Grain - 4582
+terrafirmacraft:item.Wheat Ground - 4607
+terrafirmacraft:item.Wheat Whole - 4602
+terrafirmacraft:item.Whiskey - 4503
+terrafirmacraft:item.White Cedar Door - 4491
+terrafirmacraft:item.White Elm Door - 4492
+terrafirmacraft:item.Willow Door - 4493
+terrafirmacraft:item.Wintergreen Berry - 4653
+terrafirmacraft:item.Wooden Bucket Empty - 4432
+terrafirmacraft:item.Wooden Bucket Milk - 4435
+terrafirmacraft:item.Wooden Bucket Salt Water - 4434
+terrafirmacraft:item.Wooden Bucket Water - 4433
+terrafirmacraft:item.Wool - 4508
+terrafirmacraft:item.WoolCloth - 4509
+terrafirmacraft:item.WoolYarn - 4507
+terrafirmacraft:item.Wrought Iron Axe - 4202
+terrafirmacraft:item.Wrought Iron Axe Head - 4350
+terrafirmacraft:item.Wrought Iron Boots - 4721
+terrafirmacraft:item.Wrought Iron Chestplate - 4757
+terrafirmacraft:item.Wrought Iron Chisel - 4218
+terrafirmacraft:item.Wrought Iron Chisel Head - 4368
+terrafirmacraft:item.Wrought Iron Double Ingot - 4139
+terrafirmacraft:item.Wrought Iron Double Sheet - 4684
+terrafirmacraft:item.Wrought Iron Greaves - 4739
+terrafirmacraft:item.Wrought Iron Hammer - 4312
+terrafirmacraft:item.Wrought Iron Hammer Head - 4359
+terrafirmacraft:item.Wrought Iron Helmet - 4775
+terrafirmacraft:item.Wrought Iron Hoe - 4203
+terrafirmacraft:item.Wrought Iron Hoe Head - 4341
+terrafirmacraft:item.Wrought Iron Ingot - 4118
+terrafirmacraft:item.Wrought Iron Javelin - 4266
+terrafirmacraft:item.Wrought Iron Javelin Head - 4279
+terrafirmacraft:item.Wrought Iron Knife - 4451
+terrafirmacraft:item.Wrought Iron Knife Blade - 4442
+terrafirmacraft:item.Wrought Iron Mace - 4236
+terrafirmacraft:item.Wrought Iron Mace Head - 4386
+terrafirmacraft:item.Wrought Iron Pick - 4200
+terrafirmacraft:item.Wrought Iron Pick Head - 4323
+terrafirmacraft:item.Wrought Iron ProPick - 4106
+terrafirmacraft:item.Wrought Iron ProPick Head - 4411
+terrafirmacraft:item.Wrought Iron Saw - 4245
+terrafirmacraft:item.Wrought Iron Saw Blade - 4395
+terrafirmacraft:item.Wrought Iron Scythe - 4420
+terrafirmacraft:item.Wrought Iron Scythe Blade - 4429
+terrafirmacraft:item.Wrought Iron Sheet - 4671
+terrafirmacraft:item.Wrought Iron Shovel - 4201
+terrafirmacraft:item.Wrought Iron Shovel Head - 4332
+terrafirmacraft:item.Wrought Iron Sword - 4227
+terrafirmacraft:item.Wrought Iron Sword Blade - 4377
+terrafirmacraft:item.Wrought Iron Tuyere - 4548
+terrafirmacraft:item.Wrought Iron Unfinished Boots - 4712
+terrafirmacraft:item.Wrought Iron Unfinished Chestplate - 4748
+terrafirmacraft:item.Wrought Iron Unfinished Greaves - 4730
+terrafirmacraft:item.Wrought Iron Unfinished Helmet - 4766
+terrafirmacraft:item.Wrought Iron Unshaped - 4293
+terrafirmacraft:item.Yellow Bell Pepper - 4598
+terrafirmacraft:item.Zinc Double Ingot - 4150
+terrafirmacraft:item.Zinc Double Sheet - 4689
+terrafirmacraft:item.Zinc Ingot - 4129
+terrafirmacraft:item.Zinc Sheet - 4676
+terrafirmacraft:item.Zinc Unshaped - 4304
+terrafirmacraft:item.arrow - 4564
+terrafirmacraft:item.bootsCloth - 4781
+terrafirmacraft:item.bow - 4563
+terrafirmacraft:item.chestplateCloth - 4779
+terrafirmacraft:item.coal - 4561
+terrafirmacraft:item.dyePowder - 4565
+terrafirmacraft:item.egg - 4580
+terrafirmacraft:item.fishingRod - 4560
+terrafirmacraft:item.flintAndSteel - 4478
+terrafirmacraft:item.helmetCloth - 4778
+terrafirmacraft:item.leggingsCloth - 4780
+terrafirmacraft:item.shears - 4786
+terrafirmacraft:item.stick - 4562
+terrafirmacraft:leaves - 218
+terrafirmacraft:leaves2 - 219
+terrafirmacraft:log - 216
+terrafirmacraft:log2 - 217
+terrafirmacraft:planks - 222
+terrafirmacraft:planks2 - 223
+terrafirmacraft:sapling - 220
+terrafirmacraft:sapling2 - 221
+terrafirmacraft:stoneSlabs - 238
+terrafirmacraft:stoneStairs - 237
+terrafirmacraft:stoneStalac - 239
+terrafirmacraft:tilledSoil - 209
+terrafirmacraft:tilledSoil2 - 210
+terrafirmastuff:clayRaw - 621
+terrafirmastuff:clayStained - 622
+terrafirmastuff:clayStained2 - 623
+terrafirmastuff:clayStainedBrick - 628
+terrafirmastuff:clayStainedBrick2 - 629
+terrafirmastuff:clayStainedChiseled - 632
+terrafirmastuff:clayStainedChiseled2 - 633
+terrafirmastuff:clayStainedChiseled3 - 634
+terrafirmastuff:clayStainedChiseled4 - 635
+terrafirmastuff:clayStainedChiseled5 - 636
+terrafirmastuff:clayStainedCircle - 630
+terrafirmastuff:clayStainedCircle2 - 631
+terrafirmastuff:clayStainedPaver - 624
+terrafirmastuff:clayStainedPaver2 - 625
+terrafirmastuff:clayStainedPillar - 637
+terrafirmastuff:clayStainedPillar2 - 638
+terrafirmastuff:clayStainedPillar3 - 639
+terrafirmastuff:clayStainedPillar4 - 640
+terrafirmastuff:clayStainedPillar5 - 641
+terrafirmastuff:clayStainedTile - 626
+terrafirmastuff:clayStainedTile2 - 627
+tfcautomatedbellows:BellowsDriver - 1513
+tfcautomatedbellows:PotteryKiln - 1515
+tfcautomatedbellows:PotteryKilnChamber - 1516
+tfcautomatedbellows:SteamBoiler - 1514
+tfcautomatedbellows:WaterFilter - 1517
+tfcautomatedbellows:WroughtIronRoundShield - 6278
+tfccellars:BismuthBronzeIceSaw - 6289
+tfccellars:BismuthBronzeIceSawHead - 6280
+tfccellars:BlackBronzeIceSaw - 6290
+tfccellars:BlackBronzeIceSawHead - 6281
+tfccellars:BlackSteelIceSaw - 6291
+tfccellars:BlackSteelIceSawHead - 6282
+tfccellars:BlueSteelIceSaw - 6292
+tfccellars:BlueSteelIceSawHead - 6283
+tfccellars:BronzeIceSaw - 6293
+tfccellars:BronzeIceSawHead - 6284
+tfccellars:CellarDoor - 1521
+tfccellars:CellarDoorItem - 6279
+tfccellars:CellarShelf - 1520
+tfccellars:CellarWall - 1518
+tfccellars:CopperIceSaw - 6294
+tfccellars:CopperIceSawHead - 6285
+tfccellars:Ice - 1522
+tfccellars:IceBunker - 1519
+tfccellars:RedSteelIceSaw - 6296
+tfccellars:RedSteelIceSawHead - 6287
+tfccellars:SteelIceSaw - 6297
+tfccellars:SteelIceSawHead - 6288
+tfccellars:WroughtIronIceSaw - 6295
+tfccellars:WroughtIronIceSawHead - 6286
+tfcengineer:item.InsulationCloth - 6255
+tfcengineer:item.Lunchbox - 6254
+tfcengineer:tile.DeepFreezer - 1510
+tfcengineer:tile.ElectricForge - 1507
+tfcengineer:tile.Fridge - 1509
+tfcengineer:tile.InductionForge - 1508
+tfcm:blockFruitPress - 648
+tfcm:blockRoadIgEx - 644
+tfcm:blockRoadIgIn - 645
+tfcm:blockRoadMM - 646
+tfcm:blockRoadSed - 647
+tfcm:blockTallowCandle - 642
+tfcm:blockTallowCandleOff - 643
+tfcm:item.Arrow_BismuthBronze - 5177
+tfcm:item.Arrow_BismuthBronze_Head - 5186
+tfcm:item.Arrow_BlackBronze - 5178
+tfcm:item.Arrow_BlackBronze_Head - 5187
+tfcm:item.Arrow_BlackSteel - 5179
+tfcm:item.Arrow_BlackSteel_Head - 5188
+tfcm:item.Arrow_BlueSteel - 5180
+tfcm:item.Arrow_BlueSteel_Head - 5189
+tfcm:item.Arrow_Bronze - 5181
+tfcm:item.Arrow_Bronze_Head - 5190
+tfcm:item.Arrow_Copper - 5182
+tfcm:item.Arrow_Copper_Head - 5191
+tfcm:item.Arrow_RedSteel - 5184
+tfcm:item.Arrow_RedSteel_Head - 5193
+tfcm:item.Arrow_Steel - 5185
+tfcm:item.Arrow_Steel_Head - 5194
+tfcm:item.Arrow_WroughtIron - 5183
+tfcm:item.Arrow_WroughtIron_Head - 5192
+tfcm:item.BismuthBronze_Chain_Chestplate - 5263
+tfcm:item.BismuthBronze_Chain_Greaves - 5254
+tfcm:item.BismuthBronze_Chain_Helmet - 5272
+tfcm:item.BlackBronze_Chain_Chestplate - 5264
+tfcm:item.BlackBronze_Chain_Greaves - 5255
+tfcm:item.BlackBronze_Chain_Helmet - 5273
+tfcm:item.BlackSteel_Chain_Chestplate - 5265
+tfcm:item.BlackSteel_Chain_Greaves - 5256
+tfcm:item.BlackSteel_Chain_Helmet - 5274
+tfcm:item.BlueSteel_Chain_Chestplate - 5266
+tfcm:item.BlueSteel_Chain_Greaves - 5257
+tfcm:item.BlueSteel_Chain_Helmet - 5275
+tfcm:item.Bolt_BismuthBronze - 5195
+tfcm:item.Bolt_BismuthBronze_Head - 5204
+tfcm:item.Bolt_BlackBronze - 5196
+tfcm:item.Bolt_BlackBronze_Head - 5205
+tfcm:item.Bolt_BlackSteel - 5197
+tfcm:item.Bolt_BlackSteel_Head - 5206
+tfcm:item.Bolt_BlueSteel - 5198
+tfcm:item.Bolt_BlueSteel_Head - 5207
+tfcm:item.Bolt_Bronze - 5199
+tfcm:item.Bolt_Bronze_Head - 5208
+tfcm:item.Bolt_Copper - 5200
+tfcm:item.Bolt_Copper_Head - 5209
+tfcm:item.Bolt_RedSteel - 5202
+tfcm:item.Bolt_RedSteel_Head - 5211
+tfcm:item.Bolt_Steel - 5203
+tfcm:item.Bolt_Steel_Head - 5212
+tfcm:item.Bolt_WroughtIron - 5201
+tfcm:item.Bolt_WroughtIron_Head - 5210
+tfcm:item.BottleFruitJuice - 5281
+tfcm:item.BottleFruitWine - 5282
+tfcm:item.BottleJuiceApple - 5284
+tfcm:item.BottleJuiceLemon - 5286
+tfcm:item.BottleJuiceOrange - 5285
+tfcm:item.BottleLemonade - 5287
+tfcm:item.BottleSoyMilk - 5288
+tfcm:item.BottleSugar - 5283
+tfcm:item.BowLimb - 5114
+tfcm:item.BowlSuet - 5116
+tfcm:item.BowlTallow - 5117
+tfcm:item.Bronze_Chain_Chestplate - 5267
+tfcm:item.Bronze_Chain_Greaves - 5258
+tfcm:item.Bronze_Chain_Helmet - 5276
+tfcm:item.BrownDye - 5118
+tfcm:item.BucketHotWater - 5289
+tfcm:item.CaseinGlue - 5107
+tfcm:item.CasingBrass - 5103
+tfcm:item.CasingIron - 5104
+tfcm:item.CasingRoseGold - 5105
+tfcm:item.Chain_Sheet_BismuthBronze - 5245
+tfcm:item.Chain_Sheet_BlackBronze - 5246
+tfcm:item.Chain_Sheet_BlackSteel - 5247
+tfcm:item.Chain_Sheet_BlueSteel - 5248
+tfcm:item.Chain_Sheet_Bronze - 5249
+tfcm:item.Chain_Sheet_Copper - 5250
+tfcm:item.Chain_Sheet_RedSteel - 5252
+tfcm:item.Chain_Sheet_Steel - 5253
+tfcm:item.Chain_Sheet_WroughtIron - 5251
+tfcm:item.Chain_Square_BismuthBronze - 5236
+tfcm:item.Chain_Square_BlackBronze - 5237
+tfcm:item.Chain_Square_BlackSteel - 5238
+tfcm:item.Chain_Square_BlueSteel - 5239
+tfcm:item.Chain_Square_Bronze - 5240
+tfcm:item.Chain_Square_Copper - 5241
+tfcm:item.Chain_Square_RedSteel - 5243
+tfcm:item.Chain_Square_Steel - 5244
+tfcm:item.Chain_Square_WroughtIron - 5242
+tfcm:item.Circuit - 5109
+tfcm:item.Coil_BismuthBronze - 5218
+tfcm:item.Coil_BlackBronze - 5219
+tfcm:item.Coil_BlackSteel - 5220
+tfcm:item.Coil_BlueSteel - 5221
+tfcm:item.Coil_Bronze - 5222
+tfcm:item.Coil_Copper - 5223
+tfcm:item.Coil_RedSteel - 5225
+tfcm:item.Coil_Steel - 5226
+tfcm:item.Coil_WroughtIron - 5224
+tfcm:item.Copper_Chain_Chestplate - 5268
+tfcm:item.Copper_Chain_Greaves - 5259
+tfcm:item.Copper_Chain_Helmet - 5277
+tfcm:item.CrossBow - 5122
+tfcm:item.DeerTendon - 5110
+tfcm:item.Gear - 5106
+tfcm:item.Halberd_BismuthBronze - 5123
+tfcm:item.Halberd_BismuthBronze_Head - 5132
+tfcm:item.Halberd_BlackBronze - 5124
+tfcm:item.Halberd_BlackBronze_Head - 5133
+tfcm:item.Halberd_BlackSteel - 5125
+tfcm:item.Halberd_BlackSteel_Head - 5134
+tfcm:item.Halberd_BlueSteel - 5126
+tfcm:item.Halberd_BlueSteel_Head - 5135
+tfcm:item.Halberd_Bronze - 5127
+tfcm:item.Halberd_Bronze_Head - 5136
+tfcm:item.Halberd_Copper - 5128
+tfcm:item.Halberd_Copper_Head - 5137
+tfcm:item.Halberd_RedSteel - 5130
+tfcm:item.Halberd_RedSteel_Head - 5139
+tfcm:item.Halberd_Steel - 5131
+tfcm:item.Halberd_Steel_Head - 5140
+tfcm:item.Halberd_WroughtIron - 5129
+tfcm:item.Halberd_WroughtIron_Head - 5138
+tfcm:item.IronDust - 5119
+tfcm:item.Link_BismuthBronze - 5227
+tfcm:item.Link_BlackBronze - 5228
+tfcm:item.Link_BlackSteel - 5229
+tfcm:item.Link_BlueSteel - 5230
+tfcm:item.Link_Bronze - 5231
+tfcm:item.Link_Copper - 5232
+tfcm:item.Link_RedSteel - 5234
+tfcm:item.Link_Steel - 5235
+tfcm:item.Link_WroughtIron - 5233
+tfcm:item.LongBow - 5121
+tfcm:item.PistonBase - 5108
+tfcm:item.Poniard_BismuthBronze - 5159
+tfcm:item.Poniard_BismuthBronze_Head - 5168
+tfcm:item.Poniard_BlackBronze - 5160
+tfcm:item.Poniard_BlackBronze_Head - 5169
+tfcm:item.Poniard_BlackSteel - 5161
+tfcm:item.Poniard_BlackSteel_Head - 5170
+tfcm:item.Poniard_BlueSteel - 5162
+tfcm:item.Poniard_BlueSteel_Head - 5171
+tfcm:item.Poniard_Bronze - 5163
+tfcm:item.Poniard_Bronze_Head - 5172
+tfcm:item.Poniard_Copper - 5164
+tfcm:item.Poniard_Copper_Head - 5173
+tfcm:item.Poniard_RedSteel - 5166
+tfcm:item.Poniard_RedSteel_Head - 5175
+tfcm:item.Poniard_Steel - 5167
+tfcm:item.Poniard_Steel_Head - 5176
+tfcm:item.Poniard_WroughtIron - 5165
+tfcm:item.Poniard_WroughtIron_Head - 5174
+tfcm:item.Quiver - 5291
+tfcm:item.RedSteel_Chain_Chestplate - 5270
+tfcm:item.RedSteel_Chain_Greaves - 5261
+tfcm:item.RedSteel_Chain_Helmet - 5279
+tfcm:item.SinewBowString - 5113
+tfcm:item.SinewFiber - 5111
+tfcm:item.SinewString - 5112
+tfcm:item.SoyPaste - 5290
+tfcm:item.Steel_Chain_Chestplate - 5271
+tfcm:item.Steel_Chain_Greaves - 5262
+tfcm:item.Steel_Chain_Helmet - 5280
+tfcm:item.Suet - 5115
+tfcm:item.TallowDye - 5120
+tfcm:item.WarHammer_BismuthBronze - 5141
+tfcm:item.WarHammer_BismuthBronze_Head - 5150
+tfcm:item.WarHammer_BlackBronze - 5142
+tfcm:item.WarHammer_BlackBronze_Head - 5151
+tfcm:item.WarHammer_BlackSteel - 5143
+tfcm:item.WarHammer_BlackSteel_Head - 5152
+tfcm:item.WarHammer_BlueSteel - 5144
+tfcm:item.WarHammer_BlueSteel_Head - 5153
+tfcm:item.WarHammer_Bronze - 5145
+tfcm:item.WarHammer_Bronze_Head - 5154
+tfcm:item.WarHammer_Copper - 5146
+tfcm:item.WarHammer_Copper_Head - 5155
+tfcm:item.WarHammer_RedSteel - 5148
+tfcm:item.WarHammer_RedSteel_Head - 5157
+tfcm:item.WarHammer_Steel - 5149
+tfcm:item.WarHammer_Steel_Head - 5158
+tfcm:item.WarHammer_WroughtIron - 5147
+tfcm:item.WarHammer_WroughtIron_Head - 5156
+tfcm:item.WroughtIron_Chain_Chestplate - 5269
+tfcm:item.WroughtIron_Chain_Greaves - 5260
+tfcm:item.WroughtIron_Chain_Helmet - 5278
+tfcm:item.itemArrow_Mold - 5216
+tfcm:item.itemBolt_Mold - 5217
+tfcm:item.itemHalberd_Mold - 5213
+tfcm:item.itemPoniard_Mold - 5215
+tfcm:item.itemWarHammer_Mold - 5214
+tfcprimitivetech:WoodenPressWet - 649
+tfcprimitivetech:itemCelluloseFibers - 5295
+tfcprimitivetech:itemClayBrick - 5299
+tfcprimitivetech:itemHardStone - 5301
+tfcprimitivetech:itemLeatherBelt - 5297
+tfcprimitivetech:itemSharpStone - 5300
+tfcprimitivetech:itemSlingshot - 5303
+tfcprimitivetech:itemSoftStone - 5302
+tfcprimitivetech:itemWoodenClub - 5298
+tfcprimitivetech:itemWoodenPress - 5296
+tfcprimitivetech:itemWoodenTwig - 5292
+tfcprimitivetech:powderAsh - 5293
+tfcprimitivetech:woodenBucket_BasePotashLiquor - 5294
+tfcrailcraft:woodenCreosoteBucket - 6256
+tfcrailcraft:woodenMinecartChest - 6257
+tfctech:Hevea - 757
+tfctech:Hevea1 - 758
+tfctech:Hevea2 - 759
+tfctech:Hevea3 - 760
+tfctech:HeveaDead - 761
+tfctech:HeveaH - 763
+tfctech:HeveaL - 764
+tfctech:HeveaS - 765
+tfctech:HeveaV - 762
+tfctech:InductionSmelter - 756
+tfctech:Latex - 753
+tfctech:LatexExtractor - 754
+tfctech:Ore4 - 752
+tfctech:WireDrawBench - 755
+tfctech:item.Aluminum Double Ingot - 5709
+tfctech:item.Aluminum Double Sheet - 5778
+tfctech:item.Aluminum Dust - 5654
+tfctech:item.Aluminum Ingot - 5708
+tfctech:item.Aluminum Nugget - 5682
+tfctech:item.Aluminum Plate - 5724
+tfctech:item.Aluminum Sheet - 5774
+tfctech:item.Aluminum Stripe - 5794
+tfctech:item.Aluminum Unshaped - 5710
+tfctech:item.Aluminum Wire - 5811
+tfctech:item.Bauxite Dust - 5655
+tfctech:item.Bismuth Bronze Dust - 5660
+tfctech:item.Bismuth Bronze Gear - 5850
+tfctech:item.Bismuth Bronze Gear Piece - 5830
+tfctech:item.Bismuth Bronze Nugget - 5687
+tfctech:item.Bismuth Bronze Plate - 5729
+tfctech:item.Bismuth Bronze Rackwheel - 5840
+tfctech:item.Bismuth Dust - 5659
+tfctech:item.Bismuth Nugget - 5686
+tfctech:item.Bismuth Plate - 5728
+tfctech:item.Black Bronze Dust - 5661
+tfctech:item.Black Bronze Gear - 5851
+tfctech:item.Black Bronze Gear Piece - 5831
+tfctech:item.Black Bronze Nugget - 5688
+tfctech:item.Black Bronze Plate - 5730
+tfctech:item.Black Bronze Rackwheel - 5841
+tfctech:item.Black Steel Drawplate - 5826
+tfctech:item.Black Steel Dust - 5662
+tfctech:item.Black Steel Nugget - 5689
+tfctech:item.Black Steel Pipe Frame - 5876
+tfctech:item.Black Steel Plate - 5731
+tfctech:item.Blue Steel Dust - 5663
+tfctech:item.Blue Steel Gear - 5852
+tfctech:item.Blue Steel Gear Piece - 5832
+tfctech:item.Blue Steel Nugget - 5690
+tfctech:item.Blue Steel Pipe Frame - 5871
+tfctech:item.Blue Steel Plate - 5732
+tfctech:item.Blue Steel Rackwheel - 5842
+tfctech:item.Bowl Mount - 5801
+tfctech:item.Brass Dust - 5664
+tfctech:item.Brass Gear - 5853
+tfctech:item.Brass Gear Piece - 5833
+tfctech:item.Brass Nugget - 5691
+tfctech:item.Brass Plate - 5733
+tfctech:item.Brass Rackwheel - 5843
+tfctech:item.Brass Sleeve - 5860
+tfctech:item.Bronze Dust - 5665
+tfctech:item.Bronze Gear - 5854
+tfctech:item.Bronze Gear Piece - 5834
+tfctech:item.Bronze Nugget - 5692
+tfctech:item.Bronze Pipe Frame - 5879
+tfctech:item.Bronze Plate - 5734
+tfctech:item.Bronze Rackwheel - 5844
+tfctech:item.Capacitor Electrode - 5883
+tfctech:item.Ceramic Plate - 5882
+tfctech:item.Chalk Powder - 5784
+tfctech:item.Circuit - 5805
+tfctech:item.Constantan Double Ingot - 5715
+tfctech:item.Constantan Double Sheet - 5780
+tfctech:item.Constantan Dust - 5656
+tfctech:item.Constantan Ingot - 5714
+tfctech:item.Constantan Nugget - 5683
+tfctech:item.Constantan Plate - 5725
+tfctech:item.Constantan Sheet - 5776
+tfctech:item.Constantan Unshaped - 5716
+tfctech:item.Copper Dust - 5666
+tfctech:item.Copper Gear - 5855
+tfctech:item.Copper Gear Piece - 5835
+tfctech:item.Copper Nugget - 5693
+tfctech:item.Copper Pipe Frame - 5880
+tfctech:item.Copper Plate - 5735
+tfctech:item.Copper Rackwheel - 5845
+tfctech:item.Copper Stripe - 5795
+tfctech:item.Copper Wire - 5809
+tfctech:item.Dense Aluminum Plate - 5749
+tfctech:item.Dense Bismuth Bronze Plate - 5754
+tfctech:item.Dense Bismuth Plate - 5753
+tfctech:item.Dense Black Bronze Plate - 5755
+tfctech:item.Dense Black Steel Plate - 5756
+tfctech:item.Dense Blue Steel Plate - 5757
+tfctech:item.Dense Brass Plate - 5758
+tfctech:item.Dense Bronze Plate - 5759
+tfctech:item.Dense Constantan Plate - 5750
+tfctech:item.Dense Copper Plate - 5760
+tfctech:item.Dense Electrum Plate - 5751
+tfctech:item.Dense Gold Plate - 5761
+tfctech:item.Dense Invar Plate - 5752
+tfctech:item.Dense Lead Plate - 5763
+tfctech:item.Dense Nickel Plate - 5764
+tfctech:item.Dense Pig Iron Plate - 5765
+tfctech:item.Dense Platinum Plate - 5766
+tfctech:item.Dense Red Steel Plate - 5767
+tfctech:item.Dense Rose Gold Plate - 5768
+tfctech:item.Dense Silver Plate - 5769
+tfctech:item.Dense Steel Plate - 5770
+tfctech:item.Dense Sterling Silver Plate - 5771
+tfctech:item.Dense Tin Plate - 5772
+tfctech:item.Dense Wrought Iron Plate - 5762
+tfctech:item.Dense Zinc Plate - 5773
+tfctech:item.Dixie - 5788
+tfctech:item.Dixie Bones - 5789
+tfctech:item.Dixie Glue - 5790
+tfctech:item.Drill Head - 5868
+tfctech:item.Electrum Double Ingot - 5712
+tfctech:item.Electrum Double Sheet - 5779
+tfctech:item.Electrum Dust - 5657
+tfctech:item.Electrum Ingot - 5711
+tfctech:item.Electrum Nugget - 5684
+tfctech:item.Electrum Pipe Frame - 5873
+tfctech:item.Electrum Plate - 5726
+tfctech:item.Electrum Sheet - 5775
+tfctech:item.Electrum Stripe - 5797
+tfctech:item.Electrum Unshaped - 5713
+tfctech:item.Electrum Wire - 5812
+tfctech:item.Gear Piece Mold - 5828
+tfctech:item.Glue - 5791
+tfctech:item.Gold Dust - 5667
+tfctech:item.Gold Gear - 5856
+tfctech:item.Gold Gear Piece - 5836
+tfctech:item.Gold Nugget - 5694
+tfctech:item.Gold Plate - 5736
+tfctech:item.Gold Rackwheel - 5846
+tfctech:item.Gold Stripe - 5796
+tfctech:item.Gold Wire - 5810
+tfctech:item.Groove - 5800
+tfctech:item.HV Capacitor Base - 5887
+tfctech:item.Inductor - 5806
+tfctech:item.Insulator Part - 5881
+tfctech:item.Invar Double Ingot - 5718
+tfctech:item.Invar Double Sheet - 5781
+tfctech:item.Invar Dust - 5658
+tfctech:item.Invar Ingot - 5717
+tfctech:item.Invar Nugget - 5685
+tfctech:item.Invar Plate - 5727
+tfctech:item.Invar Sheet - 5777
+tfctech:item.Invar Unshaped - 5719
+tfctech:item.LV Capacitor Base - 5885
+tfctech:item.Latex Bowl - 5783
+tfctech:item.Lead Dust - 5669
+tfctech:item.Lead Nugget - 5696
+tfctech:item.Lead Pipe Frame - 5870
+tfctech:item.Lead Plate - 5738
+tfctech:item.Leather Belt - 5803
+tfctech:item.Lime Paint - 5792
+tfctech:item.Log - 5782
+tfctech:item.MLCC Block - 5884
+tfctech:item.MV Capacitor Base - 5886
+tfctech:item.Nickel Dust - 5670
+tfctech:item.Nickel Nugget - 5697
+tfctech:item.Nickel Plate - 5739
+tfctech:item.Oil Can - 5827
+tfctech:item.Ore - 5722
+tfctech:item.Pig Iron Dust - 5671
+tfctech:item.Pig Iron Nugget - 5698
+tfctech:item.Pig Iron Plate - 5740
+tfctech:item.Platinum Dust - 5672
+tfctech:item.Platinum Nugget - 5699
+tfctech:item.Platinum Plate - 5741
+tfctech:item.Quartz - 5863
+tfctech:item.Red Alloy Dust - 5680
+tfctech:item.Red Alloy Ingot - 5720
+tfctech:item.Red Alloy Mix - 5681
+tfctech:item.Red Alloy Nugget - 5707
+tfctech:item.Red Alloy Unshaped - 5721
+tfctech:item.Red Alloy Wire - 5815
+tfctech:item.Red Steel Dust - 5673
+tfctech:item.Red Steel Nugget - 5700
+tfctech:item.Red Steel Pipe Frame - 5872
+tfctech:item.Red Steel Plate - 5742
+tfctech:item.Rose Gold Dust - 5674
+tfctech:item.Rose Gold Nugget - 5701
+tfctech:item.Rose Gold Plate - 5743
+tfctech:item.Rubber - 5787
+tfctech:item.Rubber Mix - 5786
+tfctech:item.Silver Dust - 5675
+tfctech:item.Silver Nugget - 5702
+tfctech:item.Silver Pipe Frame - 5878
+tfctech:item.Silver Plate - 5744
+tfctech:item.Sleeve Mold - 5829
+tfctech:item.Small Ore - 5723
+tfctech:item.Steel Bucket Empty - 5864
+tfctech:item.Steel Bucket Fuel - 5867
+tfctech:item.Steel Bucket Latex - 5865
+tfctech:item.Steel Bucket Oil - 5866
+tfctech:item.Steel Drawplate - 5825
+tfctech:item.Steel Dust - 5676
+tfctech:item.Steel Gear - 5858
+tfctech:item.Steel Gear Piece - 5838
+tfctech:item.Steel Nugget - 5703
+tfctech:item.Steel Pipe Frame - 5875
+tfctech:item.Steel Plate - 5745
+tfctech:item.Steel Rackwheel - 5848
+tfctech:item.Steel Sleeve - 5861
+tfctech:item.Steel Stripe - 5799
+tfctech:item.Steel Wire - 5814
+tfctech:item.Sterling Silver Dust - 5677
+tfctech:item.Sterling Silver Nugget - 5704
+tfctech:item.Sterling Silver Pipe Frame - 5877
+tfctech:item.Sterling Silver Plate - 5746
+tfctech:item.Tin Dust - 5678
+tfctech:item.Tin Gear - 5859
+tfctech:item.Tin Gear Piece - 5839
+tfctech:item.Tin Nugget - 5705
+tfctech:item.Tin Plate - 5747
+tfctech:item.Tin Rackwheel - 5849
+tfctech:item.Tin Sleeve - 5862
+tfctech:item.Tin Stripe - 5793
+tfctech:item.Tin Wire - 5808
+tfctech:item.Tongs - 5804
+tfctech:item.Unfinished Aluminum Wire - 5819
+tfctech:item.Unfinished Copper Wire - 5817
+tfctech:item.Unfinished Electrum Wire - 5820
+tfctech:item.Unfinished Gold Wire - 5818
+tfctech:item.Unfinished Red Alloy Wire - 5823
+tfctech:item.Unfinished Steel Wire - 5822
+tfctech:item.Unfinished Tin Wire - 5816
+tfctech:item.Unfinished Wrought Iron Wire - 5821
+tfctech:item.Vulcanizing Agents - 5785
+tfctech:item.Winch - 5802
+tfctech:item.Wire Draw Bench - 5807
+tfctech:item.Wrought Iron Drawplate - 5824
+tfctech:item.Wrought Iron Dust - 5668
+tfctech:item.Wrought Iron Gear - 5857
+tfctech:item.Wrought Iron Gear Piece - 5837
+tfctech:item.Wrought Iron Nugget - 5695
+tfctech:item.Wrought Iron Pipe Frame - 5874
+tfctech:item.Wrought Iron Plate - 5737
+tfctech:item.Wrought Iron Rackwheel - 5847
+tfctech:item.Wrought Iron Stripe - 5798
+tfctech:item.Wrought Iron Wire - 5813
+tfctech:item.Zinc Dust - 5679
+tfctech:item.Zinc Nugget - 5706
+tfctech:item.Zinc Pipe Frame - 5869
+tfctech:item.Zinc Plate - 5748
+tfctech:item.buildcraftPipe.pipefluidsbluesteel - 5644
+tfctech:item.buildcraftPipe.pipefluidsbronze - 5641
+tfctech:item.buildcraftPipe.pipefluidscopper - 5635
+tfctech:item.buildcraftPipe.pipefluidselectrum - 5638
+tfctech:item.buildcraftPipe.pipefluidslead - 5634
+tfctech:item.buildcraftPipe.pipefluidsnullify - 5642
+tfctech:item.buildcraftPipe.pipefluidsredsteel - 5636
+tfctech:item.buildcraftPipe.pipefluidssilver - 5640
+tfctech:item.buildcraftPipe.pipefluidssterlingsilver - 5637
+tfctech:item.buildcraftPipe.pipefluidswroughtiron - 5639
+tfctech:item.buildcraftPipe.pipefluidszinc - 5643
+tfctech:item.buildcraftPipe.pipeitemsblacksteel - 5628
+tfctech:item.buildcraftPipe.pipeitemsbluesteel - 5620
+tfctech:item.buildcraftPipe.pipeitemsbronze - 5630
+tfctech:item.buildcraftPipe.pipeitemscopper - 5623
+tfctech:item.buildcraftPipe.pipeitemselectrum - 5626
+tfctech:item.buildcraftPipe.pipeitemsfilter - 5622
+tfctech:item.buildcraftPipe.pipeitemslead - 5619
+tfctech:item.buildcraftPipe.pipeitemsmarker - 5621
+tfctech:item.buildcraftPipe.pipeitemsmarkerextractor - 5625
+tfctech:item.buildcraftPipe.pipeitemsnullify - 5633
+tfctech:item.buildcraftPipe.pipeitemsredsteel - 5624
+tfctech:item.buildcraftPipe.pipeitemssilver - 5629
+tfctech:item.buildcraftPipe.pipeitemssterlingsilver - 5631
+tfctech:item.buildcraftPipe.pipeitemswroughtiron - 5627
+tfctech:item.buildcraftPipe.pipeitemszinc - 5632
+tfctech:item.buildcraftPipe.pipepowerbluesteel - 5645
+tfctech:item.buildcraftPipe.pipepowerbronze - 5648
+tfctech:item.buildcraftPipe.pipepowercopper - 5651
+tfctech:item.buildcraftPipe.pipepowerelectrum - 5646
+tfctech:item.buildcraftPipe.pipepowerlead - 5650
+tfctech:item.buildcraftPipe.pipepowerredsteel - 5652
+tfctech:item.buildcraftPipe.pipepowersilver - 5649
+tfctech:item.buildcraftPipe.pipepowersterlingsilver - 5647
+tfctech:item.buildcraftPipe.pipepowerwroughtiron - 5653
+tfctech:item.buildcraftPipe.pipestructurelead - 5618
+tfcudarymod:item.Blue Steel Bucket Nitric Acid - 5892
+tfcudarymod:item.Blue Steel Bucket Sulfuric Acid - 5895
+tfcudarymod:item.Bottled Nitric Acid - 5891
+tfcudarymod:item.Bottled Sulfuric Acid - 5894
+tfcudarymod:item.Bottled Water - 5890
+tfcudarymod:item.Carbon Rod - 5908
+tfcudarymod:item.Ceramic Battery - 5889
+tfcudarymod:item.Ceramic Bucket - 5897
+tfcudarymod:item.Ceramic Bucket Hot Water - 5900
+tfcudarymod:item.Ceramic Bucket Salt Water - 5899
+tfcudarymod:item.Ceramic Bucket Water - 5898
+tfcudarymod:item.Cooked Limonite - 5904
+tfcudarymod:item.Cooked Limonite Powder - 5907
+tfcudarymod:item.Copper Rod - 5909
+tfcudarymod:item.Copper Rod Nickel Coated - 5911
+tfcudarymod:item.Copper Rod Silver Coated - 5910
+tfcudarymod:item.Copper Wire - 5901
+tfcudarymod:item.Nickel Flake - 5905
+tfcudarymod:item.Red Steel Bucket Nitric Acid - 5893
+tfcudarymod:item.Red Steel Bucket Sulfuric Acid - 5896
+tfcudarymod:item.Rod Mold - 5906
+tfcudarymod:item.Silver Flake - 5903
+tfcudarymod:item.Tucker Bag - 5912
+tfcudarymod:item.Tucker Bag v2 - 5913
+tfcudarymod:item.Wrought Iron Buckle - 5902
+tfcudarymod:item.empty - 5888
+tfcudarymod:tile.Alloy Calculator - 767
+tfcudarymod:tile.Anodising Vessel - 768
+tfcudarymod:tile.Drying Mat - 769
+tfcudarymod:tile.Evaporator Pan - 770
+tfcudarymod:tile.Ore Cooker - 771
+tfcudarymod:tile.empty - 766
+tfcwells:Well - 1512
+tfcwells:item.wellHiddenRopeDummyItem - 6277
+universalcoins:atm - 1533
+universalcoins:item.catalog - 6339
+universalcoins:item.diamond_coin - 6340
+universalcoins:item.emerald_coin - 6341
+universalcoins:item.ender_card - 6342
+universalcoins:item.gold_coin - 6343
+universalcoins:item.iron_coin - 6344
+universalcoins:item.link_card - 6345
+universalcoins:item.obsidian_coin - 6346
+universalcoins:item.uc_card - 6347
+universalcoins:item.uc_package - 6348
+universalcoins:item.uc_sign - 6349
+universalcoins:item.vendor_wrench - 6350
+universalcoins:packager - 1534
+universalcoins:power_receiver - 1535
+universalcoins:power_transmitter - 1536
+universalcoins:safe - 1537
+universalcoins:signal_block - 1538
+universalcoins:standing_ucsign - 1539
+universalcoins:trade_station - 1540
+universalcoins:vendor - 1542
+universalcoins:vendor_frame - 1541
+universalcoins:wall_ucsign - 1543
+weightingscales:item.ScaleWeight - 5304
+weightingscales:tile.Scale - 650

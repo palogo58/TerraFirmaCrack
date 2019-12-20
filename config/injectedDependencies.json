@@ -184,11 +184,15 @@
       },
       {
         "type": "before",
-        "target": "ExtraUtilities"
+        "target": "MineTweaker3"
       },
       {
         "type": "before",
-        "target": "MineTweaker3"
+        "target": "externaltweaker"
+      },
+      {
+        "type": "before",
+        "target": "ExtraUtilities"
       },
       {
         "type": "before",
@@ -249,6 +253,10 @@
       {
         "type": "before",
         "target": "journeymap"
+      },
+      {
+        "type": "before",
+        "target": "lootplusplus"
       },
       {
         "type": "before",
