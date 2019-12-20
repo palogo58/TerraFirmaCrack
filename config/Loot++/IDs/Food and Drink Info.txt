@@ -7,6 +7,12 @@
 ##    - Food Amount: <Number of food points restored>          ##
 ##    - Saturation Amount: <Number of saturation points given> ##
 ################################################################
+AWWayofTime:alchemyFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 Botania:brewFlask
 	- Megadata: 0
 	- Food or Drink? Drink
@@ -163,6 +169,55 @@ TerraFirmaPumpkins:item.Raw Pumpkin
 	- Megadata: 0
 	- Food or Drink? Food
 	- Food Info Unknown!
+
+
+Thaumcraft:ItemManaBean
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.5
+
+
+Thaumcraft:ItemNuggetBeef
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Thaumcraft:ItemNuggetChicken
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Thaumcraft:ItemNuggetFish
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Thaumcraft:ItemNuggetPork
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+Thaumcraft:ItemZombieBrain
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.2
+
+
+Thaumcraft:TripleMeatTreat
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.8
 
 
 cookingwithtfc:item.Acorn

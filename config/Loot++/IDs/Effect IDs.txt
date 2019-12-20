@@ -169,6 +169,60 @@
 	- Is Instant? false
 
 
+28
+	- Name: potion.fluxtaint
+	- Color: 6697847
+	- Is Instant? false
+
+
+29
+	- Name: potion.visexhaust
+	- Color: 6702199
+	- Is Instant? false
+
+
+30
+	- Name: potion.infvisexhaust
+	- Color: 6706551
+	- Is Instant? false
+
+
+31
+	- Name: potion.unhunger
+	- Color: 4482611
+	- Is Instant? false
+
+
+32
+	- Name: potion.warpward
+	- Color: 14742263
+	- Is Instant? false
+
+
+33
+	- Name: potion.deathgaze
+	- Color: 6702131
+	- Is Instant? false
+
+
+34
+	- Name: potion.blurred
+	- Color: 8421504
+	- Is Instant? false
+
+
+35
+	- Name: potion.sunscorned
+	- Color: 16308330
+	- Is Instant? false
+
+
+36
+	- Name: potion.thaumarhia
+	- Color: 6702199
+	- Is Instant? false
+
+
 40
 	- Name: potion.featherfall
 	- Color: 0
@@ -209,5 +263,107 @@
 	- Name: botania.potion.clear
 	- Color: 16777215
 	- Is Instant? true
+
+
+100
+	- Name: Drowning
+	- Color: 0
+	- Is Instant? false
+
+
+101
+	- Name: Boost
+	- Color: 0
+	- Is Instant? false
+
+
+102
+	- Name: Whirlwind
+	- Color: 0
+	- Is Instant? false
+
+
+103
+	- Name: Inhibit
+	- Color: 0
+	- Is Instant? false
+
+
+104
+	- Name: Flight
+	- Color: 0
+	- Is Instant? false
+
+
+105
+	- Name: Reciprocation
+	- Color: 16777215
+	- Is Instant? false
+
+
+106
+	- Name: Flame Cloak
+	- Color: 0
+	- Is Instant? false
+
+
+107
+	- Name: Ice Cloak
+	- Color: 0
+	- Is Instant? false
+
+
+108
+	- Name: Heavy Heart
+	- Color: 0
+	- Is Instant? false
+
+
+109
+	- Name: Fire Fuse
+	- Color: 0
+	- Is Instant? false
+
+
+110
+	- Name: Planar Binding
+	- Color: 0
+	- Is Instant? false
+
+
+111
+	- Name: Soul Fray
+	- Color: 0
+	- Is Instant? false
+
+
+112
+	- Name: Soul Harden
+	- Color: 0
+	- Is Instant? false
+
+
+113
+	- Name: Deafness
+	- Color: 0
+	- Is Instant? false
+
+
+114
+	- Name: Feather Fall
+	- Color: 0
+	- Is Instant? false
+
+
+115
+	- Name: Demon Cloaking
+	- Color: 0
+	- Is Instant? false
+
+
+116
+	- Name: Amphibian
+	- Color: 0
+	- Is Instant? false
 
 

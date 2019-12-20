@@ -257,3 +257,19 @@
 	- Name: Mesa Plateau M
 	- Forge Biome Types: HOT DRY PLAINS SANDY 
 
+192
+	- Name: Tainted Land
+	- Forge Biome Types: MAGICAL WASTELAND 
+
+193
+	- Name: Magical Forest
+	- Forge Biome Types: MAGICAL FOREST 
+
+194
+	- Name: Eerie
+	- Forge Biome Types: SPOOKY MAGICAL 
+
+195
+	- Name: Eldritch
+	- Forge Biome Types: SPOOKY END MAGICAL 
+

@@ -952,6 +952,34 @@ cloud
 chisel:cloud - 0
 
 
+clusterCinnabar
+Thaumcraft:ItemNugget - 21
+
+
+clusterCopper
+Thaumcraft:ItemNugget - 17
+
+
+clusterGold
+Thaumcraft:ItemNugget - 31
+
+
+clusterIron
+Thaumcraft:ItemNugget - 16
+
+
+clusterLead
+Thaumcraft:ItemNugget - 20
+
+
+clusterSilver
+Thaumcraft:ItemNugget - 19
+
+
+clusterTin
+Thaumcraft:ItemNugget - 18
+
+
 cobblestone
 minecraft:cobblestone - 0
 ExtraUtilities:color_stonebrick - 0
@@ -1253,6 +1281,9 @@ ImmersiveEngineering:metal - 11
 tfctech:item.Aluminum Dust - any
 
 
+dustAmber
+
+
 dustAmethyst
 
 
@@ -1354,6 +1385,9 @@ dustChippedTopaz
 
 
 dustChippedTourmaline
+
+
+dustCinnabar
 
 
 dustClay
@@ -1559,6 +1593,24 @@ ImmersiveEngineering:metal - 19
 
 dustHydratedCoal
 IC2:itemDust - 8
+
+
+dustInfusedAir
+
+
+dustInfusedEarth
+
+
+dustInfusedEntropy
+
+
+dustInfusedFire
+
+
+dustInfusedOrder
+
+
+dustInfusedWater
 
 
 dustInvar
@@ -2059,6 +2111,10 @@ gemAgate
 terrafirmacraft:item.Agate - 2
 
 
+gemAmber
+Thaumcraft:ItemResource - 6
+
+
 gemAmethyst
 terrafirmacraft:item.Amethyst - 2
 
@@ -2145,6 +2201,9 @@ terrafirmacraft:item.Topaz - 0
 
 gemChippedTourmaline
 terrafirmacraft:item.Tourmaline - 0
+
+
+gemCinnabar
 
 
 gemCoal
@@ -2378,6 +2437,24 @@ gemGraphite
 
 
 gemGypsum
+
+
+gemInfusedAir
+
+
+gemInfusedEarth
+
+
+gemInfusedEntropy
+
+
+gemInfusedFire
+
+
+gemInfusedOrder
+
+
+gemInfusedWater
 
 
 gemJade
@@ -2617,6 +2694,9 @@ ImmersiveEngineering:metal - 1
 tfctech:item.Aluminum Ingot - any
 
 
+ingotAmber
+
+
 ingotAnyBronze
 terrafirmacraft:item.Bronze Ingot - 0
 terrafirmacraft:item.Bismuth Bronze Ingot - 0
@@ -2681,6 +2761,9 @@ ingotChalk
 
 
 ingotCharcoal
+
+
+ingotCinnabar
 
 
 ingotClay
@@ -2855,6 +2938,24 @@ ImmersiveEngineering:metal - 20
 ingotHydratedCoal
 
 
+ingotInfusedAir
+
+
+ingotInfusedEarth
+
+
+ingotInfusedEntropy
+
+
+ingotInfusedFire
+
+
+ingotInfusedOrder
+
+
+ingotInfusedWater
+
+
 ingotInvar
 tfctech:item.Invar Ingot - any
 
@@ -3020,6 +3121,10 @@ ingotTerrasteel
 Botania:manaResource - 4
 
 
+ingotThaumium
+Thaumcraft:ItemResource - 2
+
+
 ingotTin
 IC2:itemIngot - 1
 Railcraft:ingot - 2
@@ -3070,6 +3175,10 @@ ExtraUtilities:unstableingot - 2
 
 
 ingotUranium
+
+
+ingotVoid
+Thaumcraft:ItemResource - 16
 
 
 ingotWroughtIron
@@ -3980,6 +4089,8 @@ Botania:manaResource - 3
 logWood
 minecraft:log - any
 minecraft:log2 - any
+Thaumcraft:blockMagicalLog - 0
+Thaumcraft:blockMagicalLog - 1
 Forestry:logs - any
 Forestry:logsFireproof - any
 terrafirmacraft:item.Log - any
@@ -4233,6 +4344,7 @@ tfctech:item.Constantan Nugget - any
 
 
 nuggetCopper
+Thaumcraft:ItemNugget - 1
 Railcraft:nugget - 2
 ImmersiveEngineering:metal - 22
 tfctech:item.Copper Nugget - any
@@ -4254,6 +4366,7 @@ Botania:manaResource - 19
 
 nuggetGold
 minecraft:gold_nugget - 0
+Thaumcraft:ItemResource - 18
 tfctech:item.Gold Nugget - any
 
 
@@ -4262,12 +4375,14 @@ tfctech:item.Invar Nugget - any
 
 
 nuggetIron
+Thaumcraft:ItemNugget - 0
 Railcraft:nugget - 0
 ImmersiveEngineering:metal - 21
 tfctech:item.Wrought Iron Nugget - any
 
 
 nuggetLead
+Thaumcraft:ItemNugget - 4
 Railcraft:nugget - 4
 ImmersiveEngineering:metal - 24
 tfctech:item.Lead Nugget - any
@@ -4290,6 +4405,10 @@ nuggetPlatinum
 tfctech:item.Platinum Nugget - any
 
 
+nuggetQuicksilver
+Thaumcraft:ItemResource - 3
+
+
 nuggetRedAlloy
 tfctech:item.Red Alloy Nugget - any
 
@@ -4303,6 +4422,7 @@ tfctech:item.Rose Gold Nugget - any
 
 
 nuggetSilver
+Thaumcraft:ItemNugget - 3
 ImmersiveEngineering:metal - 25
 tfctech:item.Silver Nugget - any
 
@@ -4321,13 +4441,22 @@ nuggetTerrasteel
 Botania:manaResource - 18
 
 
+nuggetThaumium
+Thaumcraft:ItemNugget - 6
+
+
 nuggetTin
+Thaumcraft:ItemNugget - 2
 Railcraft:nugget - 3
 tfctech:item.Tin Nugget - any
 
 
 nuggetUnstable
 ExtraUtilities:unstableingot - 1
+
+
+nuggetVoid
+Thaumcraft:ItemNugget - 7
 
 
 nuggetWroughtIron
@@ -4425,12 +4554,20 @@ oreAluminum
 ImmersiveEngineering:ore - 1
 
 
+oreAmber
+Thaumcraft:blockCustomOre - 7
+
+
 oreApatite
 Forestry:resources - 0
 
 
 oreBorax
 terrafirmacraft:item.Ore - 32
+
+
+oreCinnabar
+Thaumcraft:blockCustomOre - 0
 
 
 oreCoal
@@ -4480,6 +4617,30 @@ terrafirmacraft:item.Ore - 20
 
 oreGypsum
 terrafirmacraft:item.Ore - 17
+
+
+oreInfusedAir
+Thaumcraft:blockCustomOre - 1
+
+
+oreInfusedEarth
+Thaumcraft:blockCustomOre - 4
+
+
+oreInfusedEntropy
+Thaumcraft:blockCustomOre - 6
+
+
+oreInfusedFire
+Thaumcraft:blockCustomOre - 2
+
+
+oreInfusedOrder
+Thaumcraft:blockCustomOre - 5
+
+
+oreInfusedWater
+Thaumcraft:blockCustomOre - 3
 
 
 oreIron
@@ -4780,6 +4941,8 @@ ImmersiveEngineering:treatedWood - any
 
 plankWood
 minecraft:planks - any
+Thaumcraft:blockWoodenDevice - 6
+Thaumcraft:blockWoodenDevice - 7
 Forestry:planks - any
 Forestry:planksFireproof - any
 ExtraUtilities:colorWoodPlanks - 0
@@ -5338,6 +5501,10 @@ quartzSunny
 Botania:quartz - 6
 
 
+quicksilver
+Thaumcraft:ItemResource - 3
+
+
 record
 minecraft:record_13 - 0
 minecraft:record_cat - 0
@@ -5562,8 +5729,32 @@ seedsPumpkin
 TerraFirmaPumpkins:item.Seeds Pumpkin - any
 
 
+shardAir
+Thaumcraft:ItemShard - 0
+
+
+shardEarth
+Thaumcraft:ItemShard - 3
+
+
+shardEntropy
+Thaumcraft:ItemShard - 5
+
+
+shardFire
+Thaumcraft:ItemShard - 1
+
+
+shardOrder
+Thaumcraft:ItemShard - 4
+
+
 shardPrismarine
 Botania:manaResource - 10
+
+
+shardWater
+Thaumcraft:ItemShard - 2
 
 
 slabAluminum
@@ -5632,6 +5823,8 @@ ImmersiveEngineering:woodenDecoration - 2
 
 slabWood
 minecraft:wooden_slab - any
+Thaumcraft:blockCosmeticSlabWood - 0
+Thaumcraft:blockCosmeticSlabWood - 1
 Forestry:slabs - any
 Forestry:slabsFireproof - any
 
@@ -6175,6 +6368,8 @@ terrafirmacraft:leaves2 - any
 
 treeSapling
 minecraft:sapling - any
+Thaumcraft:blockCustomPlant - 0
+Thaumcraft:blockCustomPlant - 1
 IC2:blockRubSapling - any
 Forestry:sapling - any
 Forestry:saplingGE - any

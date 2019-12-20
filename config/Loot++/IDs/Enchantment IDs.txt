@@ -189,6 +189,20 @@
 	- Max Level: 3
 
 
+150
+	- Name: enchantment.haste
+	- Weight: 3
+	- Min Level: 1
+	- Max Level: 3
+
+
+151
+	- Name: enchantment.repair
+	- Weight: 2
+	- Min Level: 1
+	- Max Level: 2
+
+
 190
 	- Name: enchantment.railcraft.crowbar.wrecking
 	- Weight: 2

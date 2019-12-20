@@ -12,6 +12,14 @@
       },
       {
         "type": "before",
+        "target": "Baubles"
+      },
+      {
+        "type": "before",
+        "target": "Thaumcraft"
+      },
+      {
+        "type": "before",
         "target": "IC2"
       },
       {
@@ -136,7 +144,7 @@
       },
       {
         "type": "before",
-        "target": "Baubles"
+        "target": "AWWayofTime"
       },
       {
         "type": "before",

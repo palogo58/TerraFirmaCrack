@@ -1,0 +1,10 @@
+{
+    "items": [
+        {
+            "maxStackSize": 64,
+            "registerOrder": 1,
+            "textureName": "woodenBlade",
+            "name": "woodenBlade"
+        }
+    ]
+}
