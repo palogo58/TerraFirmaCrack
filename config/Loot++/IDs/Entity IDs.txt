@@ -192,6 +192,7 @@ Sheep
 Silverfish
 Skeleton
 Slime
+SlingshotStone
 SmallFireball
 SnowMan
 Snowball
@@ -294,6 +295,9 @@ spiderTFC
 squidTFC
 standTFC
 terrafirmacraftplus.javelin
+tfcprimitivetech.itemHardStone
+tfcprimitivetech.itemSharpStone
+tfcprimitivetech.itemSoftStone
 wolfTFC
 zombieTFC
 ## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##

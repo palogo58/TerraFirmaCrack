@@ -32,6 +32,10 @@
       },
       {
         "type": "before",
+        "target": "tfcprimitivetech"
+      },
+      {
+        "type": "before",
         "target": "BiblioCraft"
       },
       {

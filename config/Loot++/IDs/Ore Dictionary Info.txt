@@ -2890,6 +2890,7 @@ terrafirmacraftplus:item.Brass Ingot - 0
 
 ingotBrick
 minecraft:brick - 0
+tfcprimitivetech:itemClayBrick - 1
 
 
 ingotBrickNether
