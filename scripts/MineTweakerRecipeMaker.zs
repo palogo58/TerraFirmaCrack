@@ -27,7 +27,5 @@
 
 // ================================================================================
 //#MARKER ADD SHAPED
-recipes.addShaped(<minecraft:apple>, [[<terrafirmacraft:item.Small Ore:3>]]);
-recipes.addShaped(<minecraft:apple>, [[<terrafirmacraft:item.Small Ore:3>]]);
-recipes.addShaped(<minecraft:apple>, [[<terrafirmacraft:item.Small Ore:3>]]);
+
 

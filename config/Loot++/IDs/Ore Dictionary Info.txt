@@ -30,7 +30,7 @@ Botania:vial - 0
 
 
 barrelWood
-terrafirmacraft:Barrel - any
+terrafirmacraftplus:Barrel - any
 
 
 barsIron
@@ -157,9 +157,9 @@ ImmersiveEngineering:storage - 5
 
 blockCopper
 IC2:blockMetal - 0
+Forestry:resourceStorage - 1
 Railcraft:cube - 9
 ImmersiveEngineering:storage - 0
-Forestry:resourceStorage - 1
 
 
 blockCupronickel
@@ -176,8 +176,8 @@ chisel:diorite - 0
 
 blockDirt
 minecraft:dirt - 0
-terrafirmacraft:Dirt - any
-terrafirmacraft:Dirt2 - any
+terrafirmacraftplus:Dirt - any
+terrafirmacraftplus:Dirt2 - any
 
 
 blockElectrum
@@ -299,8 +299,8 @@ chisel:granite - 0
 
 blockGravel
 minecraft:gravel - 0
-terrafirmacraft:Gravel - any
-terrafirmacraft:Gravel2 - any
+terrafirmacraftplus:Gravel - any
+terrafirmacraftplus:Gravel2 - any
 
 
 blockHopper
@@ -411,7 +411,7 @@ ImmersiveEngineering:storage - 2
 
 blockLitPumpkin
 minecraft:lit_pumpkin - 0
-terrafirmacraft:LitPumpkin - 0
+terrafirmacraftplus:LitPumpkin - 0
 
 
 blockMagicWood
@@ -443,7 +443,7 @@ Botania:prismarine - any
 
 blockPumpkin
 minecraft:pumpkin - 0
-terrafirmacraft:Pumpkin - 0
+terrafirmacraftplus:Pumpkin - 0
 
 
 blockQuartz
@@ -536,8 +536,8 @@ ExtraUtilities:color_blockRedstone - 11
 
 blockSand
 minecraft:sand - 0
-terrafirmacraft:Sand - any
-terrafirmacraft:Sand2 - any
+terrafirmacraftplus:Sand - any
+terrafirmacraftplus:Sand2 - any
 
 
 blockSilver
@@ -552,13 +552,13 @@ ImmersiveEngineering:storage - 7
 
 blockTin
 IC2:blockMetal - 1
-Railcraft:cube - 10
 Forestry:resourceStorage - 2
+Railcraft:cube - 10
 
 
 blockTorch
 minecraft:torch - 0
-terrafirmacraft:Torch - 0
+terrafirmacraftplus:Torch - 0
 
 
 blockUnstable
@@ -635,6 +635,10 @@ minecraft:wool - 0
 
 blockWoolYellow
 minecraft:wool - 4
+
+
+boneNeedle
+terrafirmacraftplus:item.Bone Needle - 0
 
 
 breederUranium
@@ -817,55 +821,42 @@ ExtraUtilities:colorStoneBrick - 11
 
 bucketEmpty
 minecraft:bucket - 0
-terrafirmacraft:item.Wooden Bucket Empty - 0
-terrafirmacraft:item.Red Steel Bucket Empty - 0
-terrafirmacraft:item.Blue Steel Bucket Empty - 0
-tfcudarymod:item.Ceramic Bucket - 0
+terrafirmacraftplus:item.Wooden Bucket Empty - 0
+terrafirmacraftplus:item.Ceramic Bucket Empty - 0
+terrafirmacraftplus:item.Red Steel Bucket Empty - 0
+terrafirmacraftplus:item.Blue Steel Bucket Empty - 0
 
 
 bucketFreshWater
-terrafirmacraft:item.Wooden Bucket Water - any
-terrafirmacraft:item.Red Steel Bucket Water - any
-tfcudarymod:item.Ceramic Bucket Water - 0
-
-
-bucketHotWater
-tfcudarymod:item.Ceramic Bucket Hot Water - 0
+terrafirmacraftplus:item.Wooden Bucket Water - any
+terrafirmacraftplus:item.Ceramic Bucket Water - any
+terrafirmacraftplus:item.Red Steel Bucket Water - any
 
 
 bucketLava
 minecraft:lava_bucket - 0
-terrafirmacraft:item.Blue Steel Bucket Lava - 0
+terrafirmacraftplus:item.Blue Steel Bucket Lava - 0
 
 
 bucketMilk
 minecraft:milk_bucket - 0
-terrafirmacraft:item.Wooden Bucket Milk - 0
-
-
-bucketNitricAcid
-tfcudarymod:item.Blue Steel Bucket Nitric Acid - 0
-tfcudarymod:item.Red Steel Bucket Nitric Acid - 0
+terrafirmacraftplus:item.Wooden Bucket Milk - 0
+terrafirmacraftplus:item.Ceramic Bucket Milk - 0
 
 
 bucketSaltWater
-terrafirmacraft:item.Wooden Bucket Salt Water - any
-terrafirmacraft:item.Red Steel Bucket Salt Water - any
-tfcudarymod:item.Ceramic Bucket Salt Water - 0
-
-
-bucketSulfuricAcid
-tfcudarymod:item.Blue Steel Bucket Sulfuric Acid - 0
-tfcudarymod:item.Red Steel Bucket Sulfuric Acid - 0
+terrafirmacraftplus:item.Wooden Bucket Salt Water - any
+terrafirmacraftplus:item.Ceramic Bucket Salt Water - any
+terrafirmacraftplus:item.Red Steel Bucket Salt Water - any
 
 
 bucketWater
 minecraft:water_bucket - 0
-terrafirmacraft:item.Wooden Bucket Water - any
-terrafirmacraft:item.Red Steel Bucket Water - any
-terrafirmacraft:item.Wooden Bucket Salt Water - any
-terrafirmacraft:item.Red Steel Bucket Salt Water - any
-tfcudarymod:item.Ceramic Bucket Water - 0
+terrafirmacraftplus:item.Wooden Bucket Water - any
+terrafirmacraftplus:item.Ceramic Bucket Water - any
+terrafirmacraftplus:item.Red Steel Bucket Water - any
+terrafirmacraftplus:item.Wooden Bucket Salt Water - any
+terrafirmacraftplus:item.Red Steel Bucket Salt Water - any
 
 
 burntQuartz
@@ -880,28 +871,9 @@ charcoal
 minecraft:coal - 1
 
 
-chest
-terrafirmacraft:Chest TFC - 0
-terrafirmacraft:Chest TFC - 1
-terrafirmacraft:Chest TFC - 2
-terrafirmacraft:Chest TFC - 3
-terrafirmacraft:Chest TFC - 4
-terrafirmacraft:Chest TFC - 5
-terrafirmacraft:Chest TFC - 6
-terrafirmacraft:Chest TFC - 7
-terrafirmacraft:Chest TFC - 8
-terrafirmacraft:Chest TFC - 9
-terrafirmacraft:Chest TFC - 10
-terrafirmacraft:Chest TFC - 11
-terrafirmacraft:Chest TFC - 12
-terrafirmacraft:Chest TFC - 13
-terrafirmacraft:Chest TFC - 14
-terrafirmacraft:Chest TFC - 15
-
-
 chestWood
 minecraft:chest - 0
-terrafirmacraft:Chest TFC - any
+terrafirmacraftplus:Chest TFC - any
 
 
 chipsetComp
@@ -998,6 +970,10 @@ ExtraUtilities:color_stonebrick - 12
 ExtraUtilities:color_stonebrick - 13
 ExtraUtilities:color_stonebrick - 14
 ExtraUtilities:color_stonebrick - 15
+terrafirmacraftplus:StoneIgExCobble - any
+terrafirmacraftplus:StoneIgInCobble - any
+terrafirmacraftplus:StoneMMCobble - any
+terrafirmacraftplus:StoneSedCobble - any
 
 
 cobblestoneBlack
@@ -1136,7 +1112,7 @@ chisel:concrete - 0
 
 craftingTableWood
 minecraft:crafting_table - 0
-terrafirmacraft:Workbench - 0
+terrafirmacraftplus:Workbench - 0
 
 
 craftingToolForgeHammer
@@ -1560,7 +1536,7 @@ dustFlawlessTourmaline
 
 
 dustFlux
-terrafirmacraft:item.Powder - 0
+terrafirmacraftplus:item.Powder - 0
 
 
 dustGarnet
@@ -1577,7 +1553,7 @@ tfctech:item.Gold Dust - any
 
 
 dustGraphite
-terrafirmacraft:item.Powder - 2
+terrafirmacraftplus:item.Powder - 2
 
 
 dustGunpowder
@@ -1633,12 +1609,12 @@ dustJet
 
 
 dustKaolinite
-terrafirmacraft:item.Powder - 1
+terrafirmacraftplus:item.Powder - 1
 
 
 dustLapis
 IC2:itemDust - 12
-terrafirmacraft:item.Powder - 6
+terrafirmacraftplus:item.Powder - 6
 
 
 dustLead
@@ -1668,6 +1644,36 @@ dustNormal
 dustNormalBauxite
 
 
+dustNormalBismuth
+
+
+dustNormalCopper
+
+
+dustNormalGold
+
+
+dustNormalIron
+
+
+dustNormalLead
+
+
+dustNormalNickel
+
+
+dustNormalPlatinum
+
+
+dustNormalSilver
+
+
+dustNormalTin
+
+
+dustNormalZinc
+
+
 dustObsidian
 IC2:itemDust - 11
 Railcraft:dust - 0
@@ -1693,6 +1699,9 @@ tfctech:item.Platinum Dust - any
 dustPoorBauxite
 
 
+dustPoorBismuth
+
+
 dustPoorCopper
 
 
@@ -1705,7 +1714,19 @@ dustPoorIron
 dustPoorLead
 
 
+dustPoorNickel
+
+
+dustPoorPlatinum
+
+
+dustPoorSilver
+
+
 dustPoorTin
+
+
+dustPoorZinc
 
 
 dustQuartz
@@ -1727,6 +1748,36 @@ minecraft:redstone - 0
 dustRichBauxite
 
 
+dustRichBismuth
+
+
+dustRichCopper
+
+
+dustRichGold
+
+
+dustRichIron
+
+
+dustRichLead
+
+
+dustRichNickel
+
+
+dustRichPlatinum
+
+
+dustRichSilver
+
+
+dustRichTin
+
+
+dustRichZinc
+
+
 dustRoseGold
 tfctech:item.Rose Gold Dust - any
 
@@ -1735,12 +1786,12 @@ dustRuby
 
 
 dustSalt
-terrafirmacraft:item.Powder - 9
+terrafirmacraftplus:item.Powder - 9
 
 
 dustSaltpeter
 Railcraft:dust - 2
-terrafirmacraft:item.Powder - 4
+terrafirmacraftplus:item.Powder - 4
 
 
 dustSapphire
@@ -1771,6 +1822,36 @@ dustSilverFlake
 dustSmallBauxite
 
 
+dustSmallBismuth
+
+
+dustSmallCopper
+
+
+dustSmallGold
+
+
+dustSmallIron
+
+
+dustSmallLead
+
+
+dustSmallNickel
+
+
+dustSmallPlatinum
+
+
+dustSmallSilver
+
+
+dustSmallTin
+
+
+dustSmallZinc
+
+
 dustSteel
 tfctech:item.Steel Dust - any
 
@@ -1786,7 +1867,7 @@ IC2:itemDust - 9
 dustSulfur
 IC2:itemDust - 13
 Railcraft:dust - 1
-terrafirmacraft:item.Powder - 3
+terrafirmacraftplus:item.Powder - 3
 
 
 dustSylvite
@@ -1865,7 +1946,7 @@ minecraft:dye - any
 dyeBlack
 minecraft:dye - 0
 Botania:dye - 15
-terrafirmacraft:item.dyePowder - 0
+terrafirmacraftplus:item.dyePowder - 0
 tfctech:item.Lime Paint - 0
 gendustry:HoneyDrop - 10
 
@@ -1873,8 +1954,8 @@ gendustry:HoneyDrop - 10
 dyeBlue
 minecraft:dye - 4
 Botania:dye - 11
-terrafirmacraft:item.Powder - 6
-terrafirmacraft:item.dyePowder - 4
+terrafirmacraftplus:item.Powder - 6
+terrafirmacraftplus:item.dyePowder - 4
 tfctech:item.Lime Paint - 4
 gendustry:HoneyDrop - 14
 
@@ -1882,7 +1963,7 @@ gendustry:HoneyDrop - 14
 dyeBrown
 minecraft:dye - 3
 Botania:dye - 12
-terrafirmacraft:item.dyePowder - 3
+terrafirmacraftplus:item.dyePowder - 3
 tfcm:item.BrownDye - 0
 tfctech:item.Lime Paint - 3
 gendustry:HoneyDrop - 13
@@ -1891,7 +1972,7 @@ gendustry:HoneyDrop - 13
 dyeCyan
 minecraft:dye - 6
 Botania:dye - 9
-terrafirmacraft:item.dyePowder - 6
+terrafirmacraftplus:item.dyePowder - 6
 tfctech:item.Lime Paint - 6
 gendustry:HoneyDrop - 16
 
@@ -1899,7 +1980,7 @@ gendustry:HoneyDrop - 16
 dyeGray
 minecraft:dye - 8
 Botania:dye - 7
-terrafirmacraft:item.dyePowder - 8
+terrafirmacraftplus:item.dyePowder - 8
 tfctech:item.Lime Paint - 8
 gendustry:HoneyDrop - 18
 
@@ -1907,8 +1988,8 @@ gendustry:HoneyDrop - 18
 dyeGreen
 minecraft:dye - 2
 Botania:dye - 13
-terrafirmacraft:item.Powder - 8
-terrafirmacraft:item.dyePowder - 2
+terrafirmacraftplus:item.Powder - 8
+terrafirmacraftplus:item.dyePowder - 2
 tfctech:item.Lime Paint - 2
 gendustry:HoneyDrop - 12
 
@@ -1916,14 +1997,14 @@ gendustry:HoneyDrop - 12
 dyeLightBlue
 minecraft:dye - 12
 Botania:dye - 3
-terrafirmacraft:item.dyePowder - 12
+terrafirmacraftplus:item.dyePowder - 12
 gendustry:HoneyDrop - 22
 
 
 dyeLightGray
 minecraft:dye - 7
 Botania:dye - 8
-terrafirmacraft:item.dyePowder - 7
+terrafirmacraftplus:item.dyePowder - 7
 gendustry:HoneyDrop - 17
 
 
@@ -1934,7 +2015,7 @@ tfctech:item.Lime Paint - 12
 dyeLime
 minecraft:dye - 10
 Botania:dye - 5
-terrafirmacraft:item.dyePowder - 10
+terrafirmacraftplus:item.dyePowder - 10
 tfctech:item.Lime Paint - 10
 gendustry:HoneyDrop - 20
 
@@ -1942,7 +2023,7 @@ gendustry:HoneyDrop - 20
 dyeMagenta
 minecraft:dye - 13
 Botania:dye - 2
-terrafirmacraft:item.dyePowder - 13
+terrafirmacraftplus:item.dyePowder - 13
 tfctech:item.Lime Paint - 13
 gendustry:HoneyDrop - 23
 
@@ -1950,7 +2031,7 @@ gendustry:HoneyDrop - 23
 dyeOrange
 minecraft:dye - 14
 Botania:dye - 1
-terrafirmacraft:item.dyePowder - 14
+terrafirmacraftplus:item.dyePowder - 14
 tfctech:item.Lime Paint - 14
 gendustry:HoneyDrop - 24
 
@@ -1958,7 +2039,7 @@ gendustry:HoneyDrop - 24
 dyePink
 minecraft:dye - 9
 Botania:dye - 6
-terrafirmacraft:item.dyePowder - 9
+terrafirmacraftplus:item.dyePowder - 9
 tfctech:item.Lime Paint - 9
 gendustry:HoneyDrop - 19
 
@@ -1966,7 +2047,7 @@ gendustry:HoneyDrop - 19
 dyePurple
 minecraft:dye - 5
 Botania:dye - 10
-terrafirmacraft:item.dyePowder - 5
+terrafirmacraftplus:item.dyePowder - 5
 tfctech:item.Lime Paint - 5
 gendustry:HoneyDrop - 15
 
@@ -1974,8 +2055,8 @@ gendustry:HoneyDrop - 15
 dyeRed
 minecraft:dye - 1
 Botania:dye - 14
-terrafirmacraft:item.Powder - 5
-terrafirmacraft:item.dyePowder - 1
+terrafirmacraftplus:item.Powder - 5
+terrafirmacraftplus:item.dyePowder - 1
 tfctech:item.Lime Paint - 1
 gendustry:HoneyDrop - 11
 
@@ -1987,7 +2068,7 @@ tfctech:item.Lime Paint - 7
 dyeWhite
 minecraft:dye - 15
 Botania:dye - 0
-terrafirmacraft:item.dyePowder - 15
+terrafirmacraftplus:item.dyePowder - 15
 tfctech:item.Lime Paint - 15
 gendustry:HoneyDrop - 25
 
@@ -1995,8 +2076,8 @@ gendustry:HoneyDrop - 25
 dyeYellow
 minecraft:dye - 11
 Botania:dye - 4
-terrafirmacraft:item.Powder - 7
-terrafirmacraft:item.dyePowder - 11
+terrafirmacraftplus:item.Powder - 7
+terrafirmacraftplus:item.dyePowder - 11
 tfctech:item.Lime Paint - 11
 gendustry:HoneyDrop - 21
 
@@ -2108,7 +2189,7 @@ tfctech:item.Wrought Iron Gear - any
 
 
 gemAgate
-terrafirmacraft:item.Agate - 2
+terrafirmacraftplus:item.Agate - 2
 
 
 gemAmber
@@ -2116,7 +2197,7 @@ Thaumcraft:ItemResource - 6
 
 
 gemAmethyst
-terrafirmacraft:item.Amethyst - 2
+terrafirmacraftplus:item.Amethyst - 2
 
 
 gemApatite
@@ -2124,7 +2205,7 @@ Forestry:apatite - 0
 
 
 gemBeryl
-terrafirmacraft:item.Beryl - 2
+terrafirmacraftplus:item.Beryl - 2
 
 
 gemBorax
@@ -2132,75 +2213,75 @@ gemBorax
 
 gemCharcoal
 minecraft:coal - 1
-terrafirmacraft:item.coal - 1
+terrafirmacraftplus:item.coal - 1
 
 
 gemChipped
-terrafirmacraft:item.Agate - 0
-terrafirmacraft:item.Amethyst - 0
-terrafirmacraft:item.Beryl - 0
-terrafirmacraft:item.Diamond - 0
-terrafirmacraft:item.Emerald - 0
-terrafirmacraft:item.Garnet - 0
-terrafirmacraft:item.Jade - 0
-terrafirmacraft:item.Jasper - 0
-terrafirmacraft:item.Opal - 0
-terrafirmacraft:item.Ruby - 0
-terrafirmacraft:item.Sapphire - 0
-terrafirmacraft:item.Topaz - 0
-terrafirmacraft:item.Tourmaline - 0
+terrafirmacraftplus:item.Agate - 0
+terrafirmacraftplus:item.Amethyst - 0
+terrafirmacraftplus:item.Beryl - 0
+terrafirmacraftplus:item.Diamond - 0
+terrafirmacraftplus:item.Emerald - 0
+terrafirmacraftplus:item.Garnet - 0
+terrafirmacraftplus:item.Jade - 0
+terrafirmacraftplus:item.Jasper - 0
+terrafirmacraftplus:item.Opal - 0
+terrafirmacraftplus:item.Ruby - 0
+terrafirmacraftplus:item.Sapphire - 0
+terrafirmacraftplus:item.Topaz - 0
+terrafirmacraftplus:item.Tourmaline - 0
 
 
 gemChippedAgate
-terrafirmacraft:item.Agate - 0
+terrafirmacraftplus:item.Agate - 0
 
 
 gemChippedAmethyst
-terrafirmacraft:item.Amethyst - 0
+terrafirmacraftplus:item.Amethyst - 0
 
 
 gemChippedBeryl
-terrafirmacraft:item.Beryl - 0
+terrafirmacraftplus:item.Beryl - 0
 
 
 gemChippedDiamond
-terrafirmacraft:item.Diamond - 0
+terrafirmacraftplus:item.Diamond - 0
 
 
 gemChippedEmerald
-terrafirmacraft:item.Emerald - 0
+terrafirmacraftplus:item.Emerald - 0
 
 
 gemChippedGarnet
-terrafirmacraft:item.Garnet - 0
+terrafirmacraftplus:item.Garnet - 0
 
 
 gemChippedJade
-terrafirmacraft:item.Jade - 0
+terrafirmacraftplus:item.Jade - 0
 
 
 gemChippedJasper
-terrafirmacraft:item.Jasper - 0
+terrafirmacraftplus:item.Jasper - 0
 
 
 gemChippedOpal
-terrafirmacraft:item.Opal - 0
+terrafirmacraftplus:item.Opal - 0
 
 
 gemChippedRuby
-terrafirmacraft:item.Ruby - 0
+terrafirmacraftplus:item.Ruby - 0
 
 
 gemChippedSapphire
-terrafirmacraft:item.Sapphire - 0
+terrafirmacraftplus:item.Sapphire - 0
 
 
 gemChippedTopaz
-terrafirmacraft:item.Topaz - 0
+terrafirmacraftplus:item.Topaz - 0
 
 
 gemChippedTourmaline
-terrafirmacraft:item.Tourmaline - 0
+terrafirmacraftplus:item.Tourmaline - 0
 
 
 gemCinnabar
@@ -2208,7 +2289,7 @@ gemCinnabar
 
 gemCoal
 minecraft:coal - 0
-terrafirmacraft:item.coal - 0
+terrafirmacraftplus:item.coal - 0
 
 
 gemCookedLimonite
@@ -2216,221 +2297,182 @@ gemCookedLimonite
 
 gemDiamond
 minecraft:diamond - 0
+terrafirmacraftplus:item.Diamond - 2
 IC2:itemPartIndustrialDiamond - 0
-terrafirmacraft:item.Diamond - 2
 
 
 gemEmerald
 minecraft:emerald - 0
-terrafirmacraft:item.Emerald - 2
+terrafirmacraftplus:item.Emerald - 2
 
 
 gemExquisite
-terrafirmacraft:item.Agate - 4
-terrafirmacraft:item.Amethyst - 4
-terrafirmacraft:item.Beryl - 4
-terrafirmacraft:item.Diamond - 4
-terrafirmacraft:item.Emerald - 4
-terrafirmacraft:item.Garnet - 4
-terrafirmacraft:item.Jade - 4
-terrafirmacraft:item.Jasper - 4
-terrafirmacraft:item.Opal - 4
-terrafirmacraft:item.Ruby - 4
-terrafirmacraft:item.Sapphire - 4
-terrafirmacraft:item.Topaz - 4
-terrafirmacraft:item.Tourmaline - 4
 
 
 gemExquisiteAgate
-terrafirmacraft:item.Agate - 4
+terrafirmacraftplus:item.Agate - 4
 
 
 gemExquisiteAmethyst
-terrafirmacraft:item.Amethyst - 4
+terrafirmacraftplus:item.Amethyst - 4
 
 
 gemExquisiteBeryl
-terrafirmacraft:item.Beryl - 4
+terrafirmacraftplus:item.Beryl - 4
 
 
 gemExquisiteDiamond
-terrafirmacraft:item.Diamond - 4
+terrafirmacraftplus:item.Diamond - 4
 
 
 gemExquisiteEmerald
-terrafirmacraft:item.Emerald - 4
+terrafirmacraftplus:item.Emerald - 4
 
 
 gemExquisiteGarnet
-terrafirmacraft:item.Garnet - 4
+terrafirmacraftplus:item.Garnet - 4
 
 
 gemExquisiteJade
-terrafirmacraft:item.Jade - 4
+terrafirmacraftplus:item.Jade - 4
 
 
 gemExquisiteJasper
-terrafirmacraft:item.Jasper - 4
+terrafirmacraftplus:item.Jasper - 4
 
 
 gemExquisiteOpal
-terrafirmacraft:item.Opal - 4
+terrafirmacraftplus:item.Opal - 4
 
 
 gemExquisiteRuby
-terrafirmacraft:item.Ruby - 4
+terrafirmacraftplus:item.Ruby - 4
 
 
 gemExquisiteSapphire
-terrafirmacraft:item.Sapphire - 4
+terrafirmacraftplus:item.Sapphire - 4
 
 
 gemExquisiteTopaz
-terrafirmacraft:item.Topaz - 4
+terrafirmacraftplus:item.Topaz - 4
 
 
 gemExquisiteTourmaline
-terrafirmacraft:item.Tourmaline - 4
+terrafirmacraftplus:item.Tourmaline - 4
 
 
 gemFlawed
-terrafirmacraft:item.Agate - 1
-terrafirmacraft:item.Amethyst - 1
-terrafirmacraft:item.Beryl - 1
-terrafirmacraft:item.Diamond - 1
-terrafirmacraft:item.Emerald - 1
-terrafirmacraft:item.Garnet - 1
-terrafirmacraft:item.Jade - 1
-terrafirmacraft:item.Jasper - 1
-terrafirmacraft:item.Opal - 1
-terrafirmacraft:item.Ruby - 1
-terrafirmacraft:item.Sapphire - 1
-terrafirmacraft:item.Topaz - 1
-terrafirmacraft:item.Tourmaline - 1
 
 
 gemFlawedAgate
-terrafirmacraft:item.Agate - 1
+terrafirmacraftplus:item.Agate - 1
 
 
 gemFlawedAmethyst
-terrafirmacraft:item.Amethyst - 1
+terrafirmacraftplus:item.Amethyst - 1
 
 
 gemFlawedBeryl
-terrafirmacraft:item.Beryl - 1
+terrafirmacraftplus:item.Beryl - 1
 
 
 gemFlawedDiamond
-terrafirmacraft:item.Diamond - 1
+terrafirmacraftplus:item.Diamond - 1
 
 
 gemFlawedEmerald
-terrafirmacraft:item.Emerald - 1
+terrafirmacraftplus:item.Emerald - 1
 
 
 gemFlawedGarnet
-terrafirmacraft:item.Garnet - 1
+terrafirmacraftplus:item.Garnet - 1
 
 
 gemFlawedJade
-terrafirmacraft:item.Jade - 1
+terrafirmacraftplus:item.Jade - 1
 
 
 gemFlawedJasper
-terrafirmacraft:item.Jasper - 1
+terrafirmacraftplus:item.Jasper - 1
 
 
 gemFlawedOpal
-terrafirmacraft:item.Opal - 1
+terrafirmacraftplus:item.Opal - 1
 
 
 gemFlawedRuby
-terrafirmacraft:item.Ruby - 1
+terrafirmacraftplus:item.Ruby - 1
 
 
 gemFlawedSapphire
-terrafirmacraft:item.Sapphire - 1
+terrafirmacraftplus:item.Sapphire - 1
 
 
 gemFlawedTopaz
-terrafirmacraft:item.Topaz - 1
+terrafirmacraftplus:item.Topaz - 1
 
 
 gemFlawedTourmaline
-terrafirmacraft:item.Tourmaline - 1
+terrafirmacraftplus:item.Tourmaline - 1
 
 
 gemFlawless
-terrafirmacraft:item.Agate - 3
-terrafirmacraft:item.Amethyst - 3
-terrafirmacraft:item.Beryl - 3
-terrafirmacraft:item.Diamond - 3
-terrafirmacraft:item.Emerald - 3
-terrafirmacraft:item.Garnet - 3
-terrafirmacraft:item.Jade - 3
-terrafirmacraft:item.Jasper - 3
-terrafirmacraft:item.Opal - 3
-terrafirmacraft:item.Ruby - 3
-terrafirmacraft:item.Sapphire - 3
-terrafirmacraft:item.Topaz - 3
-terrafirmacraft:item.Tourmaline - 3
 
 
 gemFlawlessAgate
-terrafirmacraft:item.Agate - 3
+terrafirmacraftplus:item.Agate - 3
 
 
 gemFlawlessAmethyst
-terrafirmacraft:item.Amethyst - 3
+terrafirmacraftplus:item.Amethyst - 3
 
 
 gemFlawlessBeryl
-terrafirmacraft:item.Beryl - 3
+terrafirmacraftplus:item.Beryl - 3
 
 
 gemFlawlessDiamond
-terrafirmacraft:item.Diamond - 3
+terrafirmacraftplus:item.Diamond - 3
 
 
 gemFlawlessEmerald
-terrafirmacraft:item.Emerald - 3
+terrafirmacraftplus:item.Emerald - 3
 
 
 gemFlawlessGarnet
-terrafirmacraft:item.Garnet - 3
+terrafirmacraftplus:item.Garnet - 3
 
 
 gemFlawlessJade
-terrafirmacraft:item.Jade - 3
+terrafirmacraftplus:item.Jade - 3
 
 
 gemFlawlessJasper
-terrafirmacraft:item.Jasper - 3
+terrafirmacraftplus:item.Jasper - 3
 
 
 gemFlawlessOpal
-terrafirmacraft:item.Opal - 3
+terrafirmacraftplus:item.Opal - 3
 
 
 gemFlawlessRuby
-terrafirmacraft:item.Ruby - 3
+terrafirmacraftplus:item.Ruby - 3
 
 
 gemFlawlessSapphire
-terrafirmacraft:item.Sapphire - 3
+terrafirmacraftplus:item.Sapphire - 3
 
 
 gemFlawlessTopaz
-terrafirmacraft:item.Topaz - 3
+terrafirmacraftplus:item.Topaz - 3
 
 
 gemFlawlessTourmaline
-terrafirmacraft:item.Tourmaline - 3
+terrafirmacraftplus:item.Tourmaline - 3
 
 
 gemGarnet
-terrafirmacraft:item.Garnet - 2
+terrafirmacraftplus:item.Garnet - 2
 
 
 gemGraphite
@@ -2458,11 +2500,11 @@ gemInfusedWater
 
 
 gemJade
-terrafirmacraft:item.Jade - 2
+terrafirmacraftplus:item.Jade - 2
 
 
 gemJasper
-terrafirmacraft:item.Jasper - 2
+terrafirmacraftplus:item.Jasper - 2
 
 
 gemJet
@@ -2482,35 +2524,55 @@ gemNickelFlake
 
 
 gemNormal
-terrafirmacraft:item.Agate - 2
-terrafirmacraft:item.Amethyst - 2
-terrafirmacraft:item.Beryl - 2
-terrafirmacraft:item.Diamond - 2
-terrafirmacraft:item.Emerald - 2
-terrafirmacraft:item.Garnet - 2
-terrafirmacraft:item.Jade - 2
-terrafirmacraft:item.Jasper - 2
-terrafirmacraft:item.Opal - 2
-terrafirmacraft:item.Ruby - 2
-terrafirmacraft:item.Sapphire - 2
-terrafirmacraft:item.Topaz - 2
-terrafirmacraft:item.Tourmaline - 2
 
 
 gemNormalBauxite
+
+
+gemNormalBismuth
+
+
+gemNormalCopper
+
+
+gemNormalGold
+
+
+gemNormalIron
+
+
+gemNormalLead
+
+
+gemNormalNickel
+
+
+gemNormalPlatinum
+
+
+gemNormalSilver
+
+
+gemNormalTin
+
+
+gemNormalZinc
 
 
 gemOlivine
 
 
 gemOpal
-terrafirmacraft:item.Opal - 2
+terrafirmacraftplus:item.Opal - 2
 
 
 gemPetrifiedWood
 
 
 gemPoorBauxite
+
+
+gemPoorBismuth
 
 
 gemPoorCopper
@@ -2525,7 +2587,19 @@ gemPoorIron
 gemPoorLead
 
 
+gemPoorNickel
+
+
+gemPoorPlatinum
+
+
+gemPoorSilver
+
+
 gemPoorTin
+
+
+gemPoorZinc
 
 
 gemQuartz
@@ -2536,15 +2610,45 @@ tfctech:item.Quartz - any
 gemRichBauxite
 
 
+gemRichBismuth
+
+
+gemRichCopper
+
+
+gemRichGold
+
+
+gemRichIron
+
+
+gemRichLead
+
+
+gemRichNickel
+
+
+gemRichPlatinum
+
+
+gemRichSilver
+
+
+gemRichTin
+
+
+gemRichZinc
+
+
 gemRuby
-terrafirmacraft:item.Ruby - 2
+terrafirmacraftplus:item.Ruby - 2
 
 
 gemSaltpeter
 
 
 gemSapphire
-terrafirmacraft:item.Sapphire - 2
+terrafirmacraftplus:item.Sapphire - 2
 
 
 gemSatinspar
@@ -2562,6 +2666,36 @@ gemSilverFlake
 gemSmallBauxite
 
 
+gemSmallBismuth
+
+
+gemSmallCopper
+
+
+gemSmallGold
+
+
+gemSmallIron
+
+
+gemSmallLead
+
+
+gemSmallNickel
+
+
+gemSmallPlatinum
+
+
+gemSmallSilver
+
+
+gemSmallTin
+
+
+gemSmallZinc
+
+
 gemSulfur
 
 
@@ -2572,11 +2706,11 @@ gemTin
 
 
 gemTopaz
-terrafirmacraft:item.Topaz - 2
+terrafirmacraftplus:item.Topaz - 2
 
 
 gemTourmaline
-terrafirmacraft:item.Tourmaline - 2
+terrafirmacraftplus:item.Tourmaline - 2
 
 
 gemUranium
@@ -2677,6 +2811,18 @@ gravel
 minecraft:gravel - 0
 
 
+halberd
+tfcm:item.Halberd_BismuthBronze - 0
+tfcm:item.Halberd_BlackBronze - 0
+tfcm:item.Halberd_BlackSteel - 0
+tfcm:item.Halberd_BlueSteel - 0
+tfcm:item.Halberd_Bronze - 0
+tfcm:item.Halberd_Copper - 0
+tfcm:item.Halberd_RedSteel - 0
+tfcm:item.Halberd_Steel - 0
+tfcm:item.Halberd_WroughtIron - 0
+
+
 hardenedClay
 minecraft:hardened_clay - any
 
@@ -2698,9 +2844,9 @@ ingotAmber
 
 
 ingotAnyBronze
-terrafirmacraft:item.Bronze Ingot - 0
-terrafirmacraft:item.Bismuth Bronze Ingot - 0
-terrafirmacraft:item.Black Bronze Ingot - 0
+terrafirmacraftplus:item.Bronze Ingot - 0
+terrafirmacraftplus:item.Bismuth Bronze Ingot - 0
+terrafirmacraftplus:item.Black Bronze Ingot - 0
 
 
 ingotApatite
@@ -2716,35 +2862,34 @@ ingotBauxite
 
 
 ingotBismuth
-terrafirmacraft:item.Bismuth Ingot - 0
+terrafirmacraftplus:item.Bismuth Ingot - 0
 
 
 ingotBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Ingot - 0
+terrafirmacraftplus:item.Bismuth Bronze Ingot - 0
 
 
 ingotBlackBronze
-terrafirmacraft:item.Black Bronze Ingot - 0
+terrafirmacraftplus:item.Black Bronze Ingot - 0
 
 
 ingotBlackSteel
-terrafirmacraft:item.Black Steel Ingot - 0
+terrafirmacraftplus:item.Black Steel Ingot - 0
 
 
 ingotBlueSteel
-terrafirmacraft:item.Blue Steel Ingot - 0
+terrafirmacraftplus:item.Blue Steel Ingot - 0
 
 
 ingotBorax
 
 
 ingotBrass
-terrafirmacraft:item.Brass Ingot - 0
+terrafirmacraftplus:item.Brass Ingot - 0
 
 
 ingotBrick
 minecraft:brick - 0
-tfcprimitivetech:itemClayBrick - 1
 
 
 ingotBrickNether
@@ -2754,7 +2899,7 @@ minecraft:netherbrick - 0
 ingotBronze
 IC2:itemIngot - 2
 Forestry:ingotBronze - 0
-terrafirmacraft:item.Bronze Ingot - 0
+terrafirmacraftplus:item.Bronze Ingot - 0
 
 
 ingotChalk
@@ -2785,10 +2930,10 @@ ingotCookedLimonite
 
 ingotCopper
 IC2:itemIngot - 0
+Forestry:ingotCopper - 0
 Railcraft:ingot - 1
 ImmersiveEngineering:metal - 0
-Forestry:ingotCopper - 0
-terrafirmacraft:item.Copper Ingot - 0
+terrafirmacraftplus:item.Copper Ingot - 0
 
 
 ingotCupronickel
@@ -2800,97 +2945,96 @@ ingotDiamond
 
 
 ingotDoubleAnyBronze
-terrafirmacraft:item.Bronze Double Ingot - 0
-terrafirmacraft:item.Bismuth Bronze Double Ingot - 0
-terrafirmacraft:item.Black Bronze Double Ingot - 0
+terrafirmacraftplus:item.Bronze Double Ingot - 0
+terrafirmacraftplus:item.Bismuth Bronze Double Ingot - 0
+terrafirmacraftplus:item.Black Bronze Double Ingot - 0
 
 
 ingotDoubleBismuth
-terrafirmacraft:item.Bismuth Double Ingot - 0
+terrafirmacraftplus:item.Bismuth Double Ingot - 0
 
 
 ingotDoubleBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Double Ingot - 0
+terrafirmacraftplus:item.Bismuth Bronze Double Ingot - 0
 
 
 ingotDoubleBlackBronze
-terrafirmacraft:item.Black Bronze Double Ingot - 0
+terrafirmacraftplus:item.Black Bronze Double Ingot - 0
 
 
 ingotDoubleBlackSteel
-terrafirmacraft:item.Black Steel Double Ingot - 0
+terrafirmacraftplus:item.Black Steel Double Ingot - 0
 
 
 ingotDoubleBlueSteel
-terrafirmacraft:item.Blue Steel Double Ingot - 0
+terrafirmacraftplus:item.Blue Steel Double Ingot - 0
 
 
 ingotDoubleBrass
-terrafirmacraft:item.Brass Double Ingot - 0
+terrafirmacraftplus:item.Brass Double Ingot - 0
 
 
 ingotDoubleBronze
-terrafirmacraft:item.Bronze Double Ingot - 0
+terrafirmacraftplus:item.Bronze Double Ingot - 0
 
 
 ingotDoubleCopper
-terrafirmacraft:item.Copper Double Ingot - 0
+terrafirmacraftplus:item.Copper Double Ingot - 0
 
 
 ingotDoubleGold
-terrafirmacraft:item.Gold Double Ingot - 0
+terrafirmacraftplus:item.Gold Double Ingot - 0
 
 
 ingotDoubleIron
-terrafirmacraft:item.Wrought Iron Double Ingot - 0
 
 
 ingotDoubleLead
-terrafirmacraft:item.Lead Double Ingot - 0
+terrafirmacraftplus:item.Lead Double Ingot - 0
 
 
 ingotDoubleNickel
-terrafirmacraft:item.Nickel Double Ingot - 0
+terrafirmacraftplus:item.Nickel Double Ingot - 0
 
 
 ingotDoublePigIron
-terrafirmacraft:item.Pig Iron Double Ingot - 0
+terrafirmacraftplus:item.Pig Iron Double Ingot - 0
 
 
 ingotDoublePlatinum
-terrafirmacraft:item.Platinum Double Ingot - 0
+terrafirmacraftplus:item.Platinum Double Ingot - 0
 
 
 ingotDoubleRedSteel
-terrafirmacraft:item.Red Steel Double Ingot - 0
+terrafirmacraftplus:item.Red Steel Double Ingot - 0
 
 
 ingotDoubleRoseGold
-terrafirmacraft:item.Rose Gold Double Ingot - 0
+terrafirmacraftplus:item.Rose Gold Double Ingot - 0
 
 
 ingotDoubleSilver
-terrafirmacraft:item.Silver Double Ingot - 0
+terrafirmacraftplus:item.Silver Double Ingot - 0
 
 
 ingotDoubleSteel
-terrafirmacraft:item.Steel Double Ingot - 0
+terrafirmacraftplus:item.Steel Double Ingot - 0
 
 
 ingotDoubleSterlingSilver
-terrafirmacraft:item.Sterling Silver Double Ingot - 0
+terrafirmacraftplus:item.Sterling Silver Double Ingot - 0
 
 
 ingotDoubleTin
-terrafirmacraft:item.Tin Double Ingot - 0
+terrafirmacraftplus:item.Tin Double Ingot - 0
 
 
 ingotDoubleWroughtIron
-terrafirmacraft:item.Wrought Iron Double Ingot - 0
+terrafirmacraftplus:item.Wrought Iron Double Ingot - 0
 
 
 ingotDoubleZinc
-terrafirmacraft:item.Zinc Double Ingot - 0
+terrafirmacraftplus:item.Zinc Double Ingot - 0
 
 
 ingotElectrum
@@ -2919,7 +3063,7 @@ ingotGlowstone
 
 ingotGold
 minecraft:gold_ingot - 0
-terrafirmacraft:item.Gold Ingot - 0
+terrafirmacraftplus:item.Gold Ingot - 0
 
 
 ingotGraphite
@@ -2962,7 +3106,7 @@ tfctech:item.Invar Ingot - any
 
 ingotIron
 minecraft:iron_ingot - 0
-terrafirmacraft:item.Wrought Iron Ingot - 0
+terrafirmacraftplus:item.Wrought Iron Ingot - 0
 
 
 ingotJet
@@ -2978,7 +3122,7 @@ ingotLead
 IC2:itemIngot - 5
 Railcraft:ingot - 3
 ImmersiveEngineering:metal - 2
-terrafirmacraft:item.Lead Ingot - 0
+terrafirmacraftplus:item.Lead Ingot - 0
 
 
 ingotLithium
@@ -2996,13 +3140,43 @@ ingotMicrocline
 
 ingotNickel
 ImmersiveEngineering:metal - 4
-terrafirmacraft:item.Nickel Ingot - 0
+terrafirmacraftplus:item.Nickel Ingot - 0
 
 
 ingotNickelFlake
 
 
 ingotNormalBauxite
+
+
+ingotNormalBismuth
+
+
+ingotNormalCopper
+
+
+ingotNormalGold
+
+
+ingotNormalIron
+
+
+ingotNormalLead
+
+
+ingotNormalNickel
+
+
+ingotNormalPlatinum
+
+
+ingotNormalSilver
+
+
+ingotNormalTin
+
+
+ingotNormalZinc
 
 
 ingotObsidian
@@ -3018,14 +3192,17 @@ ingotPhasedGold
 
 
 ingotPigIron
-terrafirmacraft:item.Pig Iron Ingot - 0
+terrafirmacraftplus:item.Pig Iron Ingot - 0
 
 
 ingotPlatinum
-terrafirmacraft:item.Platinum Ingot - 0
+terrafirmacraftplus:item.Platinum Ingot - 0
 
 
 ingotPoorBauxite
+
+
+ingotPoorBismuth
 
 
 ingotPoorCopper
@@ -3040,7 +3217,19 @@ ingotPoorIron
 ingotPoorLead
 
 
+ingotPoorNickel
+
+
+ingotPoorPlatinum
+
+
+ingotPoorSilver
+
+
 ingotPoorTin
+
+
+ingotPoorZinc
 
 
 ingotQuartz
@@ -3051,7 +3240,7 @@ tfctech:item.Red Alloy Ingot - any
 
 
 ingotRedSteel
-terrafirmacraft:item.Red Steel Ingot - 0
+terrafirmacraftplus:item.Red Steel Ingot - 0
 
 
 ingotRedstone
@@ -3063,8 +3252,38 @@ ingotRefinedIron
 ingotRichBauxite
 
 
+ingotRichBismuth
+
+
+ingotRichCopper
+
+
+ingotRichGold
+
+
+ingotRichIron
+
+
+ingotRichLead
+
+
+ingotRichNickel
+
+
+ingotRichPlatinum
+
+
+ingotRichSilver
+
+
+ingotRichTin
+
+
+ingotRichZinc
+
+
 ingotRoseGold
-terrafirmacraft:item.Rose Gold Ingot - 0
+terrafirmacraftplus:item.Rose Gold Ingot - 0
 
 
 ingotSalt
@@ -3088,7 +3307,7 @@ ingotSiliconDioxide
 ingotSilver
 IC2:itemIngot - 6
 ImmersiveEngineering:metal - 3
-terrafirmacraft:item.Silver Ingot - 0
+terrafirmacraftplus:item.Silver Ingot - 0
 
 
 ingotSilverFlake
@@ -3097,15 +3316,45 @@ ingotSilverFlake
 ingotSmallBauxite
 
 
+ingotSmallBismuth
+
+
+ingotSmallCopper
+
+
+ingotSmallGold
+
+
+ingotSmallIron
+
+
+ingotSmallLead
+
+
+ingotSmallNickel
+
+
+ingotSmallPlatinum
+
+
+ingotSmallSilver
+
+
+ingotSmallTin
+
+
+ingotSmallZinc
+
+
 ingotSteel
 IC2:itemIngot - 3
 Railcraft:ingot - 0
 ImmersiveEngineering:metal - 7
-terrafirmacraft:item.Steel Ingot - 0
+terrafirmacraftplus:item.Steel Ingot - 0
 
 
 ingotSterlingSilver
-terrafirmacraft:item.Sterling Silver Ingot - 0
+terrafirmacraftplus:item.Sterling Silver Ingot - 0
 
 
 ingotStone
@@ -3127,9 +3376,9 @@ Thaumcraft:ItemResource - 2
 
 ingotTin
 IC2:itemIngot - 1
-Railcraft:ingot - 2
 Forestry:ingotTin - 0
-terrafirmacraft:item.Tin Ingot - 0
+Railcraft:ingot - 2
+terrafirmacraftplus:item.Tin Ingot - 0
 
 
 ingotTinyBronze
@@ -3166,7 +3415,7 @@ ingotTinyTin
 
 
 ingotUnknown
-terrafirmacraft:item.Unknown Ingot - 0
+terrafirmacraftplus:item.Unknown Ingot - 0
 
 
 ingotUnstable
@@ -3182,85 +3431,85 @@ Thaumcraft:ItemResource - 16
 
 
 ingotWroughtIron
-terrafirmacraft:item.Wrought Iron Ingot - 0
+terrafirmacraftplus:item.Wrought Iron Ingot - 0
 
 
 ingotYellorium
 
 
 ingotZinc
-terrafirmacraft:item.Zinc Ingot - 0
+terrafirmacraftplus:item.Zinc Ingot - 0
 
 
 itemArrow
 minecraft:arrow - 0
-terrafirmacraft:item.arrow - 0
+terrafirmacraftplus:item.arrow - 0
 
 
 itemAxe
-terrafirmacraft:item.Sed Stone Axe - any
-terrafirmacraft:item.IgIn Stone Axe - any
-terrafirmacraft:item.IgEx Stone Axe - any
-terrafirmacraft:item.MM Stone Axe - any
-terrafirmacraft:item.Bismuth Bronze Axe - any
-terrafirmacraft:item.Black Bronze Axe - any
-terrafirmacraft:item.Black Steel Axe - any
-terrafirmacraft:item.Blue Steel Axe - any
-terrafirmacraft:item.Bronze Axe - any
-terrafirmacraft:item.Copper Axe - any
-terrafirmacraft:item.Wrought Iron Axe - any
-terrafirmacraft:item.Red Steel Axe - any
-terrafirmacraft:item.Steel Axe - any
+terrafirmacraftplus:item.Sed Stone Axe - any
+terrafirmacraftplus:item.IgIn Stone Axe - any
+terrafirmacraftplus:item.IgEx Stone Axe - any
+terrafirmacraftplus:item.MM Stone Axe - any
+terrafirmacraftplus:item.Bismuth Bronze Axe - any
+terrafirmacraftplus:item.Black Bronze Axe - any
+terrafirmacraftplus:item.Black Steel Axe - any
+terrafirmacraftplus:item.Blue Steel Axe - any
+terrafirmacraftplus:item.Bronze Axe - any
+terrafirmacraftplus:item.Copper Axe - any
+terrafirmacraftplus:item.Wrought Iron Axe - any
+terrafirmacraftplus:item.Red Steel Axe - any
+terrafirmacraftplus:item.Steel Axe - any
 
 
 itemAxeBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Axe - any
+terrafirmacraftplus:item.Bismuth Bronze Axe - any
 
 
 itemAxeBlackBronze
-terrafirmacraft:item.Black Bronze Axe - any
+terrafirmacraftplus:item.Black Bronze Axe - any
 
 
 itemAxeBlackSteel
-terrafirmacraft:item.Black Steel Axe - any
+terrafirmacraftplus:item.Black Steel Axe - any
 
 
 itemAxeBlueSteel
-terrafirmacraft:item.Blue Steel Axe - any
+terrafirmacraftplus:item.Blue Steel Axe - any
 
 
 itemAxeBronze
-terrafirmacraft:item.Bronze Axe - any
+terrafirmacraftplus:item.Bronze Axe - any
 
 
 itemAxeCopper
-terrafirmacraft:item.Copper Axe - any
+terrafirmacraftplus:item.Copper Axe - any
 
 
 itemAxeRedSteel
-terrafirmacraft:item.Red Steel Axe - any
+terrafirmacraftplus:item.Red Steel Axe - any
 
 
 itemAxeSteel
-terrafirmacraft:item.Steel Axe - any
+terrafirmacraftplus:item.Steel Axe - any
 
 
 itemAxeStone
-terrafirmacraft:item.Sed Stone Axe - any
-terrafirmacraft:item.IgIn Stone Axe - any
-terrafirmacraft:item.IgEx Stone Axe - any
-terrafirmacraft:item.MM Stone Axe - any
+terrafirmacraftplus:item.Sed Stone Axe - any
+terrafirmacraftplus:item.IgIn Stone Axe - any
+terrafirmacraftplus:item.IgEx Stone Axe - any
+terrafirmacraftplus:item.MM Stone Axe - any
 
 
 itemAxeStoneHead
-terrafirmacraft:item.IgEx Stone Axe Head - any
-terrafirmacraft:item.IgIn Stone Axe Head - any
-terrafirmacraft:item.MM Stone Axe Head - any
-terrafirmacraft:item.Sed Stone Axe Head - any
+terrafirmacraftplus:item.IgEx Stone Axe Head - any
+terrafirmacraftplus:item.IgIn Stone Axe Head - any
+terrafirmacraftplus:item.MM Stone Axe Head - any
+terrafirmacraftplus:item.Sed Stone Axe Head - any
 
 
 itemAxeWroughtIron
-terrafirmacraft:item.Wrought Iron Axe - any
+terrafirmacraftplus:item.Wrought Iron Axe - any
 
 
 itemBeeswax
@@ -3276,12 +3525,12 @@ minecraft:blaze_rod - 0
 
 
 itemBread
-terrafirmacraft:item.Barley Bread - 0
-terrafirmacraft:item.Corn Bread - 0
-terrafirmacraft:item.Oat Bread - 0
-terrafirmacraft:item.Rice Bread - 0
-terrafirmacraft:item.Rye Bread - 0
-terrafirmacraft:item.Wheat Bread - 0
+terrafirmacraftplus:item.Barley Bread - 0
+terrafirmacraftplus:item.Corn Bread - 0
+terrafirmacraftplus:item.Oat Bread - 0
+terrafirmacraftplus:item.Rice Bread - 0
+terrafirmacraftplus:item.Rye Bread - 0
+terrafirmacraftplus:item.Wheat Bread - 0
 
 
 itemCharcoal
@@ -3292,71 +3541,71 @@ itemCharcoalSugar
 
 
 itemChisel
-terrafirmacraft:item.Bismuth Bronze Chisel - any
-terrafirmacraft:item.Black Bronze Chisel - any
-terrafirmacraft:item.Black Steel Chisel - any
-terrafirmacraft:item.Blue Steel Chisel - any
-terrafirmacraft:item.Bronze Chisel - any
-terrafirmacraft:item.Copper Chisel - any
-terrafirmacraft:item.Wrought Iron Chisel - any
-terrafirmacraft:item.Red Steel Chisel - any
-terrafirmacraft:item.Steel Chisel - any
+terrafirmacraftplus:item.Bismuth Bronze Chisel - any
+terrafirmacraftplus:item.Black Bronze Chisel - any
+terrafirmacraftplus:item.Black Steel Chisel - any
+terrafirmacraftplus:item.Blue Steel Chisel - any
+terrafirmacraftplus:item.Bronze Chisel - any
+terrafirmacraftplus:item.Copper Chisel - any
+terrafirmacraftplus:item.Wrought Iron Chisel - any
+terrafirmacraftplus:item.Red Steel Chisel - any
+terrafirmacraftplus:item.Steel Chisel - any
 
 
 itemChiselBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Chisel - any
+terrafirmacraftplus:item.Bismuth Bronze Chisel - any
 
 
 itemChiselBlackBronze
-terrafirmacraft:item.Black Bronze Chisel - any
+terrafirmacraftplus:item.Black Bronze Chisel - any
 
 
 itemChiselBlackSteel
-terrafirmacraft:item.Black Steel Chisel - any
+terrafirmacraftplus:item.Black Steel Chisel - any
 
 
 itemChiselBlueSteel
-terrafirmacraft:item.Blue Steel Chisel - any
+terrafirmacraftplus:item.Blue Steel Chisel - any
 
 
 itemChiselBronze
-terrafirmacraft:item.Bronze Chisel - any
+terrafirmacraftplus:item.Bronze Chisel - any
 
 
 itemChiselCopper
-terrafirmacraft:item.Copper Chisel - any
+terrafirmacraftplus:item.Copper Chisel - any
 
 
 itemChiselHard
-terrafirmacraft:item.Blue Steel Chisel - any
-terrafirmacraft:item.Red Steel Chisel - any
+terrafirmacraftplus:item.Blue Steel Chisel - any
+terrafirmacraftplus:item.Red Steel Chisel - any
 
 
 itemChiselMedium
-terrafirmacraft:item.Blue Steel Chisel - any
-terrafirmacraft:item.Red Steel Chisel - any
-terrafirmacraft:item.Black Steel Chisel - any
-terrafirmacraft:item.Steel Chisel - any
+terrafirmacraftplus:item.Blue Steel Chisel - any
+terrafirmacraftplus:item.Red Steel Chisel - any
+terrafirmacraftplus:item.Black Steel Chisel - any
+terrafirmacraftplus:item.Steel Chisel - any
 
 
 itemChiselNormal
-terrafirmacraft:item.Blue Steel Chisel - any
-terrafirmacraft:item.Red Steel Chisel - any
-terrafirmacraft:item.Black Steel Chisel - any
-terrafirmacraft:item.Steel Chisel - any
-terrafirmacraft:item.Wrought Iron Chisel - any
+terrafirmacraftplus:item.Blue Steel Chisel - any
+terrafirmacraftplus:item.Red Steel Chisel - any
+terrafirmacraftplus:item.Black Steel Chisel - any
+terrafirmacraftplus:item.Steel Chisel - any
+terrafirmacraftplus:item.Wrought Iron Chisel - any
 
 
 itemChiselRedSteel
-terrafirmacraft:item.Red Steel Chisel - any
+terrafirmacraftplus:item.Red Steel Chisel - any
 
 
 itemChiselSteel
-terrafirmacraft:item.Steel Chisel - any
+terrafirmacraftplus:item.Steel Chisel - any
 
 
 itemChiselWroughtIron
-terrafirmacraft:item.Wrought Iron Chisel - any
+terrafirmacraftplus:item.Wrought Iron Chisel - any
 
 
 itemClay
@@ -3372,266 +3621,254 @@ minecraft:flint - 0
 
 
 itemFlour
-terrafirmacraft:item.Barley Ground - 0
-terrafirmacraft:item.Cornmeal Ground - 0
-terrafirmacraft:item.Oat Ground - 0
-terrafirmacraft:item.Rice Ground - 0
-terrafirmacraft:item.Rye Ground - 0
-terrafirmacraft:item.Wheat Ground - 0
+terrafirmacraftplus:item.Barley Ground - 0
+terrafirmacraftplus:item.Cornmeal Ground - 0
+terrafirmacraftplus:item.Oat Ground - 0
+terrafirmacraftplus:item.Rice Ground - 0
+terrafirmacraftplus:item.Rye Ground - 0
+terrafirmacraftplus:item.Wheat Ground - 0
 
 
 itemGhastTear
 minecraft:ghast_tear - 0
 
 
-itemHalberd
-tfcm:item.Halberd_BismuthBronze - 0
-tfcm:item.Halberd_BlackBronze - 0
-tfcm:item.Halberd_BlackSteel - 0
-tfcm:item.Halberd_BlueSteel - 0
-tfcm:item.Halberd_Bronze - 0
-tfcm:item.Halberd_Copper - 0
-tfcm:item.Halberd_RedSteel - 0
-tfcm:item.Halberd_Steel - 0
-tfcm:item.Halberd_WroughtIron - 0
-
-
 itemHammer
-terrafirmacraft:item.Stone Hammer - any
-terrafirmacraft:item.Bismuth Bronze Hammer - any
-terrafirmacraft:item.Black Bronze Hammer - any
-terrafirmacraft:item.Black Steel Hammer - any
-terrafirmacraft:item.Blue Steel Hammer - any
-terrafirmacraft:item.Bronze Hammer - any
-terrafirmacraft:item.Copper Hammer - any
-terrafirmacraft:item.Wrought Iron Hammer - any
-terrafirmacraft:item.Red Steel Hammer - any
-terrafirmacraft:item.Steel Hammer - any
+terrafirmacraftplus:item.Stone Hammer - any
+terrafirmacraftplus:item.Bismuth Bronze Hammer - any
+terrafirmacraftplus:item.Black Bronze Hammer - any
+terrafirmacraftplus:item.Black Steel Hammer - any
+terrafirmacraftplus:item.Blue Steel Hammer - any
+terrafirmacraftplus:item.Bronze Hammer - any
+terrafirmacraftplus:item.Copper Hammer - any
+terrafirmacraftplus:item.Wrought Iron Hammer - any
+terrafirmacraftplus:item.Red Steel Hammer - any
+terrafirmacraftplus:item.Steel Hammer - any
 
 
 itemHammerBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Hammer - any
+terrafirmacraftplus:item.Bismuth Bronze Hammer - any
 
 
 itemHammerBlackBronze
-terrafirmacraft:item.Black Bronze Hammer - any
+terrafirmacraftplus:item.Black Bronze Hammer - any
 
 
 itemHammerBlackSteel
-terrafirmacraft:item.Black Steel Hammer - any
+terrafirmacraftplus:item.Black Steel Hammer - any
 
 
 itemHammerBlueSteel
-terrafirmacraft:item.Blue Steel Hammer - any
+terrafirmacraftplus:item.Blue Steel Hammer - any
 
 
 itemHammerBronze
-terrafirmacraft:item.Bronze Hammer - any
+terrafirmacraftplus:item.Bronze Hammer - any
 
 
 itemHammerCopper
-terrafirmacraft:item.Copper Hammer - any
+terrafirmacraftplus:item.Copper Hammer - any
 
 
 itemHammerRedSteel
-terrafirmacraft:item.Red Steel Hammer - any
+terrafirmacraftplus:item.Red Steel Hammer - any
 
 
 itemHammerSteel
-terrafirmacraft:item.Steel Hammer - any
+terrafirmacraftplus:item.Steel Hammer - any
 
 
 itemHammerStone
-terrafirmacraft:item.Stone Hammer - any
+terrafirmacraftplus:item.Stone Hammer - any
 
 
 itemHammerWroughtIron
-terrafirmacraft:item.Wrought Iron Hammer - any
+terrafirmacraftplus:item.Wrought Iron Hammer - any
 
 
 itemHoe
-terrafirmacraft:item.Sed Stone Hoe - any
-terrafirmacraft:item.IgIn Stone Hoe - any
-terrafirmacraft:item.IgEx Stone Hoe - any
-terrafirmacraft:item.MM Stone Hoe - any
-terrafirmacraft:item.Bismuth Bronze Hoe - any
-terrafirmacraft:item.Black Bronze Hoe - any
-terrafirmacraft:item.Black Steel Hoe - any
-terrafirmacraft:item.Blue Steel Hoe - any
-terrafirmacraft:item.Bronze Hoe - any
-terrafirmacraft:item.Copper Hoe - any
-terrafirmacraft:item.Wrought Iron Hoe - any
-terrafirmacraft:item.Red Steel Hoe - any
-terrafirmacraft:item.Steel Hoe - any
+terrafirmacraftplus:item.Sed Stone Hoe - any
+terrafirmacraftplus:item.IgIn Stone Hoe - any
+terrafirmacraftplus:item.IgEx Stone Hoe - any
+terrafirmacraftplus:item.MM Stone Hoe - any
+terrafirmacraftplus:item.Bismuth Bronze Hoe - any
+terrafirmacraftplus:item.Black Bronze Hoe - any
+terrafirmacraftplus:item.Black Steel Hoe - any
+terrafirmacraftplus:item.Blue Steel Hoe - any
+terrafirmacraftplus:item.Bronze Hoe - any
+terrafirmacraftplus:item.Copper Hoe - any
+terrafirmacraftplus:item.Wrought Iron Hoe - any
+terrafirmacraftplus:item.Red Steel Hoe - any
+terrafirmacraftplus:item.Steel Hoe - any
 
 
 itemHoeBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Hoe - any
+terrafirmacraftplus:item.Bismuth Bronze Hoe - any
 
 
 itemHoeBlackBronze
-terrafirmacraft:item.Black Bronze Hoe - any
+terrafirmacraftplus:item.Black Bronze Hoe - any
 
 
 itemHoeBlackSteel
-terrafirmacraft:item.Black Steel Hoe - any
+terrafirmacraftplus:item.Black Steel Hoe - any
 
 
 itemHoeBlueSteel
-terrafirmacraft:item.Blue Steel Hoe - any
+terrafirmacraftplus:item.Blue Steel Hoe - any
 
 
 itemHoeBronze
-terrafirmacraft:item.Bronze Hoe - any
+terrafirmacraftplus:item.Bronze Hoe - any
 
 
 itemHoeCopper
-terrafirmacraft:item.Copper Hoe - any
+terrafirmacraftplus:item.Copper Hoe - any
 
 
 itemHoeRedSteel
-terrafirmacraft:item.Red Steel Hoe - any
+terrafirmacraftplus:item.Red Steel Hoe - any
 
 
 itemHoeSteel
-terrafirmacraft:item.Steel Hoe - any
+terrafirmacraftplus:item.Steel Hoe - any
 
 
 itemHoeStone
-terrafirmacraft:item.Sed Stone Hoe - any
-terrafirmacraft:item.IgIn Stone Hoe - any
-terrafirmacraft:item.IgEx Stone Hoe - any
-terrafirmacraft:item.MM Stone Hoe - any
+terrafirmacraftplus:item.Sed Stone Hoe - any
+terrafirmacraftplus:item.IgIn Stone Hoe - any
+terrafirmacraftplus:item.IgEx Stone Hoe - any
+terrafirmacraftplus:item.MM Stone Hoe - any
 
 
 itemHoeStoneHead
-terrafirmacraft:item.IgEx Stone Hoe Head - any
-terrafirmacraft:item.IgIn Stone Hoe Head - any
-terrafirmacraft:item.MM Stone Hoe Head - any
-terrafirmacraft:item.Sed Stone Hoe Head - any
+terrafirmacraftplus:item.IgEx Stone Hoe Head - any
+terrafirmacraftplus:item.IgIn Stone Hoe Head - any
+terrafirmacraftplus:item.MM Stone Hoe Head - any
+terrafirmacraftplus:item.Sed Stone Hoe Head - any
 
 
 itemHoeWroughtIron
-terrafirmacraft:item.Wrought Iron Hoe - any
+terrafirmacraftplus:item.Wrought Iron Hoe - any
 
 
 itemJavelin
-terrafirmacraft:item.Sed Stone Javelin - any
-terrafirmacraft:item.IgIn Stone Javelin - any
-terrafirmacraft:item.IgEx Stone Javelin - any
-terrafirmacraft:item.MM Stone Javelin - any
-terrafirmacraft:item.Bismuth Bronze Javelin - any
-terrafirmacraft:item.Black Bronze Javelin - any
-terrafirmacraft:item.Black Steel Javelin - any
-terrafirmacraft:item.Blue Steel Javelin - any
-terrafirmacraft:item.Bronze Javelin - any
-terrafirmacraft:item.Copper Javelin - any
-terrafirmacraft:item.Wrought Iron Javelin - any
-terrafirmacraft:item.Red Steel Javelin - any
-terrafirmacraft:item.Steel Javelin - any
+terrafirmacraftplus:item.Sed Stone Javelin - any
+terrafirmacraftplus:item.IgIn Stone Javelin - any
+terrafirmacraftplus:item.IgEx Stone Javelin - any
+terrafirmacraftplus:item.MM Stone Javelin - any
+terrafirmacraftplus:item.Bismuth Bronze Javelin - any
+terrafirmacraftplus:item.Black Bronze Javelin - any
+terrafirmacraftplus:item.Black Steel Javelin - any
+terrafirmacraftplus:item.Blue Steel Javelin - any
+terrafirmacraftplus:item.Bronze Javelin - any
+terrafirmacraftplus:item.Copper Javelin - any
+terrafirmacraftplus:item.Wrought Iron Javelin - any
+terrafirmacraftplus:item.Red Steel Javelin - any
+terrafirmacraftplus:item.Steel Javelin - any
 
 
 itemJavelinBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Javelin - any
+terrafirmacraftplus:item.Bismuth Bronze Javelin - any
 
 
 itemJavelinBlackBronze
-terrafirmacraft:item.Black Bronze Javelin - any
+terrafirmacraftplus:item.Black Bronze Javelin - any
 
 
 itemJavelinBlackSteel
-terrafirmacraft:item.Black Steel Javelin - any
+terrafirmacraftplus:item.Black Steel Javelin - any
 
 
 itemJavelinBlueSteel
-terrafirmacraft:item.Blue Steel Javelin - any
+terrafirmacraftplus:item.Blue Steel Javelin - any
 
 
 itemJavelinBronze
-terrafirmacraft:item.Bronze Javelin - any
+terrafirmacraftplus:item.Bronze Javelin - any
 
 
 itemJavelinCopper
-terrafirmacraft:item.Copper Javelin - any
+terrafirmacraftplus:item.Copper Javelin - any
 
 
 itemJavelinRedSteel
-terrafirmacraft:item.Red Steel Javelin - any
+terrafirmacraftplus:item.Red Steel Javelin - any
 
 
 itemJavelinSteel
-terrafirmacraft:item.Steel Javelin - any
+terrafirmacraftplus:item.Steel Javelin - any
 
 
 itemJavelinStone
-terrafirmacraft:item.Sed Stone Javelin - any
-terrafirmacraft:item.IgIn Stone Javelin - any
-terrafirmacraft:item.IgEx Stone Javelin - any
-terrafirmacraft:item.MM Stone Javelin - any
+terrafirmacraftplus:item.Sed Stone Javelin - any
+terrafirmacraftplus:item.IgIn Stone Javelin - any
+terrafirmacraftplus:item.IgEx Stone Javelin - any
+terrafirmacraftplus:item.MM Stone Javelin - any
 
 
 itemJavelinStoneHead
-terrafirmacraft:item.IgEx Stone Javelin Head - any
-terrafirmacraft:item.IgIn Stone Javelin Head - any
-terrafirmacraft:item.MM Stone Javelin Head - any
-terrafirmacraft:item.Sed Stone Javelin Head - any
+terrafirmacraftplus:item.IgEx Stone Javelin Head - any
+terrafirmacraftplus:item.IgIn Stone Javelin Head - any
+terrafirmacraftplus:item.MM Stone Javelin Head - any
+terrafirmacraftplus:item.Sed Stone Javelin Head - any
 
 
 itemJavelinWroughtIron
-terrafirmacraft:item.Wrought Iron Javelin - any
+terrafirmacraftplus:item.Wrought Iron Javelin - any
 
 
 itemKnife
-terrafirmacraft:item.Stone Knife - any
-terrafirmacraft:item.Bismuth Bronze Knife - any
-terrafirmacraft:item.Black Bronze Knife - any
-terrafirmacraft:item.Black Steel Knife - any
-terrafirmacraft:item.Blue Steel Knife - any
-terrafirmacraft:item.Bronze Knife - any
-terrafirmacraft:item.Copper Knife - any
-terrafirmacraft:item.Wrought Iron Knife - any
-terrafirmacraft:item.Red Steel Knife - any
-terrafirmacraft:item.Steel Knife - any
+terrafirmacraftplus:item.Stone Knife - any
+terrafirmacraftplus:item.Bismuth Bronze Knife - any
+terrafirmacraftplus:item.Black Bronze Knife - any
+terrafirmacraftplus:item.Black Steel Knife - any
+terrafirmacraftplus:item.Blue Steel Knife - any
+terrafirmacraftplus:item.Bronze Knife - any
+terrafirmacraftplus:item.Copper Knife - any
+terrafirmacraftplus:item.Wrought Iron Knife - any
+terrafirmacraftplus:item.Red Steel Knife - any
+terrafirmacraftplus:item.Steel Knife - any
 
 
 itemKnifeBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Knife - any
+terrafirmacraftplus:item.Bismuth Bronze Knife - any
 
 
 itemKnifeBlackBronze
-terrafirmacraft:item.Black Bronze Knife - any
+terrafirmacraftplus:item.Black Bronze Knife - any
 
 
 itemKnifeBlackSteel
-terrafirmacraft:item.Black Steel Knife - any
+terrafirmacraftplus:item.Black Steel Knife - any
 
 
 itemKnifeBlueSteel
-terrafirmacraft:item.Blue Steel Knife - any
+terrafirmacraftplus:item.Blue Steel Knife - any
 
 
 itemKnifeBronze
-terrafirmacraft:item.Bronze Knife - any
+terrafirmacraftplus:item.Bronze Knife - any
 
 
 itemKnifeCopper
-terrafirmacraft:item.Copper Knife - any
+terrafirmacraftplus:item.Copper Knife - any
 
 
 itemKnifeRedSteel
-terrafirmacraft:item.Red Steel Knife - any
+terrafirmacraftplus:item.Red Steel Knife - any
 
 
 itemKnifeSteel
-terrafirmacraft:item.Steel Knife - any
+terrafirmacraftplus:item.Steel Knife - any
 
 
 itemKnifeStone
-terrafirmacraft:item.Stone Knife - any
+terrafirmacraftplus:item.Stone Knife - any
 
 
 itemKnifeWroughtIron
-terrafirmacraft:item.Wrought Iron Knife - any
+terrafirmacraftplus:item.Wrought Iron Knife - any
 
 
 itemLeather
@@ -3639,51 +3876,51 @@ minecraft:leather - 0
 
 
 itemMace
-terrafirmacraft:item.Bismuth Bronze Mace - any
-terrafirmacraft:item.Black Bronze Mace - any
-terrafirmacraft:item.Black Steel Mace - any
-terrafirmacraft:item.Blue Steel Mace - any
-terrafirmacraft:item.Bronze Mace - any
-terrafirmacraft:item.Copper Mace - any
-terrafirmacraft:item.Wrought Iron Mace - any
-terrafirmacraft:item.Red Steel Mace - any
-terrafirmacraft:item.Steel Mace - any
+terrafirmacraftplus:item.Bismuth Bronze Mace - any
+terrafirmacraftplus:item.Black Bronze Mace - any
+terrafirmacraftplus:item.Black Steel Mace - any
+terrafirmacraftplus:item.Blue Steel Mace - any
+terrafirmacraftplus:item.Bronze Mace - any
+terrafirmacraftplus:item.Copper Mace - any
+terrafirmacraftplus:item.Wrought Iron Mace - any
+terrafirmacraftplus:item.Red Steel Mace - any
+terrafirmacraftplus:item.Steel Mace - any
 
 
 itemMaceBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Mace - any
+terrafirmacraftplus:item.Bismuth Bronze Mace - any
 
 
 itemMaceBlackBronze
-terrafirmacraft:item.Black Bronze Mace - any
+terrafirmacraftplus:item.Black Bronze Mace - any
 
 
 itemMaceBlackSteel
-terrafirmacraft:item.Black Steel Mace - any
+terrafirmacraftplus:item.Black Steel Mace - any
 
 
 itemMaceBlueSteel
-terrafirmacraft:item.Blue Steel Mace - any
+terrafirmacraftplus:item.Blue Steel Mace - any
 
 
 itemMaceBronze
-terrafirmacraft:item.Bronze Mace - any
+terrafirmacraftplus:item.Bronze Mace - any
 
 
 itemMaceCopper
-terrafirmacraft:item.Copper Mace - any
+terrafirmacraftplus:item.Copper Mace - any
 
 
 itemMaceRedSteel
-terrafirmacraft:item.Red Steel Mace - any
+terrafirmacraftplus:item.Red Steel Mace - any
 
 
 itemMaceSteel
-terrafirmacraft:item.Steel Mace - any
+terrafirmacraftplus:item.Steel Mace - any
 
 
 itemMaceWroughtIron
-terrafirmacraft:item.Wrought Iron Mace - any
+terrafirmacraftplus:item.Wrought Iron Mace - any
 
 
 itemNetherStar
@@ -3691,124 +3928,112 @@ minecraft:nether_star - 0
 
 
 itemPick
-terrafirmacraft:item.Bismuth Bronze Pick - any
-terrafirmacraft:item.Black Bronze Pick - any
-terrafirmacraft:item.Black Steel Pick - any
-terrafirmacraft:item.Blue Steel Pick - any
-terrafirmacraft:item.Bronze Pick - any
-terrafirmacraft:item.Copper Pick - any
-terrafirmacraft:item.Wrought Iron Pick - any
-terrafirmacraft:item.Red Steel Pick - any
-terrafirmacraft:item.Steel Pick - any
+terrafirmacraftplus:item.Bismuth Bronze Pick - any
+terrafirmacraftplus:item.Black Bronze Pick - any
+terrafirmacraftplus:item.Black Steel Pick - any
+terrafirmacraftplus:item.Blue Steel Pick - any
+terrafirmacraftplus:item.Bronze Pick - any
+terrafirmacraftplus:item.Copper Pick - any
+terrafirmacraftplus:item.Wrought Iron Pick - any
+terrafirmacraftplus:item.Red Steel Pick - any
+terrafirmacraftplus:item.Steel Pick - any
 
 
 itemPickBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Pick - any
+terrafirmacraftplus:item.Bismuth Bronze Pick - any
 
 
 itemPickBlackBronze
-terrafirmacraft:item.Black Bronze Pick - any
+terrafirmacraftplus:item.Black Bronze Pick - any
 
 
 itemPickBlackSteel
-terrafirmacraft:item.Black Steel Pick - any
+terrafirmacraftplus:item.Black Steel Pick - any
 
 
 itemPickBlueSteel
-terrafirmacraft:item.Blue Steel Pick - any
+terrafirmacraftplus:item.Blue Steel Pick - any
 
 
 itemPickBronze
-terrafirmacraft:item.Bronze Pick - any
+terrafirmacraftplus:item.Bronze Pick - any
 
 
 itemPickCopper
-terrafirmacraft:item.Copper Pick - any
+terrafirmacraftplus:item.Copper Pick - any
 
 
 itemPickRedSteel
-terrafirmacraft:item.Red Steel Pick - any
+terrafirmacraftplus:item.Red Steel Pick - any
 
 
 itemPickSteel
-terrafirmacraft:item.Steel Pick - any
+terrafirmacraftplus:item.Steel Pick - any
 
 
 itemPickWroughtIron
-terrafirmacraft:item.Wrought Iron Pick - any
+terrafirmacraftplus:item.Wrought Iron Pick - any
 
 
 itemPollen
 Forestry:pollen - 0
 
 
-itemPoniard
-tfcm:item.Poniard_BismuthBronze - 0
-tfcm:item.Poniard_BlackBronze - 0
-tfcm:item.Poniard_BlackSteel - 0
-tfcm:item.Poniard_BlueSteel - 0
-tfcm:item.Poniard_Bronze - 0
-tfcm:item.Poniard_Copper - 0
-tfcm:item.Poniard_RedSteel - 0
-tfcm:item.Poniard_Steel - 0
-tfcm:item.Poniard_WroughtIron - 0
-
-
 itemProPick
-terrafirmacraft:item.Bismuth Bronze ProPick - any
-terrafirmacraft:item.Black Bronze ProPick - any
-terrafirmacraft:item.Black Steel ProPick - any
-terrafirmacraft:item.Blue Steel ProPick - any
-terrafirmacraft:item.Bronze ProPick - any
-terrafirmacraft:item.Copper ProPick - any
-terrafirmacraft:item.Wrought Iron ProPick - any
-terrafirmacraft:item.Red Steel ProPick - any
-terrafirmacraft:item.Steel ProPick - any
+terrafirmacraftplus:item.Bismuth Bronze ProPick - any
+terrafirmacraftplus:item.Black Bronze ProPick - any
+terrafirmacraftplus:item.Black Steel ProPick - any
+terrafirmacraftplus:item.Blue Steel ProPick - any
+terrafirmacraftplus:item.Bronze ProPick - any
+terrafirmacraftplus:item.Copper ProPick - any
+terrafirmacraftplus:item.Wrought Iron ProPick - any
+terrafirmacraftplus:item.Red Steel ProPick - any
+terrafirmacraftplus:item.Steel ProPick - any
 
 
 itemProPickBismuthBronze
-terrafirmacraft:item.Bismuth Bronze ProPick - any
+terrafirmacraftplus:item.Bismuth Bronze ProPick - any
 
 
 itemProPickBlackBronze
-terrafirmacraft:item.Black Bronze ProPick - any
+terrafirmacraftplus:item.Black Bronze ProPick - any
 
 
 itemProPickBlackSteel
-terrafirmacraft:item.Black Steel ProPick - any
+terrafirmacraftplus:item.Black Steel ProPick - any
 
 
 itemProPickBlueSteel
-terrafirmacraft:item.Blue Steel ProPick - any
+terrafirmacraftplus:item.Blue Steel ProPick - any
 
 
 itemProPickBronze
-terrafirmacraft:item.Bronze ProPick - any
+terrafirmacraftplus:item.Bronze ProPick - any
 
 
 itemProPickCopper
-terrafirmacraft:item.Copper ProPick - any
+terrafirmacraftplus:item.Copper ProPick - any
 
 
 itemProPickRedSteel
-terrafirmacraft:item.Red Steel ProPick - any
+terrafirmacraftplus:item.Red Steel ProPick - any
 
 
 itemProPickSteel
-terrafirmacraft:item.Steel ProPick - any
+terrafirmacraftplus:item.Steel ProPick - any
 
 
 itemProPickWroughtIron
-terrafirmacraft:item.Wrought Iron ProPick - any
+terrafirmacraftplus:item.Wrought Iron ProPick - any
 
 
 itemReed
 minecraft:reeds - 0
-terrafirmacraft:item.Reeds - 0
+terrafirmacraftplus:item.Reeds - 0
 
 
 itemRock
-terrafirmacraft:item.LooseRock - any
+terrafirmacraftplus:item.LooseRock - any
 
 
 itemRubber
@@ -3817,165 +4042,165 @@ tfctech:item.Rubber - any
 
 
 itemSaw
-terrafirmacraft:item.Bismuth Bronze Saw - any
-terrafirmacraft:item.Black Bronze Saw - any
-terrafirmacraft:item.Black Steel Saw - any
-terrafirmacraft:item.Blue Steel Saw - any
-terrafirmacraft:item.Bronze Saw - any
-terrafirmacraft:item.Copper Saw - any
-terrafirmacraft:item.Wrought Iron Saw - any
-terrafirmacraft:item.Red Steel Saw - any
-terrafirmacraft:item.Steel Saw - any
+terrafirmacraftplus:item.Bismuth Bronze Saw - any
+terrafirmacraftplus:item.Black Bronze Saw - any
+terrafirmacraftplus:item.Black Steel Saw - any
+terrafirmacraftplus:item.Blue Steel Saw - any
+terrafirmacraftplus:item.Bronze Saw - any
+terrafirmacraftplus:item.Copper Saw - any
+terrafirmacraftplus:item.Wrought Iron Saw - any
+terrafirmacraftplus:item.Red Steel Saw - any
+terrafirmacraftplus:item.Steel Saw - any
 
 
 itemSawBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Saw - any
+terrafirmacraftplus:item.Bismuth Bronze Saw - any
 
 
 itemSawBlackBronze
-terrafirmacraft:item.Black Bronze Saw - any
+terrafirmacraftplus:item.Black Bronze Saw - any
 
 
 itemSawBlackSteel
-terrafirmacraft:item.Black Steel Saw - any
+terrafirmacraftplus:item.Black Steel Saw - any
 
 
 itemSawBlueSteel
-terrafirmacraft:item.Blue Steel Saw - any
+terrafirmacraftplus:item.Blue Steel Saw - any
 
 
 itemSawBronze
-terrafirmacraft:item.Bronze Saw - any
+terrafirmacraftplus:item.Bronze Saw - any
 
 
 itemSawCopper
-terrafirmacraft:item.Copper Saw - any
+terrafirmacraftplus:item.Copper Saw - any
 
 
 itemSawRedSteel
-terrafirmacraft:item.Red Steel Saw - any
+terrafirmacraftplus:item.Red Steel Saw - any
 
 
 itemSawSteel
-terrafirmacraft:item.Steel Saw - any
+terrafirmacraftplus:item.Steel Saw - any
 
 
 itemSawWroughtIron
-terrafirmacraft:item.Wrought Iron Saw - any
+terrafirmacraftplus:item.Wrought Iron Saw - any
 
 
 itemScythe
-terrafirmacraft:item.Bismuth Bronze Scythe - any
-terrafirmacraft:item.Black Bronze Scythe - any
-terrafirmacraft:item.Black Steel Scythe - any
-terrafirmacraft:item.Blue Steel Scythe - any
-terrafirmacraft:item.Bronze Scythe - any
-terrafirmacraft:item.Copper Scythe - any
-terrafirmacraft:item.Wrought Iron Scythe - any
-terrafirmacraft:item.Red Steel Scythe - any
-terrafirmacraft:item.Steel Scythe - any
+terrafirmacraftplus:item.Bismuth Bronze Scythe - any
+terrafirmacraftplus:item.Black Bronze Scythe - any
+terrafirmacraftplus:item.Black Steel Scythe - any
+terrafirmacraftplus:item.Blue Steel Scythe - any
+terrafirmacraftplus:item.Bronze Scythe - any
+terrafirmacraftplus:item.Copper Scythe - any
+terrafirmacraftplus:item.Wrought Iron Scythe - any
+terrafirmacraftplus:item.Red Steel Scythe - any
+terrafirmacraftplus:item.Steel Scythe - any
 
 
 itemScytheBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Scythe - any
+terrafirmacraftplus:item.Bismuth Bronze Scythe - any
 
 
 itemScytheBlackBronze
-terrafirmacraft:item.Black Bronze Scythe - any
+terrafirmacraftplus:item.Black Bronze Scythe - any
 
 
 itemScytheBlackSteel
-terrafirmacraft:item.Black Steel Scythe - any
+terrafirmacraftplus:item.Black Steel Scythe - any
 
 
 itemScytheBlueSteel
-terrafirmacraft:item.Blue Steel Scythe - any
+terrafirmacraftplus:item.Blue Steel Scythe - any
 
 
 itemScytheBronze
-terrafirmacraft:item.Bronze Scythe - any
+terrafirmacraftplus:item.Bronze Scythe - any
 
 
 itemScytheCopper
-terrafirmacraft:item.Copper Scythe - any
+terrafirmacraftplus:item.Copper Scythe - any
 
 
 itemScytheRedSteel
-terrafirmacraft:item.Red Steel Scythe - any
+terrafirmacraftplus:item.Red Steel Scythe - any
 
 
 itemScytheSteel
-terrafirmacraft:item.Steel Scythe - any
+terrafirmacraftplus:item.Steel Scythe - any
 
 
 itemScytheWroughtIron
-terrafirmacraft:item.Wrought Iron Scythe - any
+terrafirmacraftplus:item.Wrought Iron Scythe - any
 
 
 itemShovel
-terrafirmacraft:item.Sed Stone Shovel - any
-terrafirmacraft:item.IgIn Stone Shovel - any
-terrafirmacraft:item.IgEx Stone Shovel - any
-terrafirmacraft:item.MM Stone Shovel - any
-terrafirmacraft:item.Bismuth Bronze Shovel - any
-terrafirmacraft:item.Black Bronze Shovel - any
-terrafirmacraft:item.Black Steel Shovel - any
-terrafirmacraft:item.Blue Steel Shovel - any
-terrafirmacraft:item.Bronze Shovel - any
-terrafirmacraft:item.Copper Shovel - any
-terrafirmacraft:item.Wrought Iron Shovel - any
-terrafirmacraft:item.Red Steel Shovel - any
-terrafirmacraft:item.Steel Shovel - any
+terrafirmacraftplus:item.Sed Stone Shovel - any
+terrafirmacraftplus:item.IgIn Stone Shovel - any
+terrafirmacraftplus:item.IgEx Stone Shovel - any
+terrafirmacraftplus:item.MM Stone Shovel - any
+terrafirmacraftplus:item.Bismuth Bronze Shovel - any
+terrafirmacraftplus:item.Black Bronze Shovel - any
+terrafirmacraftplus:item.Black Steel Shovel - any
+terrafirmacraftplus:item.Blue Steel Shovel - any
+terrafirmacraftplus:item.Bronze Shovel - any
+terrafirmacraftplus:item.Copper Shovel - any
+terrafirmacraftplus:item.Wrought Iron Shovel - any
+terrafirmacraftplus:item.Red Steel Shovel - any
+terrafirmacraftplus:item.Steel Shovel - any
 
 
 itemShovelBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Shovel - any
+terrafirmacraftplus:item.Bismuth Bronze Shovel - any
 
 
 itemShovelBlackBronze
-terrafirmacraft:item.Black Bronze Shovel - any
+terrafirmacraftplus:item.Black Bronze Shovel - any
 
 
 itemShovelBlackSteel
-terrafirmacraft:item.Black Steel Shovel - any
+terrafirmacraftplus:item.Black Steel Shovel - any
 
 
 itemShovelBlueSteel
-terrafirmacraft:item.Blue Steel Shovel - any
+terrafirmacraftplus:item.Blue Steel Shovel - any
 
 
 itemShovelBronze
-terrafirmacraft:item.Bronze Shovel - any
+terrafirmacraftplus:item.Bronze Shovel - any
 
 
 itemShovelCopper
-terrafirmacraft:item.Copper Shovel - any
+terrafirmacraftplus:item.Copper Shovel - any
 
 
 itemShovelRedSteel
-terrafirmacraft:item.Red Steel Shovel - any
+terrafirmacraftplus:item.Red Steel Shovel - any
 
 
 itemShovelSteel
-terrafirmacraft:item.Steel Shovel - any
+terrafirmacraftplus:item.Steel Shovel - any
 
 
 itemShovelStone
-terrafirmacraft:item.Sed Stone Shovel - any
-terrafirmacraft:item.IgIn Stone Shovel - any
-terrafirmacraft:item.IgEx Stone Shovel - any
-terrafirmacraft:item.MM Stone Shovel - any
+terrafirmacraftplus:item.Sed Stone Shovel - any
+terrafirmacraftplus:item.IgIn Stone Shovel - any
+terrafirmacraftplus:item.IgEx Stone Shovel - any
+terrafirmacraftplus:item.MM Stone Shovel - any
 
 
 itemShovelStoneHead
-terrafirmacraft:item.IgEx Stone Shovel Head - any
-terrafirmacraft:item.IgIn Stone Shovel Head - any
-terrafirmacraft:item.MM Stone Shovel Head - any
-terrafirmacraft:item.Sed Stone Shovel Head - any
+terrafirmacraftplus:item.IgEx Stone Shovel Head - any
+terrafirmacraftplus:item.IgIn Stone Shovel Head - any
+terrafirmacraftplus:item.MM Stone Shovel Head - any
+terrafirmacraftplus:item.Sed Stone Shovel Head - any
 
 
 itemShovelWroughtIron
-terrafirmacraft:item.Wrought Iron Shovel - any
+terrafirmacraftplus:item.Wrought Iron Shovel - any
 
 
 itemSlag
@@ -3987,63 +4212,99 @@ GraviSuite:itemSimpleItem - 1
 
 
 itemSword
-terrafirmacraft:item.Bismuth Bronze Sword - any
-terrafirmacraft:item.Black Bronze Sword - any
-terrafirmacraft:item.Black Steel Sword - any
-terrafirmacraft:item.Blue Steel Sword - any
-terrafirmacraft:item.Bronze Sword - any
-terrafirmacraft:item.Copper Sword - any
-terrafirmacraft:item.Wrought Iron Sword - any
-terrafirmacraft:item.Red Steel Sword - any
-terrafirmacraft:item.Steel Sword - any
+terrafirmacraftplus:item.Bismuth Bronze Sword - any
+terrafirmacraftplus:item.Black Bronze Sword - any
+terrafirmacraftplus:item.Black Steel Sword - any
+terrafirmacraftplus:item.Blue Steel Sword - any
+terrafirmacraftplus:item.Bronze Sword - any
+terrafirmacraftplus:item.Copper Sword - any
+terrafirmacraftplus:item.Wrought Iron Sword - any
+terrafirmacraftplus:item.Red Steel Sword - any
+terrafirmacraftplus:item.Steel Sword - any
 
 
 itemSwordBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Sword - any
+terrafirmacraftplus:item.Bismuth Bronze Sword - any
 
 
 itemSwordBlackBronze
-terrafirmacraft:item.Black Bronze Sword - any
+terrafirmacraftplus:item.Black Bronze Sword - any
 
 
 itemSwordBlackSteel
-terrafirmacraft:item.Black Steel Sword - any
+terrafirmacraftplus:item.Black Steel Sword - any
 
 
 itemSwordBlueSteel
-terrafirmacraft:item.Blue Steel Sword - any
+terrafirmacraftplus:item.Blue Steel Sword - any
 
 
 itemSwordBronze
-terrafirmacraft:item.Bronze Sword - any
+terrafirmacraftplus:item.Bronze Sword - any
 
 
 itemSwordCopper
-terrafirmacraft:item.Copper Sword - any
+terrafirmacraftplus:item.Copper Sword - any
 
 
 itemSwordRedSteel
-terrafirmacraft:item.Red Steel Sword - any
+terrafirmacraftplus:item.Red Steel Sword - any
 
 
 itemSwordSteel
-terrafirmacraft:item.Steel Sword - any
+terrafirmacraftplus:item.Steel Sword - any
 
 
 itemSwordWroughtIron
-terrafirmacraft:item.Wrought Iron Sword - any
+terrafirmacraftplus:item.Wrought Iron Sword - any
 
 
-itemWarHammer
-tfcm:item.WarHammer_BismuthBronze - 0
-tfcm:item.WarHammer_BlackBronze - 0
-tfcm:item.WarHammer_BlackSteel - 0
-tfcm:item.WarHammer_BlueSteel - 0
-tfcm:item.WarHammer_Bronze - 0
-tfcm:item.WarHammer_Copper - 0
-tfcm:item.WarHammer_RedSteel - 0
-tfcm:item.WarHammer_Steel - 0
-tfcm:item.WarHammer_WroughtIron - 0
+itemTrowel
+terrafirmacraftplus:item.Bismuth Bronze Trowel - any
+terrafirmacraftplus:item.Black Bronze Trowel - any
+terrafirmacraftplus:item.Black Steel Trowel - any
+terrafirmacraftplus:item.Blue Steel Trowel - any
+terrafirmacraftplus:item.Bronze Trowel - any
+terrafirmacraftplus:item.Copper Trowel - any
+terrafirmacraftplus:item.Wrought Iron Trowel - any
+terrafirmacraftplus:item.Red Steel Trowel - any
+terrafirmacraftplus:item.Steel Trowel - any
+
+
+itemTrowelBismuthBronze
+terrafirmacraftplus:item.Bismuth Bronze Trowel - any
+
+
+itemTrowelBlackBronze
+terrafirmacraftplus:item.Black Bronze Trowel - any
+
+
+itemTrowelBlackSteel
+terrafirmacraftplus:item.Black Steel Trowel - any
+
+
+itemTrowelBlueSteel
+terrafirmacraftplus:item.Blue Steel Trowel - any
+
+
+itemTrowelBronze
+terrafirmacraftplus:item.Bronze Trowel - any
+
+
+itemTrowelCopper
+terrafirmacraftplus:item.Copper Trowel - any
+
+
+itemTrowelRedSteel
+terrafirmacraftplus:item.Red Steel Trowel - any
+
+
+itemTrowelSteel
+terrafirmacraftplus:item.Steel Trowel - any
+
+
+itemTrowelWroughtIron
+terrafirmacraftplus:item.Wrought Iron Trowel - any
 
 
 lavastone
@@ -4089,25 +4350,25 @@ Botania:manaResource - 3
 logWood
 minecraft:log - any
 minecraft:log2 - any
-Thaumcraft:blockMagicalLog - 0
-Thaumcraft:blockMagicalLog - 1
 Forestry:logs - any
 Forestry:logsFireproof - any
-terrafirmacraft:item.Log - any
-terrafirmacraft:log - any
-terrafirmacraft:log2 - any
-terrafirmacraft:WoodHoriz - any
-terrafirmacraft:WoodHoriz2 - any
-terrafirmacraft:WoodHoriz3 - any
-terrafirmacraft:WoodHoriz4 - any
-terrafirmacraft:WoodVert - any
-terrafirmacraft:WoodVert2 - any
-cookingwithtfc:item.Log - any
+Thaumcraft:blockMagicalLog - 0
+Thaumcraft:blockMagicalLog - 1
+terrafirmacraftplus:item.Log - any
+terrafirmacraftplus:log - any
+terrafirmacraftplus:log2 - any
+terrafirmacraftplus:WoodHoriz - any
+terrafirmacraftplus:WoodHoriz2 - any
+terrafirmacraftplus:WoodHoriz3 - any
+terrafirmacraftplus:WoodHoriz4 - any
+terrafirmacraftplus:WoodVert - any
+terrafirmacraftplus:WoodVert2 - any
+cookingwithtfc:item.null - any
 
 
 lumpClay
 minecraft:clay_ball - 0
-terrafirmacraft:item.Clay - 0
+terrafirmacraftplus:item.Clay - 0
 
 
 manaDiamond
@@ -4126,9 +4387,22 @@ marble
 chisel:marble - 0
 
 
+materialBladder
+lwstfc:item.Bladder - 0
+lwstfc:item.Bladder - 1
+lwstfc:item.Bladder - 2
+
+
+materialBurlap
+terrafirmacraftplus:item.BurlapCloth - 0
+
+
 materialCloth
-terrafirmacraft:item.WoolCloth - 0
-terrafirmacraft:item.SilkCloth - 0
+terrafirmacraftplus:item.WoolCloth - 0
+terrafirmacraftplus:item.SilkCloth - 0
+terrafirmacraftplus:item.LinenCloth - 0
+terrafirmacraftplus:item.CottonCloth - 0
+terrafirmacraftplus:item.BurlapCloth - 0
 
 
 materialGlue
@@ -4137,7 +4411,7 @@ tfctech:item.Glue - any
 
 materialLeather
 minecraft:leather - 0
-terrafirmacraft:item.TFC Leather - 0
+terrafirmacraftplus:item.TFC Leather - 0
 
 
 materialPaper
@@ -4150,11 +4424,14 @@ tfctech:item.Rubber - any
 
 materialString
 minecraft:string - 0
-terrafirmacraft:item.WoolYarn - 0
+terrafirmacraftplus:item.WoolYarn - 0
+terrafirmacraftplus:item.SilkString - 0
+terrafirmacraftplus:item.LinenString - 0
+terrafirmacraftplus:item.CottonYarn - 0
 
 
 materialWool
-terrafirmacraft:item.Wool - any
+terrafirmacraftplus:item.Wool - any
 
 
 minecraft:carrot
@@ -4563,7 +4840,7 @@ Forestry:resources - 0
 
 
 oreBorax
-terrafirmacraft:item.Ore - 32
+terrafirmacraftplus:item.Ore - 316
 
 
 oreCinnabar
@@ -4572,27 +4849,23 @@ Thaumcraft:blockCustomOre - 0
 
 oreCoal
 minecraft:coal_ore - 0
-terrafirmacraft:item.Ore - 14
-terrafirmacraft:item.Ore - 15
+terrafirmacraftplus:item.Ore - 14
+terrafirmacraftplus:item.Ore - 15
 
 
 oreCookedLimonite
-tfcudarymod:item.Cooked Limonite - 10
-tfcudarymod:item.Cooked Limonite - 15
-tfcudarymod:item.Cooked Limonite - 25
-tfcudarymod:item.Cooked Limonite - 35
 
 
 oreCopper
 IC2:blockOreCopper - 0
-ImmersiveEngineering:ore - 0
 Forestry:resources - 1
+ImmersiveEngineering:ore - 0
 
 
 oreDiamond
 minecraft:diamond_ore - 0
 Railcraft:ore - 2
-terrafirmacraft:item.Ore - 21
+terrafirmacraftplus:item.Ore - 305
 
 
 oreEmerald
@@ -4612,11 +4885,11 @@ minecraft:gold_ore - 0
 
 
 oreGraphite
-terrafirmacraft:item.Ore - 20
+terrafirmacraftplus:item.Ore - 304
 
 
 oreGypsum
-terrafirmacraft:item.Ore - 17
+terrafirmacraftplus:item.Ore - 301
 
 
 oreInfusedAir
@@ -4648,17 +4921,17 @@ minecraft:iron_ore - 0
 
 
 oreJet
-terrafirmacraft:item.Ore - 24
+terrafirmacraftplus:item.Ore - 308
 
 
 oreKaolinite
-terrafirmacraft:item.Ore - 16
+terrafirmacraftplus:item.Ore - 300
 
 
 oreLapis
 minecraft:lapis_ore - 0
 Railcraft:ore - 4
-terrafirmacraft:item.Ore - 34
+terrafirmacraftplus:item.Ore - 318
 
 
 oreLead
@@ -4667,7 +4940,7 @@ ImmersiveEngineering:ore - 2
 
 
 oreMicrocline
-terrafirmacraft:item.Ore - 25
+terrafirmacraftplus:item.Ore - 299
 
 
 oreNickel
@@ -4675,20 +4948,64 @@ ImmersiveEngineering:ore - 4
 
 
 oreNickelFlake
-tfcudarymod:item.Nickel Flake - 1
-tfcudarymod:item.Nickel Flake - 10
 
 
 oreNormalBauxite
 tfctech:item.Ore - 0
 
 
+oreNormalBismuth
+terrafirmacraftplus:item.Ore - 7
+
+
+oreNormalCopper
+terrafirmacraftplus:item.Ore - 0
+terrafirmacraftplus:item.Ore - 9
+terrafirmacraftplus:item.Ore - 13
+terrafirmacraftplus:item.Ore - 16
+terrafirmacraftplus:item.Ore - 17
+
+
+oreNormalGold
+terrafirmacraftplus:item.Ore - 1
+
+
+oreNormalIron
+terrafirmacraftplus:item.Ore - 3
+terrafirmacraftplus:item.Ore - 10
+terrafirmacraftplus:item.Ore - 11
+
+
+oreNormalLead
+terrafirmacraftplus:item.Ore - 6
+
+
+oreNormalNickel
+terrafirmacraftplus:item.Ore - 8
+
+
+oreNormalPlatinum
+terrafirmacraftplus:item.Ore - 2
+
+
+oreNormalSilver
+terrafirmacraftplus:item.Ore - 4
+
+
+oreNormalTin
+terrafirmacraftplus:item.Ore - 5
+
+
+oreNormalZinc
+terrafirmacraftplus:item.Ore - 12
+
+
 oreOlivine
-terrafirmacraft:item.Ore - 33
+terrafirmacraftplus:item.Ore - 317
 
 
 orePetrifiedWood
-terrafirmacraft:item.Ore - 22
+terrafirmacraftplus:item.Ore - 306
 
 
 orePlatinum
@@ -4698,24 +5015,55 @@ orePoorBauxite
 tfctech:item.Ore - 2
 
 
+orePoorBismuth
+terrafirmacraftplus:item.Ore - 207
+
+
 orePoorCopper
 Railcraft:ore - 9
+terrafirmacraftplus:item.Ore - 200
+terrafirmacraftplus:item.Ore - 209
+terrafirmacraftplus:item.Ore - 213
+terrafirmacraftplus:item.Ore - 216
+terrafirmacraftplus:item.Ore - 217
 
 
 orePoorGold
 Railcraft:ore - 8
+terrafirmacraftplus:item.Ore - 201
 
 
 orePoorIron
 Railcraft:ore - 7
+terrafirmacraftplus:item.Ore - 203
+terrafirmacraftplus:item.Ore - 210
+terrafirmacraftplus:item.Ore - 211
 
 
 orePoorLead
 Railcraft:ore - 11
+terrafirmacraftplus:item.Ore - 206
+
+
+orePoorNickel
+terrafirmacraftplus:item.Ore - 208
+
+
+orePoorPlatinum
+terrafirmacraftplus:item.Ore - 202
+
+
+orePoorSilver
+terrafirmacraftplus:item.Ore - 204
 
 
 orePoorTin
 Railcraft:ore - 10
+terrafirmacraftplus:item.Ore - 205
+
+
+orePoorZinc
+terrafirmacraftplus:item.Ore - 212
 
 
 oreQuartz
@@ -4724,28 +5072,75 @@ minecraft:quartz_ore - 0
 
 oreRedstone
 minecraft:redstone_ore - 0
-terrafirmacraft:item.Ore - 27
+terrafirmacraftplus:item.Ore - 311
+terrafirmacraftplus:item.Ore - 312
 
 
 oreRichBauxite
 tfctech:item.Ore - 1
 
 
+oreRichBismuth
+terrafirmacraftplus:item.Ore - 107
+
+
+oreRichCopper
+terrafirmacraftplus:item.Ore - 100
+terrafirmacraftplus:item.Ore - 109
+terrafirmacraftplus:item.Ore - 113
+terrafirmacraftplus:item.Ore - 116
+terrafirmacraftplus:item.Ore - 117
+
+
+oreRichGold
+terrafirmacraftplus:item.Ore - 101
+
+
+oreRichIron
+terrafirmacraftplus:item.Ore - 103
+terrafirmacraftplus:item.Ore - 110
+terrafirmacraftplus:item.Ore - 111
+
+
+oreRichLead
+terrafirmacraftplus:item.Ore - 106
+
+
+oreRichNickel
+terrafirmacraftplus:item.Ore - 108
+
+
+oreRichPlatinum
+terrafirmacraftplus:item.Ore - 102
+
+
+oreRichSilver
+terrafirmacraftplus:item.Ore - 104
+
+
+oreRichTin
+terrafirmacraftplus:item.Ore - 105
+
+
+oreRichZinc
+terrafirmacraftplus:item.Ore - 112
+
+
 oreSaltpeter
 Railcraft:ore - 1
-terrafirmacraft:item.Ore - 29
+terrafirmacraftplus:item.Ore - 313
 
 
 oreSatinspar
-terrafirmacraft:item.Ore - 18
+terrafirmacraftplus:item.Ore - 302
 
 
 oreSelenite
-terrafirmacraft:item.Ore - 19
+terrafirmacraftplus:item.Ore - 303
 
 
 oreSerpentine
-terrafirmacraft:item.Ore - 30
+terrafirmacraftplus:item.Ore - 314
 
 
 oreSilver
@@ -4753,12 +5148,56 @@ ImmersiveEngineering:ore - 3
 
 
 oreSilverFlake
-tfcudarymod:item.Silver Flake - 1
-tfcudarymod:item.Silver Flake - 10
 
 
 oreSmallBauxite
 tfctech:item.Small Ore - 0
+
+
+oreSmallBismuth
+terrafirmacraftplus:item.Small Ore - 7
+
+
+oreSmallCopper
+terrafirmacraftplus:item.Small Ore - 0
+terrafirmacraftplus:item.Small Ore - 9
+terrafirmacraftplus:item.Small Ore - 13
+terrafirmacraftplus:item.Ore - 16
+terrafirmacraftplus:item.Ore - 17
+
+
+oreSmallGold
+terrafirmacraftplus:item.Small Ore - 1
+
+
+oreSmallIron
+terrafirmacraftplus:item.Small Ore - 3
+terrafirmacraftplus:item.Small Ore - 10
+terrafirmacraftplus:item.Small Ore - 11
+
+
+oreSmallLead
+terrafirmacraftplus:item.Small Ore - 6
+
+
+oreSmallNickel
+terrafirmacraftplus:item.Small Ore - 8
+
+
+oreSmallPlatinum
+terrafirmacraftplus:item.Small Ore - 2
+
+
+oreSmallSilver
+terrafirmacraftplus:item.Small Ore - 4
+
+
+oreSmallTin
+terrafirmacraftplus:item.Small Ore - 5
+
+
+oreSmallZinc
+terrafirmacraftplus:item.Small Ore - 12
 
 
 oreSteel
@@ -4766,11 +5205,11 @@ oreSteel
 
 oreSulfur
 Railcraft:ore - 0
-terrafirmacraft:item.Ore - 23
+terrafirmacraftplus:item.Ore - 307
 
 
 oreSylvite
-terrafirmacraft:item.Ore - 31
+terrafirmacraftplus:item.Ore - 315
 
 
 oreTin
@@ -4780,6 +5219,7 @@ Forestry:resources - 2
 
 oreUranium
 IC2:blockOreUran - 0
+terrafirmacraftplus:item.Ore - 310
 
 
 paneGlass
@@ -4941,10 +5381,10 @@ ImmersiveEngineering:treatedWood - any
 
 plankWood
 minecraft:planks - any
-Thaumcraft:blockWoodenDevice - 6
-Thaumcraft:blockWoodenDevice - 7
 Forestry:planks - any
 Forestry:planksFireproof - any
+Thaumcraft:blockWoodenDevice - 6
+Thaumcraft:blockWoodenDevice - 7
 ExtraUtilities:colorWoodPlanks - 0
 ExtraUtilities:colorWoodPlanks - 1
 ExtraUtilities:colorWoodPlanks - 2
@@ -4961,8 +5401,8 @@ ExtraUtilities:colorWoodPlanks - 12
 ExtraUtilities:colorWoodPlanks - 13
 ExtraUtilities:colorWoodPlanks - 14
 ExtraUtilities:colorWoodPlanks - 15
-terrafirmacraft:planks - any
-terrafirmacraft:planks2 - any
+terrafirmacraftplus:planks - any
+terrafirmacraftplus:planks2 - any
 cookingwithtfc:woodPlank - any
 
 
@@ -5036,44 +5476,44 @@ tfctech:item.Aluminum Plate - any
 
 
 plateAnyBronze
-terrafirmacraft:item.Bronze Sheet - 0
-terrafirmacraft:item.Bismuth Bronze Sheet - 0
-terrafirmacraft:item.Black Bronze Sheet - 0
+terrafirmacraftplus:item.Bronze Sheet - 0
+terrafirmacraftplus:item.Bismuth Bronze Sheet - 0
+terrafirmacraftplus:item.Black Bronze Sheet - 0
 
 
 plateBismuth
-terrafirmacraft:item.Bismuth Sheet - 0
+terrafirmacraftplus:item.Bismuth Sheet - 0
 tfctech:item.Bismuth Plate - any
 
 
 plateBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Sheet - 0
+terrafirmacraftplus:item.Bismuth Bronze Sheet - 0
 tfctech:item.Bismuth Bronze Plate - any
 
 
 plateBlackBronze
-terrafirmacraft:item.Black Bronze Sheet - 0
+terrafirmacraftplus:item.Black Bronze Sheet - 0
 tfctech:item.Black Bronze Plate - any
 
 
 plateBlackSteel
-terrafirmacraft:item.Black Steel Sheet - 0
+terrafirmacraftplus:item.Black Steel Sheet - 0
 tfctech:item.Black Steel Plate - any
 
 
 plateBlueSteel
-terrafirmacraft:item.Blue Steel Sheet - 0
+terrafirmacraftplus:item.Blue Steel Sheet - 0
 tfctech:item.Blue Steel Plate - any
 
 
 plateBrass
-terrafirmacraft:item.Brass Sheet - 0
+terrafirmacraftplus:item.Brass Sheet - 0
 tfctech:item.Brass Plate - any
 
 
 plateBronze
 IC2:itemPlates - 2
-terrafirmacraft:item.Bronze Sheet - 0
+terrafirmacraftplus:item.Bronze Sheet - 0
 tfctech:item.Bronze Plate - any
 
 
@@ -5089,9 +5529,8 @@ tfctech:item.Constantan Plate - any
 plateCopper
 IC2:itemPlates - 0
 ImmersiveEngineering:metal - 31
-terrafirmacraft:item.Copper Sheet - 0
+terrafirmacraftplus:item.Copper Sheet - 0
 tfctech:item.Copper Plate - any
-Railcraft:part.plate - 3
 
 
 plateCupronickel
@@ -5226,43 +5665,43 @@ tfctech:item.Dense Aluminum Plate - any
 
 
 plateDoubleAnyBronze
-terrafirmacraft:item.Bronze Double Sheet - 0
-terrafirmacraft:item.Bismuth Bronze Double Sheet - 0
-terrafirmacraft:item.Black Bronze Double Sheet - 0
+terrafirmacraftplus:item.Bronze Double Sheet - 0
+terrafirmacraftplus:item.Bismuth Bronze Double Sheet - 0
+terrafirmacraftplus:item.Black Bronze Double Sheet - 0
 
 
 plateDoubleBismuth
-terrafirmacraft:item.Bismuth Double Sheet - 0
+terrafirmacraftplus:item.Bismuth Double Sheet - 0
 tfctech:item.Dense Bismuth Plate - any
 
 
 plateDoubleBismuthBronze
-terrafirmacraft:item.Bismuth Bronze Double Sheet - 0
+terrafirmacraftplus:item.Bismuth Bronze Double Sheet - 0
 tfctech:item.Dense Bismuth Bronze Plate - any
 
 
 plateDoubleBlackBronze
-terrafirmacraft:item.Black Bronze Double Sheet - 0
+terrafirmacraftplus:item.Black Bronze Double Sheet - 0
 tfctech:item.Dense Black Bronze Plate - any
 
 
 plateDoubleBlackSteel
-terrafirmacraft:item.Black Steel Double Sheet - 0
+terrafirmacraftplus:item.Black Steel Double Sheet - 0
 tfctech:item.Dense Black Steel Plate - any
 
 
 plateDoubleBlueSteel
-terrafirmacraft:item.Blue Steel Double Sheet - 0
+terrafirmacraftplus:item.Blue Steel Double Sheet - 0
 tfctech:item.Dense Blue Steel Plate - any
 
 
 plateDoubleBrass
-terrafirmacraft:item.Brass Double Sheet - 0
+terrafirmacraftplus:item.Brass Double Sheet - 0
 tfctech:item.Dense Brass Plate - any
 
 
 plateDoubleBronze
-terrafirmacraft:item.Bronze Double Sheet - 0
+terrafirmacraftplus:item.Bronze Double Sheet - 0
 tfctech:item.Dense Bronze Plate - any
 
 
@@ -5271,7 +5710,7 @@ tfctech:item.Dense Constantan Plate - any
 
 
 plateDoubleCopper
-terrafirmacraft:item.Copper Double Sheet - 0
+terrafirmacraftplus:item.Copper Double Sheet - 0
 tfctech:item.Dense Copper Plate - any
 
 
@@ -5284,7 +5723,7 @@ tfctech:item.Dense Electrum Plate - any
 
 
 plateDoubleGold
-terrafirmacraft:item.Gold Double Sheet - 0
+terrafirmacraftplus:item.Gold Double Sheet - 0
 tfctech:item.Dense Gold Plate - any
 
 
@@ -5297,62 +5736,62 @@ tfctech:item.Dense Wrought Iron Plate - any
 
 
 plateDoubleLead
-terrafirmacraft:item.Lead Double Sheet - 0
+terrafirmacraftplus:item.Lead Double Sheet - 0
 tfctech:item.Dense Lead Plate - any
 
 
 plateDoubleNickel
-terrafirmacraft:item.Nickel Double Sheet - 0
+terrafirmacraftplus:item.Nickel Double Sheet - 0
 tfctech:item.Dense Nickel Plate - any
 
 
 plateDoublePigIron
-terrafirmacraft:item.Pig Iron Double Sheet - 0
+terrafirmacraftplus:item.Pig Iron Double Sheet - 0
 tfctech:item.Dense Pig Iron Plate - any
 
 
 plateDoublePlatinum
-terrafirmacraft:item.Platinum Double Sheet - 0
+terrafirmacraftplus:item.Platinum Double Sheet - 0
 tfctech:item.Dense Platinum Plate - any
 
 
 plateDoubleRedSteel
-terrafirmacraft:item.Red Steel Double Sheet - 0
+terrafirmacraftplus:item.Red Steel Double Sheet - 0
 tfctech:item.Dense Red Steel Plate - any
 
 
 plateDoubleRoseGold
-terrafirmacraft:item.Rose Gold Double Sheet - 0
+terrafirmacraftplus:item.Rose Gold Double Sheet - 0
 tfctech:item.Dense Rose Gold Plate - any
 
 
 plateDoubleSilver
-terrafirmacraft:item.Silver Double Sheet - 0
+terrafirmacraftplus:item.Silver Double Sheet - 0
 tfctech:item.Dense Silver Plate - any
 
 
 plateDoubleSteel
-terrafirmacraft:item.Steel Double Sheet - 0
+terrafirmacraftplus:item.Steel Double Sheet - 0
 tfctech:item.Dense Steel Plate - any
 
 
 plateDoubleSterlingSilver
-terrafirmacraft:item.Sterling Silver Double Sheet - 0
+terrafirmacraftplus:item.Sterling Silver Double Sheet - 0
 tfctech:item.Dense Sterling Silver Plate - any
 
 
 plateDoubleTin
-terrafirmacraft:item.Tin Double Sheet - 0
+terrafirmacraftplus:item.Tin Double Sheet - 0
 tfctech:item.Dense Tin Plate - any
 
 
 plateDoubleWroughtIron
-terrafirmacraft:item.Wrought Iron Double Sheet - 0
+terrafirmacraftplus:item.Wrought Iron Double Sheet - 0
 tfctech:item.Dense Wrought Iron Plate - any
 
 
 plateDoubleZinc
-terrafirmacraft:item.Zinc Double Sheet - 0
+terrafirmacraftplus:item.Zinc Double Sheet - 0
 tfctech:item.Dense Zinc Plate - any
 
 
@@ -5363,7 +5802,7 @@ tfctech:item.Electrum Plate - any
 
 plateGold
 IC2:itemPlates - 3
-terrafirmacraft:item.Gold Sheet - 0
+terrafirmacraftplus:item.Gold Sheet - 0
 tfctech:item.Gold Plate - any
 
 
@@ -5374,9 +5813,8 @@ tfctech:item.Invar Plate - any
 plateIron
 IC2:itemPlates - 4
 ImmersiveEngineering:metal - 30
-terrafirmacraft:item.Wrought Iron Sheet - 0
+terrafirmacraftplus:item.Wrought Iron Sheet - 0
 tfctech:item.Wrought Iron Plate - any
-Railcraft:part.plate - 0
 
 
 plateLapis
@@ -5386,13 +5824,13 @@ IC2:itemPlates - 8
 plateLead
 IC2:itemPlates - 6
 ImmersiveEngineering:metal - 33
-terrafirmacraft:item.Lead Sheet - 0
+terrafirmacraftplus:item.Lead Sheet - 0
 tfctech:item.Lead Plate - any
 
 
 plateNickel
 ImmersiveEngineering:metal - 35
-terrafirmacraft:item.Nickel Sheet - 0
+terrafirmacraftplus:item.Nickel Sheet - 0
 tfctech:item.Nickel Plate - any
 
 
@@ -5401,64 +5839,73 @@ IC2:itemPlates - 7
 
 
 platePigIron
-terrafirmacraft:item.Pig Iron Sheet - 0
+terrafirmacraftplus:item.Pig Iron Sheet - 0
 tfctech:item.Pig Iron Plate - any
 
 
 platePlatinum
-terrafirmacraft:item.Platinum Sheet - 0
+terrafirmacraftplus:item.Platinum Sheet - 0
 tfctech:item.Platinum Plate - any
 
 
 plateRedSteel
-terrafirmacraft:item.Red Steel Sheet - 0
+terrafirmacraftplus:item.Red Steel Sheet - 0
 tfctech:item.Red Steel Plate - any
 
 
 plateRoseGold
-terrafirmacraft:item.Rose Gold Sheet - 0
+terrafirmacraftplus:item.Rose Gold Sheet - 0
 tfctech:item.Rose Gold Plate - any
 
 
 plateSilver
 ImmersiveEngineering:metal - 34
-terrafirmacraft:item.Silver Sheet - 0
+terrafirmacraftplus:item.Silver Sheet - 0
 tfctech:item.Silver Plate - any
 
 
 plateSteel
 IC2:itemPlates - 5
 ImmersiveEngineering:metal - 38
-terrafirmacraft:item.Steel Sheet - 0
+terrafirmacraftplus:item.Steel Sheet - 0
 tfctech:item.Steel Plate - any
-Railcraft:part.plate - 1
 
 
 plateSterlingSilver
-terrafirmacraft:item.Sterling Silver Sheet - 0
+terrafirmacraftplus:item.Sterling Silver Sheet - 0
 tfctech:item.Sterling Silver Plate - any
 
 
 plateTin
 IC2:itemPlates - 1
-terrafirmacraft:item.Tin Sheet - 0
+terrafirmacraftplus:item.Tin Sheet - 0
 tfctech:item.Tin Plate - any
-Railcraft:part.plate - 2
 
 
 plateWroughtIron
-terrafirmacraft:item.Wrought Iron Sheet - 0
+terrafirmacraftplus:item.Wrought Iron Sheet - 0
 tfctech:item.Wrought Iron Plate - any
-Railcraft:part.plate - 0
 
 
 plateZinc
-terrafirmacraft:item.Zinc Sheet - 0
+terrafirmacraftplus:item.Zinc Sheet - 0
 tfctech:item.Zinc Plate - any
 
 
 podzol
 minecraft:dirt - 2
+
+
+poniard
+tfcm:item.Poniard_BismuthBronze - 0
+tfcm:item.Poniard_BlackBronze - 0
+tfcm:item.Poniard_BlackSteel - 0
+tfcm:item.Poniard_BlueSteel - 0
+tfcm:item.Poniard_Bronze - 0
+tfcm:item.Poniard_Copper - 0
+tfcm:item.Poniard_RedSteel - 0
+tfcm:item.Poniard_Steel - 0
+tfcm:item.Poniard_WroughtIron - 0
 
 
 powderBlaze
@@ -5613,48 +6060,55 @@ saplingTree
 
 
 seedBag
-terrafirmacraft:item.Seeds Barley - any
-terrafirmacraft:item.Seeds Cabbage - any
-terrafirmacraft:item.Seeds Carrot - any
-terrafirmacraft:item.Seeds Garlic - any
-terrafirmacraft:item.Seeds Greenbean - any
-terrafirmacraft:item.Seeds Jute - any
-terrafirmacraft:item.Seeds Maize - any
-terrafirmacraft:item.Seeds Oat - any
-terrafirmacraft:item.Seeds Onion - any
-terrafirmacraft:item.Seeds Potato - any
-terrafirmacraft:item.Seeds Red Bell Pepper - any
-terrafirmacraft:item.Seeds Rice - any
-terrafirmacraft:item.Seeds Rye - any
-terrafirmacraft:item.Seeds Soybean - any
-terrafirmacraft:item.Seeds Squash - any
-terrafirmacraft:item.Seeds Sugarcane - any
-terrafirmacraft:item.Seeds Tomato - any
-terrafirmacraft:item.Seeds Wheat - any
-terrafirmacraft:item.Seeds Yellow Bell Pepper - any
-ieplants:item.Seeds IE_Hemp - any
-TerraFirmaPumpkins:item.Seeds Pumpkin - any
-TerraFirmaPumpkins:item.Seeds Melon - any
+terrafirmacraftplus:item.Seeds Barley - any
+terrafirmacraftplus:item.Seeds Cabbage - any
+terrafirmacraftplus:item.Seeds Carrot - any
+terrafirmacraftplus:item.Seeds Garlic - any
+terrafirmacraftplus:item.Seeds Greenbean - any
+terrafirmacraftplus:item.Seeds Jute - any
+terrafirmacraftplus:item.Seeds Maize - any
+terrafirmacraftplus:item.Seeds Oat - any
+terrafirmacraftplus:item.Seeds Onion - any
+terrafirmacraftplus:item.Seeds Potato - any
+terrafirmacraftplus:item.Seeds Red Bell Pepper - any
+terrafirmacraftplus:item.Seeds Rice - any
+terrafirmacraftplus:item.Seeds Rye - any
+terrafirmacraftplus:item.Seeds Soybean - any
+terrafirmacraftplus:item.Seeds Squash - any
+terrafirmacraftplus:item.Seeds Sugarcane - any
+terrafirmacraftplus:item.Seeds Tomato - any
+terrafirmacraftplus:item.Seeds Wheat - any
+terrafirmacraftplus:item.Seeds Yellow Bell Pepper - any
+terrafirmacraftplus:item.Seeds Flax - any
+terrafirmacraftplus:item.Seeds Madder - any
+terrafirmacraftplus:item.Seeds Weld - any
+terrafirmacraftplus:item.Seeds Woad - any
+terrafirmacraftplus:item.Seeds Pumpkin - any
+terrafirmacraftplus:item.Seeds Melon - any
+terrafirmacraftplus:item.Seeds Grapes - any
+terrafirmacraftplus:item.Seeds Black-Eyed Peas - any
+terrafirmacraftplus:item.Seeds Agave - any
+terrafirmacraftplus:item.Seeds Cotton - any
 
 
 seedBarley
-terrafirmacraft:item.Seeds Barley - any
+terrafirmacraftplus:item.Seeds Barley - any
 
 
 seedCabbage
-terrafirmacraft:item.Seeds Cabbage - any
+terrafirmacraftplus:item.Seeds Cabbage - any
 
 
 seedCarrot
-terrafirmacraft:item.Seeds Carrot - any
+terrafirmacraftplus:item.Seeds Carrot - any
 
 
 seedGarlic
-terrafirmacraft:item.Seeds Garlic - any
+terrafirmacraftplus:item.Seeds Garlic - any
 
 
 seedGreenbean
-terrafirmacraft:item.Seeds Greenbean - any
+terrafirmacraftplus:item.Seeds Greenbean - any
 
 
 seedIndustrialHemp
@@ -5662,71 +6116,59 @@ ImmersiveEngineering:seed - 0
 
 
 seedJute
-terrafirmacraft:item.Seeds Jute - any
+terrafirmacraftplus:item.Seeds Jute - any
 
 
 seedMaize
-terrafirmacraft:item.Seeds Maize - any
+terrafirmacraftplus:item.Seeds Maize - any
 
 
 seedOat
-terrafirmacraft:item.Seeds Oat - any
+terrafirmacraftplus:item.Seeds Oat - any
 
 
 seedOnion
-terrafirmacraft:item.Seeds Onion - any
+terrafirmacraftplus:item.Seeds Onion - any
 
 
 seedPotato
-terrafirmacraft:item.Seeds Potato - any
+terrafirmacraftplus:item.Seeds Potato - any
 
 
 seedRedBellPepper
-terrafirmacraft:item.Seeds Red Bell Pepper - any
+terrafirmacraftplus:item.Seeds Red Bell Pepper - any
 
 
 seedRice
-terrafirmacraft:item.Seeds Rice - any
+terrafirmacraftplus:item.Seeds Rice - any
 
 
 seedRye
-terrafirmacraft:item.Seeds Rye - any
+terrafirmacraftplus:item.Seeds Rye - any
 
 
 seedSoybean
-terrafirmacraft:item.Seeds Soybean - any
+terrafirmacraftplus:item.Seeds Soybean - any
 
 
 seedSquash
-terrafirmacraft:item.Seeds Squash - any
+terrafirmacraftplus:item.Seeds Squash - any
 
 
 seedSugarcane
-terrafirmacraft:item.Seeds Sugarcane - any
+terrafirmacraftplus:item.Seeds Sugarcane - any
 
 
 seedTomato
-terrafirmacraft:item.Seeds Tomato - any
+terrafirmacraftplus:item.Seeds Tomato - any
 
 
 seedWheat
-terrafirmacraft:item.Seeds Wheat - any
+terrafirmacraftplus:item.Seeds Wheat - any
 
 
 seedYelloBellPepper
-terrafirmacraft:item.Seeds Yellow Bell Pepper - any
-
-
-seedsHemp
-ieplants:item.Seeds IE_Hemp - any
-
-
-seedsMelon
-TerraFirmaPumpkins:item.Seeds Melon - any
-
-
-seedsPumpkin
-TerraFirmaPumpkins:item.Seeds Pumpkin - any
+terrafirmacraftplus:item.Seeds Yellow Bell Pepper - any
 
 
 shardAir
@@ -5823,10 +6265,10 @@ ImmersiveEngineering:woodenDecoration - 2
 
 slabWood
 minecraft:wooden_slab - any
-Thaumcraft:blockCosmeticSlabWood - 0
-Thaumcraft:blockCosmeticSlabWood - 1
 Forestry:slabs - any
 Forestry:slabsFireproof - any
+Thaumcraft:blockCosmeticSlabWood - 0
+Thaumcraft:blockCosmeticSlabWood - 1
 
 
 slabWoodAcacia
@@ -5858,7 +6300,7 @@ minecraft:slime_ball - 0
 
 
 snowLayer
-terrafirmacraft:Snow - 0
+terrafirmacraftplus:Snow - 0
 
 
 soulSand
@@ -6151,9 +6593,6 @@ Forestry:stairs - any
 Forestry:stairsFireproof - any
 
 
-steelPlate
-
-
 stickAluminum
 ImmersiveEngineering:material - 16
 
@@ -6168,7 +6607,7 @@ ImmersiveEngineering:material - 15
 
 stickWood
 minecraft:stick - 0
-terrafirmacraft:item.stick - 0
+terrafirmacraftplus:item.stick - 0
 
 
 stone
@@ -6189,10 +6628,10 @@ ExtraUtilities:color_stone - 12
 ExtraUtilities:color_stone - 13
 ExtraUtilities:color_stone - 14
 ExtraUtilities:color_stone - 15
-terrafirmacraft:StoneIgEx - any
-terrafirmacraft:StoneIgIn - any
-terrafirmacraft:StoneMM - any
-terrafirmacraft:StoneSed - any
+terrafirmacraftplus:StoneIgEx - any
+terrafirmacraftplus:StoneIgIn - any
+terrafirmacraftplus:StoneMM - any
+terrafirmacraftplus:StoneSed - any
 
 
 stoneAndesite
@@ -6238,10 +6677,10 @@ ExtraUtilities:color_stone - 4
 
 stoneBricks
 minecraft:stonebrick - 0
-terrafirmacraft:StoneIgExBrick - any
-terrafirmacraft:StoneIgInBrick - any
-terrafirmacraft:StoneMMBrick - any
-terrafirmacraft:StoneSedBrick - any
+terrafirmacraftplus:StoneIgExBrick - any
+terrafirmacraftplus:StoneIgInBrick - any
+terrafirmacraftplus:StoneMMBrick - any
+terrafirmacraftplus:StoneSedBrick - any
 
 
 stoneBrown
@@ -6249,10 +6688,10 @@ ExtraUtilities:color_stone - 3
 
 
 stoneCobble
-terrafirmacraft:StoneIgExCobble - any
-terrafirmacraft:StoneIgInCobble - any
-terrafirmacraft:StoneMMCobble - any
-terrafirmacraft:StoneSedCobble - any
+terrafirmacraftplus:StoneIgExCobble - any
+terrafirmacraftplus:StoneIgInCobble - any
+terrafirmacraftplus:StoneMMCobble - any
+terrafirmacraftplus:StoneSedCobble - any
 
 
 stoneCyan
@@ -6334,10 +6773,10 @@ ExtraUtilities:color_stone - 1
 
 
 stoneSmooth
-terrafirmacraft:StoneIgExSmooth - any
-terrafirmacraft:StoneIgInSmooth - any
-terrafirmacraft:StoneMMSmooth - any
-terrafirmacraft:StoneSedSmooth - any
+terrafirmacraftplus:StoneIgExSmooth - any
+terrafirmacraftplus:StoneIgInSmooth - any
+terrafirmacraftplus:StoneMMSmooth - any
+terrafirmacraftplus:StoneSedSmooth - any
 
 
 stoneWhite
@@ -6350,7 +6789,7 @@ ExtraUtilities:color_stone - 11
 
 toolFlintSteel
 minecraft:flint_and_steel - any
-terrafirmacraft:item.flintAndSteel - any
+terrafirmacraftplus:item.flintAndSteel - any
 
 
 treatedStick
@@ -6362,19 +6801,19 @@ minecraft:leaves - any
 minecraft:leaves2 - any
 IC2:blockRubLeaves - any
 Forestry:leaves - any
-terrafirmacraft:leaves - any
-terrafirmacraft:leaves2 - any
+terrafirmacraftplus:leaves - any
+terrafirmacraftplus:leaves2 - any
 
 
 treeSapling
 minecraft:sapling - any
-Thaumcraft:blockCustomPlant - 0
-Thaumcraft:blockCustomPlant - 1
 IC2:blockRubSapling - any
 Forestry:sapling - any
 Forestry:saplingGE - any
-terrafirmacraft:sapling - any
-terrafirmacraft:sapling2 - any
+Thaumcraft:blockCustomPlant - 0
+Thaumcraft:blockCustomPlant - 1
+terrafirmacraftplus:sapling - any
+terrafirmacraftplus:sapling2 - any
 cookingwithtfc:customSapling - any
 
 
@@ -6382,8 +6821,20 @@ tyrian
 chisel:tyrian - 0
 
 
+warHammer
+tfcm:item.WarHammer_BismuthBronze - 0
+tfcm:item.WarHammer_BlackBronze - 0
+tfcm:item.WarHammer_BlackSteel - 0
+tfcm:item.WarHammer_BlueSteel - 0
+tfcm:item.WarHammer_Bronze - 0
+tfcm:item.WarHammer_Copper - 0
+tfcm:item.WarHammer_RedSteel - 0
+tfcm:item.WarHammer_Steel - 0
+tfcm:item.WarHammer_WroughtIron - 0
+
+
 woodLumber
-terrafirmacraft:item.SinglePlank - any
+terrafirmacraftplus:item.SinglePlank - any
 cookingwithtfc:item.SinglePlank - any
 
 

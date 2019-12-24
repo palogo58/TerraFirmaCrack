@@ -154,15 +154,15 @@
 	- Forge Biome Types: HOT SPARSE SAVANNA PLAINS 
 
 37
-	- Name: Mesa
+	- Name: Mountain Range
 	- Forge Biome Types: MESA SANDY 
 
 38
-	- Name: Mesa Plateau F
+	- Name: Mountain Range Edge
 	- Forge Biome Types: SPARSE MESA SANDY 
 
 39
-	- Name: Mesa Plateau
+	- Name: Foothills
 	- Forge Biome Types: MESA SANDY 
 
 126

@@ -192,7 +192,6 @@ Sheep
 Silverfish
 Skeleton
 Slime
-SlingshotStone
 SmallFireball
 SnowMan
 Snowball
@@ -270,6 +269,7 @@ chisel.BallOMoss
 chisel.CloudInABottle
 chisel.SmashingRock
 chisel.snowman
+corpse
 cowTFC
 creativecore.Sit
 creeperTFC
@@ -293,12 +293,8 @@ slimeTFC
 spiderTFC
 squidTFC
 standTFC
-terrafirmacraft.javelin
-tfcprimitivetech.itemHardStone
-tfcprimitivetech.itemSharpStone
-tfcprimitivetech.itemSoftStone
+terrafirmacraftplus.javelin
 wolfTFC
-woodenMinecartChest
 zombieTFC
 ## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
 3 - squidTFC
@@ -338,6 +334,7 @@ zombieTFC
 65 - Bat
 66 - Witch
 67 - horseTFC
+71 - corpse
 90 - Pig
 91 - Sheep
 92 - Cow
@@ -345,8 +342,6 @@ zombieTFC
 94 - Squid
 95 - Wolf
 96 - MushroomCow
-97 - SnowMan
 98 - Ozelot
-99 - VillagerGolem
 100 - EntityHorse
 120 - Villager

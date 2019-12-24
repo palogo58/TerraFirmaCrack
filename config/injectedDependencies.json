@@ -4,59 +4,7 @@
     "deps": [
       {
         "type": "after",
-        "target": "terrafirmacraft"
-      },
-      {
-        "type": "before",
-        "target": "BuildCraft|Core"
-      },
-      {
-        "type": "before",
-        "target": "Baubles"
-      },
-      {
-        "type": "before",
-        "target": "Thaumcraft"
-      },
-      {
-        "type": "before",
-        "target": "IC2"
-      },
-      {
-        "type": "before",
-        "target": "Railcraft"
-      },
-      {
-        "type": "before",
-        "target": "ImmersiveEngineering"
-      },
-      {
-        "type": "before",
-        "target": "ieplants"
-      },
-      {
-        "type": "before",
-        "target": "lwstfc"
-      },
-      {
-        "type": "before",
-        "target": "TerraFirmaPumpkins"
-      },
-      {
-        "type": "before",
-        "target": "terrafirmastuff"
-      },
-      {
-        "type": "before",
-        "target": "tfcm"
-      },
-      {
-        "type": "before",
-        "target": "tfcwells"
-      },
-      {
-        "type": "before",
-        "target": "tfcautomatedbellows"
+        "target": "terrafirmacraftplus"
       },
       {
         "type": "before",
@@ -64,23 +12,31 @@
       },
       {
         "type": "before",
-        "target": "Waila"
+        "target": "tfcm"
       },
       {
         "type": "before",
-        "target": "tfccrops"
+        "target": "cookingwithtfc"
       },
       {
         "type": "before",
-        "target": "tfcprimitivetech"
+        "target": "DecorationsTFC"
       },
       {
         "type": "before",
-        "target": "weightingscales"
+        "target": "MerchantsTFC"
+      },
+      {
+        "type": "before",
+        "target": "tfcwells"
       },
       {
         "type": "before",
         "target": "BiblioCraft"
+      },
+      {
+        "type": "before",
+        "target": "BuildCraft|Core"
       },
       {
         "type": "before",
@@ -108,6 +64,10 @@
       },
       {
         "type": "before",
+        "target": "IC2"
+      },
+      {
+        "type": "before",
         "target": "Forestry"
       },
       {
@@ -116,11 +76,23 @@
       },
       {
         "type": "before",
-        "target": "tfctech"
+        "target": "Baubles"
       },
       {
         "type": "before",
-        "target": "tfcudarymod"
+        "target": "Thaumcraft"
+      },
+      {
+        "type": "before",
+        "target": "Railcraft"
+      },
+      {
+        "type": "before",
+        "target": "ImmersiveEngineering"
+      },
+      {
+        "type": "before",
+        "target": "tfctech"
       },
       {
         "type": "before",
@@ -164,10 +136,6 @@
       },
       {
         "type": "before",
-        "target": "cookingwithtfc"
-      },
-      {
-        "type": "before",
         "target": "creativecore"
       },
       {
@@ -201,6 +169,10 @@
       {
         "type": "before",
         "target": "ExtraUtilities"
+      },
+      {
+        "type": "before",
+        "target": "Waila"
       },
       {
         "type": "before",
@@ -261,6 +233,10 @@
       {
         "type": "before",
         "target": "journeymap"
+      },
+      {
+        "type": "before",
+        "target": "lwstfc"
       },
       {
         "type": "before",
@@ -348,19 +324,7 @@
       },
       {
         "type": "before",
-        "target": "tfcengineer"
-      },
-      {
-        "type": "before",
-        "target": "tfcrailcraft"
-      },
-      {
-        "type": "before",
-        "target": "TFCTweaker"
-      },
-      {
-        "type": "before",
-        "target": "TooMuchTime"
+        "target": "TFCPTweaker"
       },
       {
         "type": "before",
