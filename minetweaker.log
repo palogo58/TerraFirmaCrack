@@ -1,32 +1,12 @@
 ERROR: system: Crop is already defined in that package
 INFO: MineTweaker: Building registry
 INFO: MineTweaker: Sucessfully built item registry
-INFO: Adding command minetweaker
-INFO: Adding minetweaker command tooltips
-INFO: Adding minetweaker command entities
-INFO: Adding minetweaker command lexiconCategories
-INFO: Adding minetweaker command lexiconPages
-INFO: Adding minetweaker command botaniaBrews
-INFO: Adding minetweaker command lexiconKnowledgeTypes
-INFO: Adding minetweaker command botaniaOrechid
-INFO: Adding minetweaker command botania
-INFO: Adding minetweaker command chiselGroups
-INFO: Adding minetweaker command chiselVariations
-INFO: Adding minetweaker command railcraft
-INFO: Adding minetweaker command research
-INFO: Adding minetweaker command aspectList
 INFO: Adding minetweaker command mfr
-INFO: Adding item 'Green Wool' to clay working recipes'
-INFO: Adding minetweaker command tooltips
-INFO: Adding minetweaker command entities
-INFO: Adding minetweaker command lexiconCategories
-INFO: Adding minetweaker command lexiconPages
-INFO: Adding minetweaker command botaniaBrews
-INFO: Adding minetweaker command lexiconKnowledgeTypes
-INFO: Adding minetweaker command botaniaOrechid
-INFO: Adding minetweaker command botania
-INFO: Adding minetweaker command chiselGroups
-INFO: Adding minetweaker command chiselVariations
-INFO: Adding minetweaker command railcraft
-INFO: Adding minetweaker command research
-INFO: Adding minetweaker command aspectList
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 0 recipes
+INFO: Adding recipe for denseRedStone
+INFO: Adding recipe for woodenblade
+INFO: Adding recipe for Windmill Blade
+INFO: Adding recipe for Windmill Blade
+INFO: Adding recipe for Windmill

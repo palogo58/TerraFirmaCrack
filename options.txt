@@ -3,7 +3,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.0
 saturation:0.0
-renderDistance:12
+renderDistance:8
 guiScale:3
 particles:0
 bobView:true
@@ -12,11 +12,11 @@ advancedOpengl:false
 maxFps:120
 fboEnable:true
 difficulty:2
-fancyGraphics:true
+fancyGraphics:false
 ao:2
 clouds:true
 resourcePacks:[]
-lastServer:
+lastServer:47.144.232.4
 lang:en_US
 chatVisibility:0
 chatColors:true
@@ -96,7 +96,7 @@ key_Gravi Fly Key:33
 key_Gravi Display Hud:35
 key_igwmod.keys.wiki:23
 key_Toggle StepUp:36
-key_Baubles Inventory:48
+key_Baubles Inventory:37
 key_Change Wand Focus:33
 key_Activate Hover Harness:35
 key_Misc Wand Toggle:34
@@ -121,7 +121,7 @@ key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
 key_BetterFps:88
-soundCategory_master:0.51655626
+soundCategory_master:0.09602649
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
