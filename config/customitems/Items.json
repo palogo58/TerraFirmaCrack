@@ -4,7 +4,19 @@
             "maxStackSize": 64,
             "registerOrder": 1,
             "textureName": "woodenBlade",
-            "name": "woodenBlade"
+            "name": "Wooden Blade"
+        },
+	{
+            "maxStackSize":  1,
+            "registerOrder": 2,
+            "textureName": "uApprenticeBloodOrb",
+            "name": "Unattuned Apprentice BloodOrb"
+        },
+	{
+            "maxStackSize":  1,
+            "registerOrder": 3,
+            "textureName": "uEnergyBattery",
+            "name": "Unattuned Weak BloodOrb"
         }
     ]
 }
