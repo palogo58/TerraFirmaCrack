@@ -7,10 +7,10 @@ recipes.remove(<Botania:lexicon>);
 recipes.remove(<Botania:fertilizer>);
 
 //Shaped Recipes
-recipes.addShaped(<Botania:pestleAndMortar>, [[<terrafirmacraftplus:item.Emerald:*>, <ore:stickWood>], [<terrafirmacraftplus:item.ClayBowl:1>, null]]);
+recipes.addShaped(<Botania:pestleAndMortar>, [[<ore:ingotLead>, <ore:stickWood>], [<terrafirmacraftplus:item.ClayBowl:1>, null]]);
 recipes.addShaped(<Botania:spreader>, [[<ore:livingwood>, <ore:livingwood>, <ore:livingwood>], [<ore:ingotLead>, <Botania:petalBlock:*>, null], [<ore:livingwood>, <ore:livingwood>, <ore:livingwood>]]);
 recipes.addShaped(<Botania:pool>, [[<ore:livingrock>, null, <ore:livingrock>], [<ore:livingrock>, null, <ore:livingrock>], [<customitems:botanicalbrick>, <customitems:botanicalbrick>, <customitems:botanicalbrick>]]);
-recipes.addShaped(<Botania:altar>, [[<customitems:botanicalbrick>, <terrafirmacraftplus:item.Emerald:*>, <customitems:botanicalbrick>], [null, <customitems:botanicalbrick>, null], [<customitems:botanicalbrick>, <customitems:botanicalbrick>, <customitems:botanicalbrick>]]);
+recipes.addShaped(<Botania:altar>, [[<customitems:botanicalbrick>, <ore:ingotLead>, <customitems:botanicalbrick>], [null, <customitems:botanicalbrick>, null], [<customitems:botanicalbrick>, <customitems:botanicalbrick>, <customitems:botanicalbrick>]]);
 recipes.addShaped(<customitems:botanicalbrick>, [[<Botania:petalBlock:*>, <Botania:petalBlock:*>, <Botania:petalBlock:*>], [<Botania:petalBlock:*>, <ore:stoneSmooth>, <Botania:petalBlock:*>], [<Botania:petalBlock:*>, <Botania:petalBlock:*>, <Botania:petalBlock:*>]]);
 recipes.addShaped(<Botania:fertilizer> * 8, [[<Botania:pestleAndMortar>.giveBack(<Botania:pestleAndMortar>), <minecraft:ender_pearl>], [<ore:treeSapling>, null], [<ore:treeSapling>, null]]);
 recipes.addShaped(<Botania:fertilizer> * 4, [[<Botania:pestleAndMortar>.giveBack(<Botania:pestleAndMortar>), <terrafirmacraftplus:Flora>], [<ore:treeSapling>, <minecraft:bone>], [<ore:treeSapling>, null]]);
