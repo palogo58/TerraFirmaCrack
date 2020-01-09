@@ -12,14 +12,6 @@
       },
       {
         "type": "before",
-        "target": "tfcm"
-      },
-      {
-        "type": "before",
-        "target": "cookingwithtfc"
-      },
-      {
-        "type": "before",
         "target": "DecorationsTFC"
       },
       {
