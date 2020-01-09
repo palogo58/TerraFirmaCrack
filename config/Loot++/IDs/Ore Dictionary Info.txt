@@ -1964,7 +1964,6 @@ dyeBrown
 minecraft:dye - 3
 Botania:dye - 12
 terrafirmacraftplus:item.dyePowder - 3
-tfcm:item.BrownDye - 0
 tfctech:item.Lime Paint - 3
 gendustry:HoneyDrop - 13
 
@@ -2811,18 +2810,6 @@ gravel
 minecraft:gravel - 0
 
 
-halberd
-tfcm:item.Halberd_BismuthBronze - 0
-tfcm:item.Halberd_BlackBronze - 0
-tfcm:item.Halberd_BlackSteel - 0
-tfcm:item.Halberd_BlueSteel - 0
-tfcm:item.Halberd_Bronze - 0
-tfcm:item.Halberd_Copper - 0
-tfcm:item.Halberd_RedSteel - 0
-tfcm:item.Halberd_Steel - 0
-tfcm:item.Halberd_WroughtIron - 0
-
-
 hardenedClay
 minecraft:hardened_clay - any
 
@@ -3525,15 +3512,6 @@ itemBlazeRod
 minecraft:blaze_rod - 0
 
 
-itemBread
-terrafirmacraftplus:item.Barley Bread - 0
-terrafirmacraftplus:item.Corn Bread - 0
-terrafirmacraftplus:item.Oat Bread - 0
-terrafirmacraftplus:item.Rice Bread - 0
-terrafirmacraftplus:item.Rye Bread - 0
-terrafirmacraftplus:item.Wheat Bread - 0
-
-
 itemCharcoal
 minecraft:coal - 1
 
@@ -3619,15 +3597,6 @@ minecraft:coal - 0
 
 itemFlint
 minecraft:flint - 0
-
-
-itemFlour
-terrafirmacraftplus:item.Barley Ground - 0
-terrafirmacraftplus:item.Cornmeal Ground - 0
-terrafirmacraftplus:item.Oat Ground - 0
-terrafirmacraftplus:item.Rice Ground - 0
-terrafirmacraftplus:item.Rye Ground - 0
-terrafirmacraftplus:item.Wheat Ground - 0
 
 
 itemGhastTear
@@ -4364,7 +4333,6 @@ terrafirmacraftplus:WoodHoriz3 - any
 terrafirmacraftplus:WoodHoriz4 - any
 terrafirmacraftplus:WoodVert - any
 terrafirmacraftplus:WoodVert2 - any
-cookingwithtfc:item.null - any
 
 
 lumpClay
@@ -5404,7 +5372,6 @@ ExtraUtilities:colorWoodPlanks - 14
 ExtraUtilities:colorWoodPlanks - 15
 terrafirmacraftplus:planks - any
 terrafirmacraftplus:planks2 - any
-cookingwithtfc:woodPlank - any
 
 
 plankWoodBlack
@@ -5895,18 +5862,6 @@ tfctech:item.Zinc Plate - any
 
 podzol
 minecraft:dirt - 2
-
-
-poniard
-tfcm:item.Poniard_BismuthBronze - 0
-tfcm:item.Poniard_BlackBronze - 0
-tfcm:item.Poniard_BlackSteel - 0
-tfcm:item.Poniard_BlueSteel - 0
-tfcm:item.Poniard_Bronze - 0
-tfcm:item.Poniard_Copper - 0
-tfcm:item.Poniard_RedSteel - 0
-tfcm:item.Poniard_Steel - 0
-tfcm:item.Poniard_WroughtIron - 0
 
 
 powderBlaze
@@ -6815,28 +6770,14 @@ Thaumcraft:blockCustomPlant - 0
 Thaumcraft:blockCustomPlant - 1
 terrafirmacraftplus:sapling - any
 terrafirmacraftplus:sapling2 - any
-cookingwithtfc:customSapling - any
 
 
 tyrian
 chisel:tyrian - 0
 
 
-warHammer
-tfcm:item.WarHammer_BismuthBronze - 0
-tfcm:item.WarHammer_BlackBronze - 0
-tfcm:item.WarHammer_BlackSteel - 0
-tfcm:item.WarHammer_BlueSteel - 0
-tfcm:item.WarHammer_Bronze - 0
-tfcm:item.WarHammer_Copper - 0
-tfcm:item.WarHammer_RedSteel - 0
-tfcm:item.WarHammer_Steel - 0
-tfcm:item.WarHammer_WroughtIron - 0
-
-
 woodLumber
 terrafirmacraftplus:item.SinglePlank - any
-cookingwithtfc:item.SinglePlank - any
 
 
 woodRubber
