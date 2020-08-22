@@ -106,6 +106,11 @@ Item
 ItemFrame
 LavaSlime
 LeashKnot
+Mekanism.BabySkeleton
+Mekanism.Balloon
+Mekanism.Flame
+Mekanism.ObsidianTNT
+Mekanism.Robit
 MinecartChest
 MinecartCommandBlock
 MinecartFurnace
@@ -259,17 +264,22 @@ WitherSkull
 Wolf
 XPOrb
 Zombie
+angelFishTFC
 arrowTFC
 barrel
+bassTFC
 bearTFC
 betterboat.betterBoat
+bighornsheepTFC
 blazeTFC
+butterflyFishTFC
 caveSpiderTFC
 chickenTFC
 chisel.BallOMoss
 chisel.CloudInABottle
 chisel.SmashingRock
 chisel.snowman
+coracle
 corpse
 cowTFC
 creativecore.Sit
@@ -277,16 +287,20 @@ creeperTFC
 deerTFC
 endermanTFC
 fallingBlock
-fishTFC
 ghastTFC
+goatTFC
 horseTFC
 irongolemTFC
+itemTFC
 lootplusplus.Label
 lootplusplus.ThrownItem
 minecartTFC
+parrotFishTFC
+peccaryTFC
 pheasantTFC
 pigTFC
 pigZombieTFC
+pollockTFC
 sheepTFC
 silverfishTFC
 skeletonTFC
@@ -298,31 +312,35 @@ terrafirmacraftplus.javelin
 tfcprimitivetech.itemHardStone
 tfcprimitivetech.itemSharpStone
 tfcprimitivetech.itemSoftStone
+troutTFC
+wahooTFC
+warthogTFC
 wolfTFC
+wrasseTFC
 zombieTFC
 ## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
 3 - squidTFC
-4 - fishTFC
-5 - cowTFC
-6 - wolfTFC
-7 - bearTFC
-23 - chickenTFC
-24 - pigTFC
-25 - deerTFC
-26 - skeletonTFC
-27 - zombieTFC
-28 - spiderTFC
-29 - slimeTFC
-30 - silverfishTFC
-31 - ghastTFC
-32 - caveSpiderTFC
-33 - blazeTFC
-34 - endermanTFC
-35 - pigZombieTFC
-36 - irongolemTFC
-37 - creeperTFC
-38 - sheepTFC
-39 - pheasantTFC
+4 - bassTFC
+5 - troutTFC
+6 - wahooTFC
+7 - butterflyFishTFC
+23 - parrotFishTFC
+24 - angelFishTFC
+25 - wrasseTFC
+26 - pollockTFC
+27 - cowTFC
+28 - wolfTFC
+29 - bearTFC
+30 - chickenTFC
+31 - pigTFC
+32 - warthogTFC
+33 - peccaryTFC
+34 - deerTFC
+35 - skeletonTFC
+36 - zombieTFC
+37 - spiderTFC
+38 - slimeTFC
+39 - silverfishTFC
 50 - Creeper
 51 - Skeleton
 52 - Spider
@@ -337,8 +355,19 @@ zombieTFC
 62 - LavaSlime
 65 - Bat
 66 - Witch
-67 - horseTFC
-71 - corpse
+67 - ghastTFC
+68 - caveSpiderTFC
+69 - blazeTFC
+70 - endermanTFC
+71 - pigZombieTFC
+72 - irongolemTFC
+73 - creeperTFC
+74 - sheepTFC
+75 - bighornsheepTFC
+76 - goatTFC
+77 - pheasantTFC
+78 - horseTFC
+83 - corpse
 90 - Pig
 91 - Sheep
 92 - Cow
@@ -346,8 +375,6 @@ zombieTFC
 94 - Squid
 95 - Wolf
 96 - MushroomCow
-97 - SnowMan
 98 - Ozelot
-99 - VillagerGolem
 100 - EntityHorse
 120 - Villager

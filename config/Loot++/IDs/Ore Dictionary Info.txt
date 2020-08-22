@@ -5,6 +5,22 @@
 ##     <item id registered> - <item damage> ##
 ##     etc...                               ##
 ##############################################
+alloyAdvanced
+Mekanism:EnrichedAlloy - 0
+
+
+alloyBasic
+minecraft:redstone - 0
+
+
+alloyElite
+Mekanism:ReinforcedAlloy - 0
+
+
+alloyUltimate
+Mekanism:AtomicAlloy - 0
+
+
 antiBlock
 chisel:antiBlock - 0
 
@@ -37,6 +53,10 @@ barsIron
 minecraft:iron_bars - 0
 
 
+battery
+Mekanism:EnergyTablet - 0
+
+
 beeComb
 Forestry:beeCombs - any
 gendustry:HoneyComb - any
@@ -61,10 +81,15 @@ Botania:blazeBlock - 0
 blockBronze
 IC2:blockMetal - 2
 Forestry:resourceStorage - 3
+Mekanism:BasicBlock - 1
 
 
 blockCarpet
 chisel:carpet_block - 0
+
+
+blockCharcoal
+Mekanism:BasicBlock - 3
 
 
 blockCoal
@@ -160,6 +185,7 @@ IC2:blockMetal - 0
 Forestry:resourceStorage - 1
 Railcraft:cube - 9
 ImmersiveEngineering:storage - 0
+Mekanism:BasicBlock - 12
 
 
 blockCupronickel
@@ -433,6 +459,10 @@ blockObsidian
 minecraft:obsidian - 0
 
 
+blockOsmium
+Mekanism:BasicBlock - 0
+
+
 blockPackedIce
 minecraft:packed_ice - 0
 
@@ -534,6 +564,18 @@ blockRedstoneYellow
 ExtraUtilities:color_blockRedstone - 11
 
 
+blockRefinedGlowstone
+Mekanism:BasicBlock - 4
+
+
+blockRefinedObsidian
+Mekanism:BasicBlock - 2
+
+
+blockSalt
+Mekanism:SaltBlock - 0
+
+
 blockSand
 minecraft:sand - 0
 terrafirmacraftplus:Sand - any
@@ -548,12 +590,14 @@ blockSteel
 IC2:blockMetal - 5
 Railcraft:cube - 2
 ImmersiveEngineering:storage - 7
+Mekanism:BasicBlock - 5
 
 
 blockTin
 IC2:blockMetal - 1
 Forestry:resourceStorage - 2
 Railcraft:cube - 10
+Mekanism:BasicBlock - 13
 
 
 blockTorch
@@ -910,10 +954,20 @@ BuildCraft|Silicon:redstoneChipset - 0
 
 circuitAdvanced
 IC2:itemPartCircuitAdv - 0
+Mekanism:ControlCircuit - 1
 
 
 circuitBasic
 IC2:itemPartCircuit - 0
+Mekanism:ControlCircuit - 0
+
+
+circuitElite
+Mekanism:ControlCircuit - 2
+
+
+circuitUltimate
+Mekanism:ControlCircuit - 3
 
 
 clothManaweave
@@ -922,6 +976,34 @@ Botania:manaResource - 22
 
 cloud
 chisel:cloud - 0
+
+
+clumpCopper
+Mekanism:Clump - 3
+
+
+clumpGold
+Mekanism:Clump - 1
+
+
+clumpIron
+Mekanism:Clump - 0
+
+
+clumpLead
+Mekanism:Clump - 6
+
+
+clumpOsmium
+Mekanism:Clump - 2
+
+
+clumpSilver
+Mekanism:Clump - 5
+
+
+clumpTin
+Mekanism:Clump - 4
 
 
 clusterCinnabar
@@ -1219,8 +1301,42 @@ crushedUranium
 IC2:itemCrushedOre - 4
 
 
+crystalCertusQuartz
+
+
+crystalCopper
+Mekanism:Crystal - 3
+
+
+crystalFluix
+
+
+crystalGold
+Mekanism:Crystal - 1
+
+
+crystalIron
+Mekanism:Crystal - 0
+
+
+crystalLead
+Mekanism:Crystal - 6
+
+
+crystalOsmium
+Mekanism:Crystal - 2
+
+
 crystalRedstone
 BuildCraft|Silicon:redstoneCrystal - 0
+
+
+crystalSilver
+Mekanism:Crystal - 5
+
+
+crystalTin
+Mekanism:Crystal - 4
 
 
 dirt
@@ -1313,6 +1429,9 @@ IC2:itemDust - 0
 tfctech:item.Bronze Dust - any
 
 
+dustCertusQuartz
+
+
 dustChalk
 tfctech:item.Chalk Powder - any
 
@@ -1390,6 +1509,7 @@ dustCopper
 IC2:itemDust - 3
 ImmersiveEngineering:metal - 10
 tfctech:item.Copper Dust - any
+Mekanism:Dust - 3
 
 
 dustCupronickel
@@ -1399,6 +1519,35 @@ tfctech:item.Constantan Dust - any
 
 dustDiamond
 IC2:itemDust2 - 1
+Mekanism:OtherDust - 0
+
+
+dustDirtyCopper
+Mekanism:DirtyDust - 3
+
+
+dustDirtyGold
+Mekanism:DirtyDust - 1
+
+
+dustDirtyIron
+Mekanism:DirtyDust - 0
+
+
+dustDirtyLead
+Mekanism:DirtyDust - 6
+
+
+dustDirtyOsmium
+Mekanism:DirtyDust - 2
+
+
+dustDirtySilver
+Mekanism:DirtyDust - 5
+
+
+dustDirtyTin
+Mekanism:DirtyDust - 4
 
 
 dustElectrum
@@ -1535,6 +1684,9 @@ dustFlawlessTopaz
 dustFlawlessTourmaline
 
 
+dustFluix
+
+
 dustFlux
 terrafirmacraftplus:item.Powder - 0
 
@@ -1550,6 +1702,7 @@ dustGold
 IC2:itemDust - 4
 ImmersiveEngineering:metal - 9
 tfctech:item.Gold Dust - any
+Mekanism:Dust - 1
 
 
 dustGraphite
@@ -1597,6 +1750,7 @@ dustIron
 IC2:itemDust - 5
 ImmersiveEngineering:metal - 8
 tfctech:item.Wrought Iron Dust - any
+Mekanism:Dust - 0
 
 
 dustJade
@@ -1621,13 +1775,18 @@ dustLead
 IC2:itemDust - 10
 ImmersiveEngineering:metal - 12
 tfctech:item.Lead Dust - any
+Mekanism:Dust - 6
 
 
 dustLithium
 IC2:itemDust - 14
+Mekanism:OtherDust - 4
 
 
 dustMicrocline
+
+
+dustNetherQuartz
 
 
 dustNickel
@@ -1677,12 +1836,17 @@ dustNormalZinc
 dustObsidian
 IC2:itemDust - 11
 Railcraft:dust - 0
+Mekanism:OtherDust - 6
 
 
 dustOlivine
 
 
 dustOpal
+
+
+dustOsmium
+Mekanism:Dust - 2
 
 
 dustPetrifiedWood
@@ -1745,6 +1909,10 @@ dustRedstone
 minecraft:redstone - 0
 
 
+dustRefinedObsidian
+Mekanism:OtherDust - 5
+
+
 dustRichBauxite
 
 
@@ -1787,6 +1955,7 @@ dustRuby
 
 dustSalt
 terrafirmacraftplus:item.Powder - 9
+Mekanism:Salt - 0
 
 
 dustSaltpeter
@@ -1814,6 +1983,7 @@ dustSilver
 IC2:itemDust - 6
 ImmersiveEngineering:metal - 13
 tfctech:item.Silver Dust - any
+Mekanism:Dust - 5
 
 
 dustSilverFlake
@@ -1854,6 +2024,7 @@ dustSmallZinc
 
 dustSteel
 tfctech:item.Steel Dust - any
+Mekanism:OtherDust - 1
 
 
 dustSterlingSilver
@@ -1868,6 +2039,7 @@ dustSulfur
 IC2:itemDust - 13
 Railcraft:dust - 1
 terrafirmacraftplus:item.Powder - 3
+Mekanism:OtherDust - 3
 
 
 dustSylvite
@@ -1876,6 +2048,7 @@ dustSylvite
 dustTin
 IC2:itemDust - 7
 tfctech:item.Tin Dust - any
+Mekanism:Dust - 4
 
 
 dustTinyBronze
@@ -1929,6 +2102,10 @@ dustTourmaline
 
 
 dustUranium
+
+
+dustWood
+Mekanism:Sawdust - 0
 
 
 dustWroughtIron
@@ -2188,7 +2365,7 @@ tfctech:item.Wrought Iron Gear - any
 
 
 gemAgate
-null - 2
+terrafirmacraftplus:item.Agate - 2
 
 
 gemAmber
@@ -2196,7 +2373,7 @@ Thaumcraft:ItemResource - 6
 
 
 gemAmethyst
-null - 2
+terrafirmacraftplus:item.Amethyst - 2
 
 
 gemApatite
@@ -2204,7 +2381,7 @@ Forestry:apatite - 0
 
 
 gemBeryl
-null - 2
+terrafirmacraftplus:item.Beryl - 2
 
 
 gemBorax
@@ -2216,71 +2393,71 @@ terrafirmacraftplus:item.coal - 1
 
 
 gemChipped
-null - 0
-null - 0
-null - 0
-null - 0
-null - 0
-null - 0
-null - 0
-null - 0
-null - 0
-null - 0
-null - 0
-null - 0
-null - 0
+terrafirmacraftplus:item.Agate - 0
+terrafirmacraftplus:item.Amethyst - 0
+terrafirmacraftplus:item.Beryl - 0
+terrafirmacraftplus:item.Diamond - 0
+terrafirmacraftplus:item.Emerald - 0
+terrafirmacraftplus:item.Garnet - 0
+terrafirmacraftplus:item.Jade - 0
+terrafirmacraftplus:item.Jasper - 0
+terrafirmacraftplus:item.Opal - 0
+terrafirmacraftplus:item.Ruby - 0
+terrafirmacraftplus:item.Sapphire - 0
+terrafirmacraftplus:item.Topaz - 0
+terrafirmacraftplus:item.Tourmaline - 0
 
 
 gemChippedAgate
-null - 0
+terrafirmacraftplus:item.Agate - 0
 
 
 gemChippedAmethyst
-null - 0
+terrafirmacraftplus:item.Amethyst - 0
 
 
 gemChippedBeryl
-null - 0
+terrafirmacraftplus:item.Beryl - 0
 
 
 gemChippedDiamond
-null - 0
+terrafirmacraftplus:item.Diamond - 0
 
 
 gemChippedEmerald
-null - 0
+terrafirmacraftplus:item.Emerald - 0
 
 
 gemChippedGarnet
-null - 0
+terrafirmacraftplus:item.Garnet - 0
 
 
 gemChippedJade
-null - 0
+terrafirmacraftplus:item.Jade - 0
 
 
 gemChippedJasper
-null - 0
+terrafirmacraftplus:item.Jasper - 0
 
 
 gemChippedOpal
-null - 0
+terrafirmacraftplus:item.Opal - 0
 
 
 gemChippedRuby
-null - 0
+terrafirmacraftplus:item.Ruby - 0
 
 
 gemChippedSapphire
-null - 0
+terrafirmacraftplus:item.Sapphire - 0
 
 
 gemChippedTopaz
-null - 0
+terrafirmacraftplus:item.Topaz - 0
 
 
 gemChippedTourmaline
-null - 0
+terrafirmacraftplus:item.Tourmaline - 0
 
 
 gemCinnabar
@@ -2296,182 +2473,184 @@ gemCookedLimonite
 
 gemDiamond
 minecraft:diamond - 0
-null - 2
+terrafirmacraftplus:item.Diamond - 2
 IC2:itemPartIndustrialDiamond - 0
 
 
 gemEmerald
 minecraft:emerald - 0
-null - 2
+terrafirmacraftplus:item.Emerald - 2
+terrafirmacraftplus:item.Emerald - 3
+terrafirmacraftplus:item.Emerald - 4
 
 
 gemExquisite
 
 
 gemExquisiteAgate
-null - 4
+terrafirmacraftplus:item.Agate - 4
 
 
 gemExquisiteAmethyst
-null - 4
+terrafirmacraftplus:item.Amethyst - 4
 
 
 gemExquisiteBeryl
-null - 4
+terrafirmacraftplus:item.Beryl - 4
 
 
 gemExquisiteDiamond
-null - 4
+terrafirmacraftplus:item.Diamond - 4
 
 
 gemExquisiteEmerald
-null - 4
+terrafirmacraftplus:item.Emerald - 4
 
 
 gemExquisiteGarnet
-null - 4
+terrafirmacraftplus:item.Garnet - 4
 
 
 gemExquisiteJade
-null - 4
+terrafirmacraftplus:item.Jade - 4
 
 
 gemExquisiteJasper
-null - 4
+terrafirmacraftplus:item.Jasper - 4
 
 
 gemExquisiteOpal
-null - 4
+terrafirmacraftplus:item.Opal - 4
 
 
 gemExquisiteRuby
-null - 4
+terrafirmacraftplus:item.Ruby - 4
 
 
 gemExquisiteSapphire
-null - 4
+terrafirmacraftplus:item.Sapphire - 4
 
 
 gemExquisiteTopaz
-null - 4
+terrafirmacraftplus:item.Topaz - 4
 
 
 gemExquisiteTourmaline
-null - 4
+terrafirmacraftplus:item.Tourmaline - 4
 
 
 gemFlawed
 
 
 gemFlawedAgate
-null - 1
+terrafirmacraftplus:item.Agate - 1
 
 
 gemFlawedAmethyst
-null - 1
+terrafirmacraftplus:item.Amethyst - 1
 
 
 gemFlawedBeryl
-null - 1
+terrafirmacraftplus:item.Beryl - 1
 
 
 gemFlawedDiamond
-null - 1
+terrafirmacraftplus:item.Diamond - 1
 
 
 gemFlawedEmerald
-null - 1
+terrafirmacraftplus:item.Emerald - 1
 
 
 gemFlawedGarnet
-null - 1
+terrafirmacraftplus:item.Garnet - 1
 
 
 gemFlawedJade
-null - 1
+terrafirmacraftplus:item.Jade - 1
 
 
 gemFlawedJasper
-null - 1
+terrafirmacraftplus:item.Jasper - 1
 
 
 gemFlawedOpal
-null - 1
+terrafirmacraftplus:item.Opal - 1
 
 
 gemFlawedRuby
-null - 1
+terrafirmacraftplus:item.Ruby - 1
 
 
 gemFlawedSapphire
-null - 1
+terrafirmacraftplus:item.Sapphire - 1
 
 
 gemFlawedTopaz
-null - 1
+terrafirmacraftplus:item.Topaz - 1
 
 
 gemFlawedTourmaline
-null - 1
+terrafirmacraftplus:item.Tourmaline - 1
 
 
 gemFlawless
 
 
 gemFlawlessAgate
-null - 3
+terrafirmacraftplus:item.Agate - 3
 
 
 gemFlawlessAmethyst
-null - 3
+terrafirmacraftplus:item.Amethyst - 3
 
 
 gemFlawlessBeryl
-null - 3
+terrafirmacraftplus:item.Beryl - 3
 
 
 gemFlawlessDiamond
-null - 3
+terrafirmacraftplus:item.Diamond - 3
 
 
 gemFlawlessEmerald
-null - 3
+terrafirmacraftplus:item.Emerald - 3
 
 
 gemFlawlessGarnet
-null - 3
+terrafirmacraftplus:item.Garnet - 3
 
 
 gemFlawlessJade
-null - 3
+terrafirmacraftplus:item.Jade - 3
 
 
 gemFlawlessJasper
-null - 3
+terrafirmacraftplus:item.Jasper - 3
 
 
 gemFlawlessOpal
-null - 3
+terrafirmacraftplus:item.Opal - 3
 
 
 gemFlawlessRuby
-null - 3
+terrafirmacraftplus:item.Ruby - 3
 
 
 gemFlawlessSapphire
-null - 3
+terrafirmacraftplus:item.Sapphire - 3
 
 
 gemFlawlessTopaz
-null - 3
+terrafirmacraftplus:item.Topaz - 3
 
 
 gemFlawlessTourmaline
-null - 3
+terrafirmacraftplus:item.Tourmaline - 3
 
 
 gemGarnet
-null - 2
+terrafirmacraftplus:item.Garnet - 2
 
 
 gemGraphite
@@ -2499,11 +2678,11 @@ gemInfusedWater
 
 
 gemJade
-null - 2
+terrafirmacraftplus:item.Jade - 2
 
 
 gemJasper
-null - 2
+terrafirmacraftplus:item.Jasper - 2
 
 
 gemJet
@@ -2562,7 +2741,10 @@ gemOlivine
 
 
 gemOpal
-null - 2
+terrafirmacraftplus:item.Opal - 2
+
+
+gemOsmium
 
 
 gemPetrifiedWood
@@ -2603,6 +2785,18 @@ gemPoorZinc
 
 gemQuartz
 minecraft:quartz - 0
+terrafirmacraftplus:item.Amethyst - 2
+terrafirmacraftplus:item.Amethyst - 3
+terrafirmacraftplus:item.Amethyst - 4
+terrafirmacraftplus:item.Agate - 2
+terrafirmacraftplus:item.Agate - 3
+terrafirmacraftplus:item.Agate - 4
+terrafirmacraftplus:item.Jasper - 2
+terrafirmacraftplus:item.Jasper - 3
+terrafirmacraftplus:item.Jasper - 4
+terrafirmacraftplus:item.Opal - 2
+terrafirmacraftplus:item.Opal - 3
+terrafirmacraftplus:item.Opal - 4
 tfctech:item.Quartz - any
 
 
@@ -2640,14 +2834,14 @@ gemRichZinc
 
 
 gemRuby
-null - 2
+terrafirmacraftplus:item.Ruby - 2
 
 
 gemSaltpeter
 
 
 gemSapphire
-null - 2
+terrafirmacraftplus:item.Sapphire - 2
 
 
 gemSatinspar
@@ -2705,11 +2899,11 @@ gemTin
 
 
 gemTopaz
-null - 2
+terrafirmacraftplus:item.Topaz - 2
 
 
 gemTourmaline
-null - 2
+terrafirmacraftplus:item.Tourmaline - 2
 
 
 gemUranium
@@ -2888,6 +3082,7 @@ ingotBronze
 IC2:itemIngot - 2
 Forestry:ingotBronze - 0
 terrafirmacraftplus:item.Bronze Ingot - 0
+Mekanism:Ingot - 2
 
 
 ingotChalk
@@ -2922,6 +3117,7 @@ Forestry:ingotCopper - 0
 Railcraft:ingot - 1
 ImmersiveEngineering:metal - 0
 terrafirmacraftplus:item.Copper Ingot - 0
+Mekanism:Ingot - 5
 
 
 ingotCupronickel
@@ -2930,6 +3126,27 @@ tfctech:item.Constantan Ingot - any
 
 
 ingotDiamond
+
+
+ingotDirtyCopper
+
+
+ingotDirtyGold
+
+
+ingotDirtyIron
+
+
+ingotDirtyLead
+
+
+ingotDirtyOsmium
+
+
+ingotDirtySilver
+
+
+ingotDirtyTin
 
 
 ingotDoubleAnyBronze
@@ -3173,6 +3390,10 @@ ingotObsidian
 ingotOlivine
 
 
+ingotOsmium
+Mekanism:Ingot - 1
+
+
 ingotPetrifiedWood
 
 
@@ -3234,7 +3455,15 @@ terrafirmacraftplus:item.Red Steel Ingot - 0
 ingotRedstone
 
 
+ingotRefinedGlowstone
+Mekanism:Ingot - 3
+
+
 ingotRefinedIron
+
+
+ingotRefinedObsidian
+Mekanism:Ingot - 0
 
 
 ingotRichBauxite
@@ -3339,6 +3568,7 @@ IC2:itemIngot - 3
 Railcraft:ingot - 0
 ImmersiveEngineering:metal - 7
 terrafirmacraftplus:item.Steel Ingot - 0
+Mekanism:Ingot - 4
 
 
 ingotSterlingSilver
@@ -3367,6 +3597,7 @@ IC2:itemIngot - 1
 Forestry:ingotTin - 0
 Railcraft:ingot - 2
 terrafirmacraftplus:item.Tin Ingot - 0
+Mekanism:Ingot - 6
 
 
 ingotTinyBronze
@@ -3416,6 +3647,9 @@ ingotUranium
 
 ingotVoid
 Thaumcraft:ItemResource - 16
+
+
+ingotWood
 
 
 ingotWroughtIron
@@ -3502,6 +3736,10 @@ terrafirmacraftplus:item.Wrought Iron Axe - any
 
 itemBeeswax
 Forestry:beeswax - 0
+
+
+itemBioFuel
+Mekanism:BioFuel - 0
 
 
 itemBlazePowder
@@ -3593,6 +3831,14 @@ minecraft:clay_ball - 0
 
 itemCoal
 minecraft:coal - 0
+
+
+itemCompressedCarbon
+Mekanism:CompressedCarbon - 0
+
+
+itemEnrichedAlloy
+Mekanism:EnrichedAlloy - 0
 
 
 itemFlint
@@ -4011,6 +4257,10 @@ IC2:itemRubber - 0
 tfctech:item.Rubber - any
 
 
+itemSalt
+Mekanism:Salt - 0
+
+
 itemSaw
 terrafirmacraftplus:item.Bismuth Bronze Saw - any
 terrafirmacraftplus:item.Black Bronze Saw - any
@@ -4171,6 +4421,9 @@ terrafirmacraftplus:item.Sed Stone Shovel Head - any
 
 itemShovelWroughtIron
 terrafirmacraftplus:item.Wrought Iron Shovel - any
+
+
+itemSilicon
 
 
 itemSlag
@@ -4812,6 +5065,9 @@ oreBorax
 terrafirmacraftplus:item.Ore - 316
 
 
+oreCertusQuartz
+
+
 oreCinnabar
 Thaumcraft:blockCustomOre - 0
 
@@ -4829,6 +5085,7 @@ oreCopper
 IC2:blockOreCopper - 0
 Forestry:resources - 1
 ImmersiveEngineering:ore - 0
+Mekanism:OreBlock - 1
 
 
 oreDiamond
@@ -4912,6 +5169,9 @@ oreMicrocline
 terrafirmacraftplus:item.Ore - 299
 
 
+oreNetherSteel
+
+
 oreNickel
 ImmersiveEngineering:ore - 4
 
@@ -4971,6 +5231,10 @@ terrafirmacraftplus:item.Ore - 12
 
 oreOlivine
 terrafirmacraftplus:item.Ore - 317
+
+
+oreOsmium
+Mekanism:OreBlock - 0
 
 
 orePetrifiedWood
@@ -5184,11 +5448,15 @@ terrafirmacraftplus:item.Ore - 315
 oreTin
 IC2:blockOreTin - 0
 Forestry:resources - 2
+Mekanism:OreBlock - 2
 
 
 oreUranium
 IC2:blockOreUran - 0
 terrafirmacraftplus:item.Ore - 310
+
+
+oreYellorite
 
 
 paneGlass
@@ -5874,6 +6142,7 @@ Botania:manaResource - 23
 
 pulpWood
 Forestry:woodPulp - 0
+Mekanism:Sawdust - 0
 
 
 quartzBlaze
@@ -6131,6 +6400,10 @@ shardAir
 Thaumcraft:ItemShard - 0
 
 
+shardCopper
+Mekanism:Shard - 3
+
+
 shardEarth
 Thaumcraft:ItemShard - 3
 
@@ -6143,12 +6416,36 @@ shardFire
 Thaumcraft:ItemShard - 1
 
 
+shardGold
+Mekanism:Shard - 1
+
+
+shardIron
+Mekanism:Shard - 0
+
+
+shardLead
+Mekanism:Shard - 6
+
+
 shardOrder
 Thaumcraft:ItemShard - 4
 
 
+shardOsmium
+Mekanism:Shard - 2
+
+
 shardPrismarine
 Botania:manaResource - 10
+
+
+shardSilver
+Mekanism:Shard - 5
+
+
+shardTin
+Mekanism:Shard - 4
 
 
 shardWater
@@ -6633,10 +6930,10 @@ ExtraUtilities:color_stone - 4
 
 stoneBricks
 minecraft:stonebrick - 0
-terrafirmacraftplus:StoneIgExBrick - any
-terrafirmacraftplus:StoneIgInBrick - any
-terrafirmacraftplus:StoneMMBrick - any
-terrafirmacraftplus:StoneSedBrick - any
+terrafirmacraftplus:StoneIgExLargeBrick - any
+terrafirmacraftplus:StoneIgInLargeBrick - any
+terrafirmacraftplus:StoneMMLargeBrick - any
+terrafirmacraftplus:StoneSedLargeBrick - any
 
 
 stoneBrown
@@ -6774,6 +7071,10 @@ terrafirmacraftplus:sapling2 - any
 
 tyrian
 chisel:tyrian - 0
+
+
+universalCable
+Mekanism:PartTransmitter - 0
 
 
 woodLumber

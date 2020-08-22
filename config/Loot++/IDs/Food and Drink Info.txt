@@ -19,6 +19,246 @@ Botania:brewFlask
 	- Food Info Unknown!
 
 
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewFlask
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+Botania:brewVial
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 Botania:brewVial
 	- Megadata: 0
 	- Food or Drink? Drink
@@ -58,6 +298,20 @@ Forestry:beverage
 	- Saturation Amount: 0.2
 
 
+Forestry:beverage
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:beverage
+	- Megadata: 2
+	- Food or Drink? Drink
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
 Forestry:canHoney
 	- Megadata: 0
 	- Food or Drink? Drink
@@ -72,6 +326,48 @@ Forestry:canJuice
 
 Forestry:fruits
 	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:fruits
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:fruits
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:fruits
+	- Megadata: 3
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:fruits
+	- Megadata: 4
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:fruits
+	- Megadata: 5
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+Forestry:fruits
+	- Megadata: 6
 	- Food or Drink? Food
 	- Food Amount: 1
 	- Saturation Amount: 0.2
@@ -123,6 +419,18 @@ IC2:itemMugBooze
 
 IC2:itemMugCoffee
 	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+IC2:itemMugCoffee
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+IC2:itemMugCoffee
+	- Megadata: 2
 	- Food or Drink? Drink
 	- Food Info Unknown!
 
@@ -259,6 +567,13 @@ minecraft:cooked_fished
 	- Saturation Amount: 0.6
 
 
+minecraft:cooked_fished
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
 minecraft:cooked_porkchop
 	- Megadata: 0
 	- Food or Drink? Food
@@ -280,8 +595,36 @@ minecraft:fish
 	- Saturation Amount: 0.1
 
 
+minecraft:fish
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 3
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
 minecraft:golden_apple
 	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+minecraft:golden_apple
+	- Megadata: 1
 	- Food or Drink? Food
 	- Food Amount: 4
 	- Saturation Amount: 1.2
@@ -341,6 +684,342 @@ minecraft:potion
 	- Food Info Unknown!
 
 
+minecraft:potion
+	- Megadata: 8193
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8225
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8257
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16385
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16417
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16449
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8194
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8226
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8258
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16386
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16418
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16450
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8227
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8259
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16419
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16451
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8196
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8228
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8260
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16388
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16420
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16452
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8261
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8229
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16453
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16421
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8230
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8262
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16422
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16454
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8232
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8264
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16424
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16456
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8201
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8233
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8265
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16393
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16425
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16457
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8234
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8266
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16426
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16458
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8268
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8236
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16460
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16428
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8237
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8269
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16429
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16461
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8238
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8270
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16430
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16462
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 minecraft:pumpkin_pie
 	- Megadata: 0
 	- Food or Drink? Food
@@ -362,6 +1041,48 @@ minecraft:spider_eye
 	- Saturation Amount: 0.8
 
 
+terrafirmacraftplus:item.Agave Juice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Agave JuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Agave Wine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Agave WinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Apple Juice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Apple JuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Applejack
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Banana
 	- Megadata: 0
 	- Food or Drink? Food
@@ -375,6 +1096,12 @@ terrafirmacraftplus:item.Barley Bread
 
 
 terrafirmacraftplus:item.Barley Dough
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Barley Germ
 	- Megadata: 0
 	- Food or Drink? Food
 	- Food Info Unknown!
@@ -398,6 +1125,24 @@ terrafirmacraftplus:item.Barley Whole
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.Barley Wine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Barley WinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.BarleyWhiskey
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Beef
 	- Megadata: 0
 	- Food or Drink? Food
@@ -410,7 +1155,37 @@ terrafirmacraftplus:item.Beer
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.BeerPottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Berry Juice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Berry JuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.BerryBrandy
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.BerryWine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.BerryWinePottery
 	- Megadata: 0
 	- Food or Drink? Drink
 	- Food Info Unknown!
@@ -431,6 +1206,12 @@ terrafirmacraftplus:item.Blackberry
 terrafirmacraftplus:item.Blueberry
 	- Megadata: 0
 	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Brandy
+	- Megadata: 0
+	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
@@ -458,6 +1239,30 @@ terrafirmacraftplus:item.Calamari
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.Cane Juice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Cane JuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Cane Wine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Cane WinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Carrot
 	- Megadata: 0
 	- Food or Drink? Food
@@ -482,6 +1287,18 @@ terrafirmacraftplus:item.Cherry
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.Cherry Juice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Cherry JuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Chicken
 	- Megadata: 0
 	- Food or Drink? Food
@@ -494,15 +1311,69 @@ terrafirmacraftplus:item.Cider
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.CiderPottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Cloudberry
 	- Megadata: 0
 	- Food or Drink? Food
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.CoconutFruit
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.CoconutJuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.CoconutMeat
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Corn Beer
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Corn BeerPottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Corn Bread
 	- Megadata: 0
 	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Corn Germ
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Corn Wine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Corn WinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
@@ -536,6 +1407,36 @@ terrafirmacraftplus:item.Date
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.Date Juice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Date JuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.DateBrandy
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.DateWine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.DateWinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Egg Cooked
 	- Megadata: 0
 	- Food or Drink? Food
@@ -548,9 +1449,63 @@ terrafirmacraftplus:item.Elderberry
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.Fig
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Fig Juice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Fig JuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.FigBrandy
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.FigWine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.FigWinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Fish
 	- Megadata: 0
 	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.FruitBrandy
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.FruitWine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.FruitWinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
@@ -563,6 +1518,18 @@ terrafirmacraftplus:item.Garlic
 terrafirmacraftplus:item.Gooseberry
 	- Megadata: 0
 	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Grape Juice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Grape JuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
@@ -590,6 +1557,24 @@ terrafirmacraftplus:item.Greenbeans
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.HoneyBowl
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.HoneyBowl
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.HoneyJack
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.HorseMeat
 	- Megadata: 0
 	- Food or Drink? Food
@@ -602,9 +1587,51 @@ terrafirmacraftplus:item.Jug
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.Jug
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Jug
+	- Megadata: 2
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Lemon
 	- Megadata: 0
 	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Lemon Juice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Lemon JuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.LemonBrandy
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.LemonWine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.LemonWinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
@@ -614,9 +1641,33 @@ terrafirmacraftplus:item.Maize Ear
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.Mead
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.MeadPottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Melon
 	- Megadata: 0
 	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Milk
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.MilkPottery
+	- Megadata: 0
+	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
@@ -674,9 +1725,69 @@ terrafirmacraftplus:item.Orange
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.Orange Juice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Orange JuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.OrangeBrandy
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.OrangeWine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.OrangeWinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Papaya
 	- Megadata: 0
 	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Papaya Juice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Papaya JuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.PapayaBrandy
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.PapayaWine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.PapayaWinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
@@ -686,9 +1797,69 @@ terrafirmacraftplus:item.Peach
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.Peach Juice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Peach JuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.PeachBrandy
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.PeachWine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.PeachWinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Plum
 	- Megadata: 0
 	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Plum Juice
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Plum JuicePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.PlumBrandy
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.PlumWine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.PlumWinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
@@ -701,6 +1872,18 @@ terrafirmacraftplus:item.Porkchop
 terrafirmacraftplus:item.Potato
 	- Megadata: 0
 	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Potato Wine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Potato WinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
@@ -734,6 +1917,18 @@ terrafirmacraftplus:item.Red Mushroom
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.Rice Beer
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Rice BeerPottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Rice Bread
 	- Megadata: 0
 	- Food or Drink? Food
@@ -741,6 +1936,12 @@ terrafirmacraftplus:item.Rice Bread
 
 
 terrafirmacraftplus:item.Rice Dough
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Rice Germ
 	- Megadata: 0
 	- Food or Drink? Food
 	- Food Info Unknown!
@@ -764,7 +1965,25 @@ terrafirmacraftplus:item.Rice Whole
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.RiceWhiskey
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Rum
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Rye Beer
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Rye BeerPottery
 	- Megadata: 0
 	- Food or Drink? Drink
 	- Food Info Unknown!
@@ -777,6 +1996,12 @@ terrafirmacraftplus:item.Rye Bread
 
 
 terrafirmacraftplus:item.Rye Dough
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Rye Germ
 	- Megadata: 0
 	- Food or Drink? Food
 	- Food Info Unknown!
@@ -800,6 +2025,18 @@ terrafirmacraftplus:item.Rye Whole
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.Rye Wine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Rye WinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.RyeWhiskey
 	- Megadata: 0
 	- Food or Drink? Drink
@@ -807,6 +2044,12 @@ terrafirmacraftplus:item.RyeWhiskey
 
 
 terrafirmacraftplus:item.Sake
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.SakePottery
 	- Megadata: 0
 	- Food or Drink? Drink
 	- Food Info Unknown!
@@ -824,9 +2067,27 @@ terrafirmacraftplus:item.Sandwich
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.ScallopRaw
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Sea Weed
 	- Megadata: 0
 	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.SeastarRaw
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Shochu
+	- Megadata: 0
+	- Food or Drink? Drink
 	- Food Info Unknown!
 
 
@@ -896,6 +2157,24 @@ terrafirmacraftplus:item.Water Bottle
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.Waterskin
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Wheat Beer
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Wheat BeerPottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Wheat Bread
 	- Megadata: 0
 	- Food or Drink? Food
@@ -903,6 +2182,12 @@ terrafirmacraftplus:item.Wheat Bread
 
 
 terrafirmacraftplus:item.Wheat Dough
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Wheat Germ
 	- Megadata: 0
 	- Food or Drink? Food
 	- Food Info Unknown!
@@ -926,6 +2211,18 @@ terrafirmacraftplus:item.Wheat Whole
 	- Food Info Unknown!
 
 
+terrafirmacraftplus:item.Wheat Wine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.Wheat WinePottery
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 terrafirmacraftplus:item.Whiskey
 	- Megadata: 0
 	- Food or Drink? Drink
@@ -933,6 +2230,12 @@ terrafirmacraftplus:item.Whiskey
 
 
 terrafirmacraftplus:item.Wine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+terrafirmacraftplus:item.WinePottery
 	- Megadata: 0
 	- Food or Drink? Drink
 	- Food Info Unknown!

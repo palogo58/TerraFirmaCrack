@@ -165,6 +165,14 @@
 	- Name: Foothills
 	- Forge Biome Types: MESA SANDY 
 
+40
+	- Name: Shore
+	- Forge Biome Types: OCEAN 
+
+41
+	- Name: Salt Swamp
+	- Forge Biome Types: OCEAN 
+
 126
 	- Name: Ocean Oil Field
 	- Forge Biome Types: OCEAN RIVER 

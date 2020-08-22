@@ -3,16 +3,16 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:0.0
 saturation:0.0
-renderDistance:8
+renderDistance:6
 guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
-advancedOpengl:false
-maxFps:120
+advancedOpengl:true
+maxFps:260
 fboEnable:true
 difficulty:2
-fancyGraphics:false
+fancyGraphics:true
 ao:2
 clouds:true
 resourcePacks:[]
@@ -25,7 +25,7 @@ chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:true
 fullscreen:false
-enableVsync:true
+enableVsync:false
 hideServerAddress:false
 advancedItemTooltips:false
 pauseOnLostFocus:true
@@ -90,7 +90,7 @@ key_Boost Key:29
 key_Mode Switch Key:50
 key_Side Inventory Key:46
 key_Hub Expand Key:45
-key_key.ToolMode:50
+key_key.ToolMode:28
 key_key.LockTool:38
 key_Gravi Fly Key:33
 key_Gravi Display Hud:35
@@ -105,7 +105,10 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
-key_invtweaks.key.sort:19
+key_invtweaks.key.sort:209
+key_Mekanism Item Mode Switch:50
+key_Mekanism Armor Mode Switch:33
+key_Mekanism Voice:22
 key_Toggle Numina FOV fix :0
 key_WorldEdit Reference:38
 key_railcraft.keybind.loco.faster:52
@@ -121,7 +124,7 @@ key_key.journeymap.minimap_type:27
 key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
 key_BetterFps:88
-soundCategory_master:0.09602649
+soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
