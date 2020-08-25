@@ -681,6 +681,11 @@ blockWoolYellow
 minecraft:wool - 4
 
 
+bone
+minecraft:bone - 0
+terrafirmacraftplus:item.Bone - 0
+
+
 boneNeedle
 terrafirmacraftplus:item.Bone Needle - 0
 
@@ -2365,7 +2370,7 @@ tfctech:item.Wrought Iron Gear - any
 
 
 gemAgate
-terrafirmacraftplus:item.Agate - 2
+null - 2
 
 
 gemAmber
@@ -2373,7 +2378,7 @@ Thaumcraft:ItemResource - 6
 
 
 gemAmethyst
-terrafirmacraftplus:item.Amethyst - 2
+null - 2
 
 
 gemApatite
@@ -2381,7 +2386,7 @@ Forestry:apatite - 0
 
 
 gemBeryl
-terrafirmacraftplus:item.Beryl - 2
+null - 2
 
 
 gemBorax
@@ -2393,71 +2398,71 @@ terrafirmacraftplus:item.coal - 1
 
 
 gemChipped
-terrafirmacraftplus:item.Agate - 0
-terrafirmacraftplus:item.Amethyst - 0
-terrafirmacraftplus:item.Beryl - 0
-terrafirmacraftplus:item.Diamond - 0
-terrafirmacraftplus:item.Emerald - 0
-terrafirmacraftplus:item.Garnet - 0
-terrafirmacraftplus:item.Jade - 0
-terrafirmacraftplus:item.Jasper - 0
-terrafirmacraftplus:item.Opal - 0
-terrafirmacraftplus:item.Ruby - 0
-terrafirmacraftplus:item.Sapphire - 0
-terrafirmacraftplus:item.Topaz - 0
-terrafirmacraftplus:item.Tourmaline - 0
+null - 0
+null - 0
+null - 0
+null - 0
+null - 0
+null - 0
+null - 0
+null - 0
+null - 0
+null - 0
+null - 0
+null - 0
+null - 0
 
 
 gemChippedAgate
-terrafirmacraftplus:item.Agate - 0
+null - 0
 
 
 gemChippedAmethyst
-terrafirmacraftplus:item.Amethyst - 0
+null - 0
 
 
 gemChippedBeryl
-terrafirmacraftplus:item.Beryl - 0
+null - 0
 
 
 gemChippedDiamond
-terrafirmacraftplus:item.Diamond - 0
+null - 0
 
 
 gemChippedEmerald
-terrafirmacraftplus:item.Emerald - 0
+null - 0
 
 
 gemChippedGarnet
-terrafirmacraftplus:item.Garnet - 0
+null - 0
 
 
 gemChippedJade
-terrafirmacraftplus:item.Jade - 0
+null - 0
 
 
 gemChippedJasper
-terrafirmacraftplus:item.Jasper - 0
+null - 0
 
 
 gemChippedOpal
-terrafirmacraftplus:item.Opal - 0
+null - 0
 
 
 gemChippedRuby
-terrafirmacraftplus:item.Ruby - 0
+null - 0
 
 
 gemChippedSapphire
-terrafirmacraftplus:item.Sapphire - 0
+null - 0
 
 
 gemChippedTopaz
-terrafirmacraftplus:item.Topaz - 0
+null - 0
 
 
 gemChippedTourmaline
-terrafirmacraftplus:item.Tourmaline - 0
+null - 0
 
 
 gemCinnabar
@@ -2473,184 +2478,184 @@ gemCookedLimonite
 
 gemDiamond
 minecraft:diamond - 0
-terrafirmacraftplus:item.Diamond - 2
+null - 2
 IC2:itemPartIndustrialDiamond - 0
 
 
 gemEmerald
 minecraft:emerald - 0
-terrafirmacraftplus:item.Emerald - 2
-terrafirmacraftplus:item.Emerald - 3
-terrafirmacraftplus:item.Emerald - 4
+null - 2
+null - 3
+null - 4
 
 
 gemExquisite
 
 
 gemExquisiteAgate
-terrafirmacraftplus:item.Agate - 4
+null - 4
 
 
 gemExquisiteAmethyst
-terrafirmacraftplus:item.Amethyst - 4
+null - 4
 
 
 gemExquisiteBeryl
-terrafirmacraftplus:item.Beryl - 4
+null - 4
 
 
 gemExquisiteDiamond
-terrafirmacraftplus:item.Diamond - 4
+null - 4
 
 
 gemExquisiteEmerald
-terrafirmacraftplus:item.Emerald - 4
+null - 4
 
 
 gemExquisiteGarnet
-terrafirmacraftplus:item.Garnet - 4
+null - 4
 
 
 gemExquisiteJade
-terrafirmacraftplus:item.Jade - 4
+null - 4
 
 
 gemExquisiteJasper
-terrafirmacraftplus:item.Jasper - 4
+null - 4
 
 
 gemExquisiteOpal
-terrafirmacraftplus:item.Opal - 4
+null - 4
 
 
 gemExquisiteRuby
-terrafirmacraftplus:item.Ruby - 4
+null - 4
 
 
 gemExquisiteSapphire
-terrafirmacraftplus:item.Sapphire - 4
+null - 4
 
 
 gemExquisiteTopaz
-terrafirmacraftplus:item.Topaz - 4
+null - 4
 
 
 gemExquisiteTourmaline
-terrafirmacraftplus:item.Tourmaline - 4
+null - 4
 
 
 gemFlawed
 
 
 gemFlawedAgate
-terrafirmacraftplus:item.Agate - 1
+null - 1
 
 
 gemFlawedAmethyst
-terrafirmacraftplus:item.Amethyst - 1
+null - 1
 
 
 gemFlawedBeryl
-terrafirmacraftplus:item.Beryl - 1
+null - 1
 
 
 gemFlawedDiamond
-terrafirmacraftplus:item.Diamond - 1
+null - 1
 
 
 gemFlawedEmerald
-terrafirmacraftplus:item.Emerald - 1
+null - 1
 
 
 gemFlawedGarnet
-terrafirmacraftplus:item.Garnet - 1
+null - 1
 
 
 gemFlawedJade
-terrafirmacraftplus:item.Jade - 1
+null - 1
 
 
 gemFlawedJasper
-terrafirmacraftplus:item.Jasper - 1
+null - 1
 
 
 gemFlawedOpal
-terrafirmacraftplus:item.Opal - 1
+null - 1
 
 
 gemFlawedRuby
-terrafirmacraftplus:item.Ruby - 1
+null - 1
 
 
 gemFlawedSapphire
-terrafirmacraftplus:item.Sapphire - 1
+null - 1
 
 
 gemFlawedTopaz
-terrafirmacraftplus:item.Topaz - 1
+null - 1
 
 
 gemFlawedTourmaline
-terrafirmacraftplus:item.Tourmaline - 1
+null - 1
 
 
 gemFlawless
 
 
 gemFlawlessAgate
-terrafirmacraftplus:item.Agate - 3
+null - 3
 
 
 gemFlawlessAmethyst
-terrafirmacraftplus:item.Amethyst - 3
+null - 3
 
 
 gemFlawlessBeryl
-terrafirmacraftplus:item.Beryl - 3
+null - 3
 
 
 gemFlawlessDiamond
-terrafirmacraftplus:item.Diamond - 3
+null - 3
 
 
 gemFlawlessEmerald
-terrafirmacraftplus:item.Emerald - 3
+null - 3
 
 
 gemFlawlessGarnet
-terrafirmacraftplus:item.Garnet - 3
+null - 3
 
 
 gemFlawlessJade
-terrafirmacraftplus:item.Jade - 3
+null - 3
 
 
 gemFlawlessJasper
-terrafirmacraftplus:item.Jasper - 3
+null - 3
 
 
 gemFlawlessOpal
-terrafirmacraftplus:item.Opal - 3
+null - 3
 
 
 gemFlawlessRuby
-terrafirmacraftplus:item.Ruby - 3
+null - 3
 
 
 gemFlawlessSapphire
-terrafirmacraftplus:item.Sapphire - 3
+null - 3
 
 
 gemFlawlessTopaz
-terrafirmacraftplus:item.Topaz - 3
+null - 3
 
 
 gemFlawlessTourmaline
-terrafirmacraftplus:item.Tourmaline - 3
+null - 3
 
 
 gemGarnet
-terrafirmacraftplus:item.Garnet - 2
+null - 2
 
 
 gemGraphite
@@ -2678,11 +2683,11 @@ gemInfusedWater
 
 
 gemJade
-terrafirmacraftplus:item.Jade - 2
+null - 2
 
 
 gemJasper
-terrafirmacraftplus:item.Jasper - 2
+null - 2
 
 
 gemJet
@@ -2741,7 +2746,7 @@ gemOlivine
 
 
 gemOpal
-terrafirmacraftplus:item.Opal - 2
+null - 2
 
 
 gemOsmium
@@ -2785,18 +2790,18 @@ gemPoorZinc
 
 gemQuartz
 minecraft:quartz - 0
-terrafirmacraftplus:item.Amethyst - 2
-terrafirmacraftplus:item.Amethyst - 3
-terrafirmacraftplus:item.Amethyst - 4
-terrafirmacraftplus:item.Agate - 2
-terrafirmacraftplus:item.Agate - 3
-terrafirmacraftplus:item.Agate - 4
-terrafirmacraftplus:item.Jasper - 2
-terrafirmacraftplus:item.Jasper - 3
-terrafirmacraftplus:item.Jasper - 4
-terrafirmacraftplus:item.Opal - 2
-terrafirmacraftplus:item.Opal - 3
-terrafirmacraftplus:item.Opal - 4
+null - 2
+null - 3
+null - 4
+null - 2
+null - 3
+null - 4
+null - 2
+null - 3
+null - 4
+null - 2
+null - 3
+null - 4
 tfctech:item.Quartz - any
 
 
@@ -2834,14 +2839,14 @@ gemRichZinc
 
 
 gemRuby
-terrafirmacraftplus:item.Ruby - 2
+null - 2
 
 
 gemSaltpeter
 
 
 gemSapphire
-terrafirmacraftplus:item.Sapphire - 2
+null - 2
 
 
 gemSatinspar
@@ -2899,14 +2904,30 @@ gemTin
 
 
 gemTopaz
-terrafirmacraftplus:item.Topaz - 2
+null - 2
 
 
 gemTourmaline
-terrafirmacraftplus:item.Tourmaline - 2
+null - 2
 
 
 gemUranium
+
+
+gems2ruby
+terrafirmacraftplus:item.Ruby - 4
+terrafirmacraftplus:item.Ruby - 3
+terrafirmacraftplus:item.Ruby - 2
+terrafirmacraftplus:item.Ruby - 1
+
+
+gems3ruby
+
+
+gems4ruby
+
+
+gems5ruby
 
 
 glass
@@ -4610,9 +4631,9 @@ chisel:marble - 0
 
 
 materialBladder
-lwstfc:item.Bladder - 0
-lwstfc:item.Bladder - 1
-lwstfc:item.Bladder - 2
+null - 0
+null - 1
+null - 2
 
 
 materialBurlap
