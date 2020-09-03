@@ -19,9 +19,6 @@ Found creative tab: buildcraft.boards
 Found creative tab: buildcraft.facades
 Found creative tab: buildcraft.gates
 Found creative tab: CarpentersBlocks
-Found creative tab: TFCBuilding
-Found creative tab: TFCMisc
-Found creative tab: TFCMaterials
 Found creative tab: extraUtil
 Found creative tab: combat
 Found creative tab: extraUtil_FMP
@@ -35,6 +32,7 @@ Found creative tab: Nuclear Control 2
 Found creative tab: ImmersiveEngineering
 Found creative tab: tabMekanism
 Found creative tab: Merchants
+Found creative tab: TFCMisc
 Found creative tab: tabOpenBlocks
 Found creative tab: railcraft
 Found creative tab: thaumcraft
@@ -59,7 +57,9 @@ Found creative tab: materials
 Found creative tab: redstone
 Found creative tab: TFCDevices
 Found creative tab: TFCDecoration
+Found creative tab: TFCBuilding
 Found creative tab: TFCPottery
+Found creative tab: TFCMaterials
 Found creative tab: TFCFoods
 Found creative tab: TFCTools
 Found creative tab: TFCArmor
@@ -119,17 +119,17 @@ override called. Params: Mekanism, GlowPanel, 0
 Regex match found! Mekanism:GlowPanel matches Mekanism:GlowPanel.
 Found ItemStack Mekanism:GlowPanel. 64xitem.GlowPanel@0
 Loading: ForgeMicroblock.js
-getRandomMaterial called. Returned: ImmersiveEngineering:stoneDecoration_2
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:stoneDecoration_2
+getRandomMaterial called. Returned: ImmersiveEngineering:metalDecoration_10
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ForgeMicroblockObject). Params: 1,2,4,257,258,260,513,514,516,769,770,772, ImmersiveEngineering:metalDecoration_10
 Loading: ExtraUtilities.js
 override called. Params: ExtraUtilities, drum, 0,1
 Regex match found! ExtraUtilities:drum matches ExtraUtilities:drum.
 Found ItemStack ExtraUtilities:drum. 64xtile.extrautils:drum@0
-getRandomMaterial called. Returned: ImmersiveEngineering:storage
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ImmersiveEngineering:storage
+getRandomMaterial called. Returned: ImmersiveEngineering:storage_1
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.ExtraUtilitiesObject). Params: 1,2,3, ImmersiveEngineering:storage_1
 Loading: BuildCraft.js
-getFacadesSize called. Returned: 4604
-obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 3133
+getFacadesSize called. Returned: 4564
+obliterate_microblocks called (version in info.inpureprojects.core.NEI.gtfoMicroblocks.ScriptObjects.BCObject). Params: 1689
 Loading: Bibliocraft.js
 override called. Params: BiblioCraft, *, 0
 Regex match found! BiblioCraft:* matches BiblioCraft:Armor Stand.

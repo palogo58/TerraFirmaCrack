@@ -8,19 +8,7 @@
       },
       {
         "type": "before",
-        "target": "tfccellars"
-      },
-      {
-        "type": "before",
-        "target": "DecorationsTFC"
-      },
-      {
-        "type": "before",
         "target": "MerchantsTFC"
-      },
-      {
-        "type": "before",
-        "target": "tfcwells"
       },
       {
         "type": "before",
@@ -196,10 +184,6 @@
       },
       {
         "type": "before",
-        "target": "HardcoreDarkness"
-      },
-      {
-        "type": "before",
         "target": "Ic2Nei"
       },
       {
@@ -229,10 +213,6 @@
       {
         "type": "before",
         "target": "journeymap"
-      },
-      {
-        "type": "before",
-        "target": "lwstfc"
       },
       {
         "type": "before",
